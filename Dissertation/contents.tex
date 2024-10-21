@@ -1,0 +1,13 @@
+% Оглавление (ГОСТ Р 7.0.11-2011, 5.2)
+\ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=false}}{} % не рекомендуется применять пакет микротипографики к автоматически генерируемому оглавлению
+
+% Переименование Содержания в Оглавление
+\renewcommand{\contentsname}{Оглавление}
+
+\begin{center} 
+    \tableofcontents*
+\end{center}
+
+\addtocontents{toc}{\protect}
+%\endTOCtrue
+\ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=true}}{}
