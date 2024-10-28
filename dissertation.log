@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  14 OCT 2024 17:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  28 OCT 2024 09:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/dissertation/dissertation
-(c:/dissertation/dissertation.tex
+**c:/git/Dissertation-mine/dissertation
+(c:/git/Dissertation-mine/dissertation.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (c:/texlive/2024/texmf-dist/tex/latex/memoir/memoir.cls
@@ -5450,7 +5450,7 @@ Package rerunfilecheck Warning: File `dissertation.out' has changed.
 Package rerunfilecheck Info: Checksums for `dissertation.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  9B98AE9574447EE65AFAAB6A08237491;34203.
-c:/dissertation/dissertation.tex:64: Missing $ inserted.
+c:/git/Dissertation-mine/dissertation.tex:64: Missing $ inserted.
 <inserted text> 
                 $
 l.64 \end{document}
@@ -5464,12 +5464,12 @@ my insertion and my current dilemma will both disappear.
  ) 
 Here is how much of TeX's memory you used:
  37335 strings out of 474360
- 687809 string characters out of 5751088
+ 687836 string characters out of 5751088
  1949908 words of memory out of 5000000
  58951 multiletter control sequences out of 15000+600000
  569197 words of font info for 62 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
- 94i,21n,98p,5416b,959s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,21n,98p,5425b,959s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
 Output written on dissertation.pdf (146 pages, 3269946 bytes).
 PDF statistics:
