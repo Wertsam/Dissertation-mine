@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  6 NOV 2024 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  20 NOV 2024 14:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1788,7 +1788,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [19.16]
-<images/Схема с обратной связью.png, id=433, 1394.20876pt x 505.89pt>
+<images/Схема с обратной связью.png, id=443, 1394.20876pt x 505.89pt>
 File: images/Схема с обратной связью.png Graphic file (type png)
 <use images/Схема с обратной связью.png>
 Package pdftex.def Info: images/Схема с обратной связью.png  used on input line 123.
@@ -1822,12 +1822,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [21.18{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./images/Схема с обратной связью.png>]
-<images/03.png, id=448, 509.2626pt x 389.7762pt>
+<images/03.png, id=458, 509.2626pt x 389.7762pt>
 File: images/03.png Graphic file (type png)
 <use images/03.png>
 Package pdftex.def Info: images/03.png  used on input line 138.
 (pdftex.def)             Requested size: 497.92325pt x 381.10378pt.
-<images/06.png, id=449, 509.2626pt x 495.2904pt>
+<images/06.png, id=459, 509.2626pt x 495.2904pt>
 File: images/06.png Graphic file (type png)
 <use images/06.png>
 Package pdftex.def Info: images/06.png  used on input line 145.
@@ -1875,12 +1875,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [24.21 <./images/03.png (PNG copy)>]
-<images/Гетеродин схема.png, id=470, 1394.20876pt x 424.58624pt>
+<images/Гетеродин схема.png, id=480, 1394.20876pt x 424.58624pt>
 File: images/Гетеродин схема.png Graphic file (type png)
 <use images/Гетеродин схема.png>
 Package pdftex.def Info: images/Гетеродин схема.png  used on input line 157.
 (pdftex.def)             Requested size: 497.92325pt x 151.63293pt.
-<images/balanced output heterodyne.png, id=471, 774.7344pt x 592.8549pt>
+<images/balanced output heterodyne.png, id=481, 774.7344pt x 592.8549pt>
 File: images/balanced output heterodyne.png Graphic file (type png)
 <use images/balanced output heterodyne.png>
 Package pdftex.def Info: images/balanced output heterodyne.png  used on input line 165.
@@ -1956,17 +1956,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [29.26]
-<images/1310 experiment.png, id=498, 773.89125pt x 406.51875pt>
+<images/1310 experiment.png, id=508, 773.89125pt x 406.51875pt>
 File: images/1310 experiment.png Graphic file (type png)
 <use images/1310 experiment.png>
 Package pdftex.def Info: images/1310 experiment.png  used on input line 177.
 (pdftex.def)             Requested size: 373.44243pt x 196.16887pt.
-<images/ватт ампер для диссера.png, id=499, 774.7344pt x 592.8549pt>
+<images/ватт ампер для диссера.png, id=509, 774.7344pt x 592.8549pt>
 File: images/ватт ампер для диссера.png Graphic file (type png)
 <use images/ватт ампер для диссера.png>
 Package pdftex.def Info: images/ватт ампер для диссера.png  used on input line 184.
 (pdftex.def)             Requested size: 373.44243pt x 285.77026pt.
-<images/Импульсы под действием 1310 для диссера.png, id=500, 774.7344pt x 592.8549pt>
+<images/Импульсы под действием 1310 для диссера.png, id=510, 774.7344pt x 592.8549pt>
 File: images/Импульсы под действием 1310 для диссера.png Graphic file (type png)
 <use images/Импульсы под действием 1310 для диссера.png>
 Package pdftex.def Info: images/Импульсы под действием 1310 для диссера.png  used on input line 191.
@@ -2014,7 +2014,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [32.29 <./images/Импульсы под действием 1310 для диссера.png (PNG copy)>]
-<images/Эффективность 1310.png, id=518, 244.5135pt x 187.1793pt>
+<images/Эффективность 1310.png, id=528, 244.5135pt x 187.1793pt>
 File: images/Эффективность 1310.png Graphic file (type png)
 <use images/Эффективность 1310.png>
 Package pdftex.def Info: images/Эффективность 1310.png  used on input line 198.
@@ -2034,17 +2034,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [33.30 <./images/Эффективность 1310.png (PNG copy)>]
-<images/setup_Faraday_Mirrors_final.pdf, id=524, 237.2634pt x 161.67722pt>
+<images/setup_Faraday_Mirrors_final.pdf, id=534, 237.2634pt x 161.67722pt>
 File: images/setup_Faraday_Mirrors_final.pdf Graphic file (type pdf)
 <use images/setup_Faraday_Mirrors_final.pdf>
 Package pdftex.def Info: images/setup_Faraday_Mirrors_final.pdf  used on input line 206.
 (pdftex.def)             Requested size: 448.12788pt x 305.38159pt.
-<images/area_under_attack.pdf, id=526, 244.915pt x 187.70125pt>
+<images/area_under_attack.pdf, id=536, 244.915pt x 187.70125pt>
 File: images/area_under_attack.pdf Graphic file (type pdf)
 <use images/area_under_attack.pdf>
 Package pdftex.def Info: images/area_under_attack.pdf  used on input line 215.
 (pdftex.def)             Requested size: 244.91438pt x 187.70079pt.
-<images/duration_change.pdf, id=528, 244.915pt x 187.70125pt>
+<images/duration_change.pdf, id=538, 244.915pt x 187.70125pt>
 File: images/duration_change.pdf Graphic file (type pdf)
 <use images/duration_change.pdf>
 Package pdftex.def Info: images/duration_change.pdf  used on input line 222.
@@ -2336,7 +2336,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [51.48]
-<images/B92 scheme from article.png, id=714, 557.58313pt x 119.44624pt>
+<images/B92 scheme from article.png, id=724, 557.58313pt x 119.44624pt>
 File: images/B92 scheme from article.png Graphic file (type png)
 <use images/B92 scheme from article.png>
 Package pdftex.def Info: images/B92 scheme from article.png  used on input line 67.
@@ -2398,7 +2398,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [55.52]
-<images/MDi scheme.png, id=736, 328.22626pt x 402.50375pt>
+<images/MDi scheme.png, id=746, 328.22626pt x 402.50375pt>
 File: images/MDi scheme.png Graphic file (type png)
 <use images/MDi scheme.png>
 Package pdftex.def Info: images/MDi scheme.png  used on input line 86.
@@ -2478,7 +2478,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [60.57 <./images/MDi scheme.png>]
-<images/mdi speed.png, id=761, 635.87563pt x 465.74pt>
+<images/mdi speed.png, id=771, 635.87563pt x 465.74pt>
 File: images/mdi speed.png Graphic file (type png)
 <use images/mdi speed.png>
 Package pdftex.def Info: images/mdi speed.png  used on input line 102.
@@ -2526,12 +2526,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [63.60]
-<images/TF schemes lit.jpg, id=785, 688.07062pt x 319.94531pt>
+<images/TF schemes lit.jpg, id=795, 688.07062pt x 319.94531pt>
 File: images/TF schemes lit.jpg Graphic file (type jpg)
 <use images/TF schemes lit.jpg>
 Package pdftex.def Info: images/TF schemes lit.jpg  used on input line 115.
 (pdftex.def)             Requested size: 497.92325pt x 231.52722pt.
-<images/TF experiment scheme.jpg, id=787, 934.99312pt x 395.22656pt>
+<images/TF experiment scheme.jpg, id=797, 934.99312pt x 395.22656pt>
 File: images/TF experiment scheme.jpg Graphic file (type jpg)
 <use images/TF experiment scheme.jpg>
 Package pdftex.def Info: images/TF experiment scheme.jpg  used on input line 123.
@@ -2630,7 +2630,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [69.66]
-<images/TF key rate lit.jpg, id=818, 493.0922pt x 369.63094pt>
+<images/TF key rate lit.jpg, id=828, 493.0922pt x 369.63094pt>
 File: images/TF key rate lit.jpg Graphic file (type jpg)
 <use images/TF key rate lit.jpg>
 Package pdftex.def Info: images/TF key rate lit.jpg  used on input line 144.
@@ -2714,7 +2714,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [73.70]
-<images/когеретное.png, id=845, 762.85pt x 302.12875pt>
+<images/когеретное.png, id=855, 762.85pt x 302.12875pt>
 File: images/когеретное.png Graphic file (type png)
 <use images/когеретное.png>
 Package pdftex.def Info: images/когеретное.png  used on input line 170.
@@ -2734,7 +2734,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [74.71]
-<images/гетеродин для обзора.png, id=851, 558.085pt x 346.29375pt>
+<images/гетеродин для обзора.png, id=861, 558.085pt x 346.29375pt>
 File: images/гетеродин для обзора.png Graphic file (type png)
 <use images/гетеродин для обзора.png>
 Package pdftex.def Info: images/гетеродин для обзора.png  used on input line 188.
@@ -2848,7 +2848,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [81.78]
-<images/gg02 lit.png, id=896, 585.68813pt x 379.4175pt>
+<images/gg02 lit.png, id=906, 585.68813pt x 379.4175pt>
 File: images/gg02 lit.png Graphic file (type png)
 <use images/gg02 lit.png>
 Package pdftex.def Info: images/gg02 lit.png  used on input line 227.
@@ -2929,7 +2929,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [86.83]
-<images/QKD CV LLO.png, id=926, 554.07pt x 236.38312pt>
+<images/QKD CV LLO.png, id=936, 554.07pt x 236.38312pt>
 File: images/QKD CV LLO.png Graphic file (type png)
 <use images/QKD CV LLO.png>
 Package pdftex.def Info: images/QKD CV LLO.png  used on input line 246.
@@ -3071,7 +3071,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[94.91])
+[94.91]
+
+LaTeX Warning: Citation `jouguet2013' on page 95 undefined on input line 299.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3086,6 +3090,40 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [95.92]
+<images/CV_attack.png, id=986, 390.45876pt x 259.46938pt>
+File: images/CV_attack.png Graphic file (type png)
+<use images/CV_attack.png>
+Package pdftex.def Info: images/CV_attack.png  used on input line 312.
+(pdftex.def)             Requested size: 497.92325pt x 330.89627pt.
+)
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[96.93]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[97.94 <./images/CV_attack.png>]
 \openout2 = `Dissertation/part2.aux'.
 
  (./Dissertation/part2.tex
@@ -3102,48 +3140,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[96.93
+[98.95
 
 
 
 
 ]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[97.94]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[98.95]
-
-Package amsmath Warning: Cannot use `split' here;
-(amsmath)                trying to recover with `aligned' on input line 52.
-
-
-LaTeX Warning: Reference `sec:inclofspontemission' on page 99 undefined on input line 54.
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3172,11 +3174,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [100.97]
-<images/Схема с обратной связью новая 2 .png, id=1017, 1858.945pt x 674.52pt>
-File: images/Схема с обратной связью новая 2 .png Graphic file (type png)
-<use images/Схема с обратной связью новая 2 .png>
-Package pdftex.def Info: images/Схема с обратной связью новая 2 .png  used on input line 83.
-(pdftex.def)             Requested size: 497.92325pt x 180.67162pt.
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 52.
+
 
 
 
@@ -3205,24 +3206,111 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[102.99 <./images/Схема с обратной связью новая 2 .png>]
-<images/сигнал после бд с новыми шкалами.png, id=1029, 492.1587pt x 376.5267pt>
+[102.99]
+<images/spectum_laser_injection.png, id=1041, 245.91875pt x 203.76125pt>
+File: images/spectum_laser_injection.png Graphic file (type png)
+<use images/spectum_laser_injection.png>
+Package pdftex.def Info: images/spectum_laser_injection.png  used on input line 90.
+(pdftex.def)             Requested size: 497.92325pt x 412.58316pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[103.100]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[104.101 <./images/spectum_laser_injection.png>]
+Overfull \hbox (23.84462pt too wide) detected at line 112
+[]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[105.102]
+<images/Схема с обратной связью новая 2 .png, id=1066, 1858.945pt x 674.52pt>
+File: images/Схема с обратной связью новая 2 .png Graphic file (type png)
+<use images/Схема с обратной связью новая 2 .png>
+Package pdftex.def Info: images/Схема с обратной связью новая 2 .png  used on input line 135.
+(pdftex.def)             Requested size: 497.92325pt x 180.67162pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[106.103]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[107.104 <./images/Схема с обратной связью новая 2 .png>]
+<images/сигнал после бд с новыми шкалами.png, id=1079, 492.1587pt x 376.5267pt>
 File: images/сигнал после бд с новыми шкалами.png Graphic file (type png)
 <use images/сигнал после бд с новыми шкалами.png>
-Package pdftex.def Info: images/сигнал после бд с новыми шкалами.png  used on input line 93.
+Package pdftex.def Info: images/сигнал после бд с новыми шкалами.png  used on input line 145.
 (pdftex.def)             Requested size: 497.92325pt x 380.93243pt.
 File: images/сигнал после бд с новыми шкалами.png Graphic file (type png)
 <use images/сигнал после бд с новыми шкалами.png>
-Package pdftex.def Info: images/сигнал после бд с новыми шкалами.png  used on input line 100.
+Package pdftex.def Info: images/сигнал после бд с новыми шкалами.png  used on input line 152.
 (pdftex.def)             Requested size: 497.92325pt x 380.93243pt.
-<images/05.png, id=1032, 509.2626pt x 389.5353pt>
+<images/05.png, id=1082, 509.2626pt x 389.5353pt>
 File: images/05.png Graphic file (type png)
 <use images/05.png>
-Package pdftex.def Info: images/05.png  used on input line 107.
+Package pdftex.def Info: images/05.png  used on input line 159.
 (pdftex.def)             Requested size: 497.92325pt x 380.86823pt.
 File: images/06.png Graphic file (type png)
 <use images/06.png>
-Package pdftex.def Info: images/06.png  used on input line 115.
+Package pdftex.def Info: images/06.png  used on input line 167.
 (pdftex.def)             Requested size: 348.54475pt x 338.9847pt.
 
 
@@ -3238,7 +3326,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[103.100])
+[108.105])
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3252,91 +3340,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[104.101 <./images/сигнал после бд с новыми шкалами.png (PNG copy)>]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[105.102]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[106.103 <./images/05.png (PNG copy)>]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[107.104]
-\openout2 = `Dissertation/part3.aux'.
-
- (./Dissertation/part3.tex
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[108.105
-
-
-
-
-]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[109.106]
-<images/Гетеродин схема новая2 .png, id=1073, 2069.7325pt x 704.6325pt>
-File: images/Гетеродин схема новая2 .png Graphic file (type png)
-<use images/Гетеродин схема новая2 .png>
-Package pdftex.def Info: images/Гетеродин схема новая2 .png  used on input line 28.
-(pdftex.def)             Requested size: 497.92325pt x 169.51308pt.
-
+[109.106 <./images/сигнал после бд с новыми шкалами.png (PNG copy)>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3364,12 +3368,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[111.108]
-Overfull \hbox (23.84462pt too wide) detected at line 49
-[]
- []
-
-
+[111.108 <./images/05.png (PNG copy)>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3383,18 +3382,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[112.109 <./images/Гетеродин схема новая2 .png>]
-<images/Spectrum of ruined polarization.png, id=1101, 284.5029pt x 178.5069pt>
-File: images/Spectrum of ruined polarization.png Graphic file (type png)
-<use images/Spectrum of ruined polarization.png>
-Package pdftex.def Info: images/Spectrum of ruined polarization.png  used on input line 70.
-(pdftex.def)             Requested size: 497.92325pt x 312.41623pt.
-<images/normal polarization.png, id=1103, 284.5029pt x 178.5069pt>
-File: images/normal polarization.png Graphic file (type png)
-<use images/normal polarization.png>
-Package pdftex.def Info: images/normal polarization.png  used on input line 77.
-(pdftex.def)             Requested size: 497.92325pt x 312.41623pt.
+[112.109]
+\openout2 = `Dissertation/part3.aux'.
 
+ (./Dissertation/part3.tex
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3408,112 +3399,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[113.110]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[114.111 <./images/Spectrum of ruined polarization.png (PNG copy)>]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[115.112 <./images/normal polarization.png (PNG copy)>]
-<images/толстые линии и исправлены названия сигнал после детектирования.png, id=1126, 284.5029pt x 217.5327pt>
-File: images/толстые линии и исправлены названия сигнал после детектирования.png Graphic file (type png)
-<use images/толстые линии и исправлены названия сигнал после детектирования.png>
-Package pdftex.def Info: images/толстые линии и исправлены названия сигнал после детектирования.png  used on input line 106.
-(pdftex.def)             Requested size: 284.5022pt x 217.53215pt.
-
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[116.113]
-
-LaTeX Warning: Reference `label' on page 117 undefined on input line 113.
-
-)
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[117.114 <./images/толстые линии и исправлены названия сигнал после детектирования.png (PNG copy)>]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[118.115]
-\openout2 = `Dissertation/part4.aux'.
-
- (./Dissertation/part4.tex
-
-pdfTeX warning: pdflatex.exe (file ./images/1310 experiment (3).pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<images/1310 experiment (3).pdf, id=1144, 244.915pt x 162.6075pt>
-File: images/1310 experiment (3).pdf Graphic file (type pdf)
-<use images/1310 experiment (3).pdf>
-Package pdftex.def Info: images/1310 experiment (3).pdf  used on input line 11.
-(pdftex.def)             Requested size: 244.91438pt x 162.6071pt.
-
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[119.116
+[113.110
 
 
 
@@ -3532,7 +3418,228 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[120.117 <./images/1310 experiment (3).pdf>]
+[114.111]
+<images/Гетеродин схема новая2 .png, id=1123, 2069.7325pt x 704.6325pt>
+File: images/Гетеродин схема новая2 .png Graphic file (type png)
+<use images/Гетеродин схема новая2 .png>
+Package pdftex.def Info: images/Гетеродин схема новая2 .png  used on input line 28.
+(pdftex.def)             Requested size: 497.92325pt x 169.51308pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[115.112]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[116.113]
+Overfull \hbox (23.84462pt too wide) detected at line 49
+[]
+ []
+
+
+Overfull \hbox (662.45464pt too wide) detected at line 63
+[][][][][]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[117.114 <./images/Гетеродин схема новая2 .png>]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[118.115]
+<images/Spectrum of ruined polarization.png, id=1157, 284.5029pt x 178.5069pt>
+File: images/Spectrum of ruined polarization.png Graphic file (type png)
+<use images/Spectrum of ruined polarization.png>
+Package pdftex.def Info: images/Spectrum of ruined polarization.png  used on input line 78.
+(pdftex.def)             Requested size: 497.92325pt x 312.41623pt.
+<images/normal polarization.png, id=1159, 284.5029pt x 178.5069pt>
+File: images/normal polarization.png Graphic file (type png)
+<use images/normal polarization.png>
+Package pdftex.def Info: images/normal polarization.png  used on input line 85.
+(pdftex.def)             Requested size: 497.92325pt x 312.41623pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[119.116]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[120.117 <./images/Spectrum of ruined polarization.png (PNG copy)>]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[121.118 <./images/normal polarization.png (PNG copy)>]
+<images/толстые линии и исправлены названия сигнал после детектирования.png, id=1180, 284.5029pt x 217.5327pt>
+File: images/толстые линии и исправлены названия сигнал после детектирования.png Graphic file (type png)
+<use images/толстые линии и исправлены названия сигнал после детектирования.png>
+Package pdftex.def Info: images/толстые линии и исправлены названия сигнал после детектирования.png  used on input line 114.
+(pdftex.def)             Requested size: 284.5022pt x 217.53215pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[122.119]
+
+LaTeX Warning: Reference `label' on page 123 undefined on input line 121.
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[123.120 <./images/толстые линии и исправлены названия сигнал после детектирования.png (PNG copy)>]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[124.121]
+\openout2 = `Dissertation/part4.aux'.
+
+ (./Dissertation/part4.tex
+
+pdfTeX warning: pdflatex.exe (file ./images/1310 experiment (3).pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<images/1310 experiment (3).pdf, id=1198, 244.915pt x 162.6075pt>
+File: images/1310 experiment (3).pdf Graphic file (type pdf)
+<use images/1310 experiment (3).pdf>
+Package pdftex.def Info: images/1310 experiment (3).pdf  used on input line 11.
+(pdftex.def)             Requested size: 244.91438pt x 162.6071pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[125.122
+
+
+
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[126.123 <./images/1310 experiment (3).pdf>]
 File: images/ватт ампер для диссера.png Graphic file (type png)
 <use images/ватт ампер для диссера.png>
 Package pdftex.def Info: images/ватт ампер для диссера.png  used on input line 24.
@@ -3551,7 +3658,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[121.118]
+[127.124]
 File: images/Эффективность 1310.png Graphic file (type png)
 <use images/Эффективность 1310.png>
 Package pdftex.def Info: images/Эффективность 1310.png  used on input line 37.
@@ -3570,17 +3677,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[122.119]
+[128.125]
 File: images/Импульсы под действием 1310 для диссера.png Graphic file (type png)
 <use images/Импульсы под действием 1310 для диссера.png>
 Package pdftex.def Info: images/Импульсы под действием 1310 для диссера.png  used on input line 47.
 (pdftex.def)             Requested size: 497.92325pt x 381.02702pt.
-<images/1310_энергия.png, id=1203, 244.5135pt x 244.5135pt>
+<images/1310_энергия.png, id=1258, 244.5135pt x 244.5135pt>
 File: images/1310_энергия.png Graphic file (type png)
 <use images/1310_энергия.png>
 Package pdftex.def Info: images/1310_энергия.png  used on input line 54.
 (pdftex.def)             Requested size: 497.92325pt x 497.94653pt.
-<images/1310_мощность.png, id=1205, 244.5135pt x 244.5135pt>
+<images/1310_мощность.png, id=1260, 244.5135pt x 244.5135pt>
 File: images/1310_мощность.png Graphic file (type png)
 <use images/1310_мощность.png>
 Package pdftex.def Info: images/1310_мощность.png  used on input line 62.
@@ -3599,113 +3706,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[123.120]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[124.121]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[125.122 <./images/1310_энергия.png (PNG copy)>]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[126.123 <./images/1310_мощность.png (PNG copy)>]
-<images/spectra_1310_iso.pdf, id=1229, 244.915pt x 128.48pt>
-File: images/spectra_1310_iso.pdf Graphic file (type pdf)
-<use images/spectra_1310_iso.pdf>
-Package pdftex.def Info: images/spectra_1310_iso.pdf  used on input line 83.
-(pdftex.def)             Requested size: 497.92325pt x 261.2135pt.
-
-
-LaTeX Warning: Citation `makarov2023' on page 127 undefined on input line 89.
-
-<images/Qrate-Alice.pdf, id=1231, 244.915pt x 86.3225pt>
-File: images/Qrate-Alice.pdf Graphic file (type pdf)
-<use images/Qrate-Alice.pdf>
-Package pdftex.def Info: images/Qrate-Alice.pdf  used on input line 92.
-(pdftex.def)             Requested size: 497.92325pt x 175.50279pt.
-
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[127.124]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[128.125 <./images/spectra_1310_iso.pdf>]
-
-LaTeX Warning: Citation `makarov2023' on page 129 undefined on input line 125.
-
-
-LaTeX Warning: Citation `makarov2023' on page 129 undefined on input line 128.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[129.126 <./images/Qrate-Alice.pdf>])
+[129.126]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3733,36 +3734,69 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[131.128]
-\openout2 = `Dissertation/part5.aux'.
-
- (./Dissertation/part5.tex
-
-LaTeX Warning: Citation `sun2022' on page 132 undefined on input line 4.
+[131.128 <./images/1310_энергия.png (PNG copy)>]
 
 
-LaTeX Warning: Citation `makarov2023' on page 132 undefined on input line 4.
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
 
-LaTeX Warning: Citation `zahidy2024' on page 132 undefined on input line 6.
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[132.129 <./images/1310_мощность.png (PNG copy)>]
+<images/spectra_1310_iso.pdf, id=1284, 244.915pt x 128.48pt>
+File: images/spectra_1310_iso.pdf Graphic file (type pdf)
+<use images/spectra_1310_iso.pdf>
+Package pdftex.def Info: images/spectra_1310_iso.pdf  used on input line 83.
+(pdftex.def)             Requested size: 497.92325pt x 261.2135pt.
 
 
-LaTeX Warning: Citation `huang2019' on page 132 undefined on input line 7.
+LaTeX Warning: Citation `makarov2023' on page 133 undefined on input line 89.
+
+<images/Qrate-Alice.pdf, id=1286, 244.915pt x 86.3225pt>
+File: images/Qrate-Alice.pdf Graphic file (type pdf)
+<use images/Qrate-Alice.pdf>
+Package pdftex.def Info: images/Qrate-Alice.pdf  used on input line 92.
+(pdftex.def)             Requested size: 497.92325pt x 175.50279pt.
 
 
-LaTeX Warning: Citation `pang2020' on page 132 undefined on input line 7.
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
 
-LaTeX Warning: Citation `lovic2023' on page 132 undefined on input line 7.
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[133.130]
 
 
-LaTeX Warning: Citation `huang2019' on page 132 undefined on input line 7.
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
 
-LaTeX Warning: Citation `pang2020' on page 132 undefined on input line 7.
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[134.131 <./images/spectra_1310_iso.pdf>]
+
+LaTeX Warning: Citation `makarov2023' on page 135 undefined on input line 125.
 
 
-LaTeX Warning: Citation `lovic2023' on page 132 undefined on input line 7.
+LaTeX Warning: Citation `makarov2023' on page 135 undefined on input line 128.
 
 
 
@@ -3778,28 +3812,101 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[132.129
+[135.132 <./images/Qrate-Alice.pdf>])
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[136.133]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[137.134]
+\openout2 = `Dissertation/part5.aux'.
+
+ (./Dissertation/part5.tex
+
+LaTeX Warning: Citation `sun2022' on page 138 undefined on input line 4.
+
+
+LaTeX Warning: Citation `makarov2023' on page 138 undefined on input line 4.
+
+
+LaTeX Warning: Citation `zahidy2024' on page 138 undefined on input line 6.
+
+
+LaTeX Warning: Citation `huang2019' on page 138 undefined on input line 7.
+
+
+LaTeX Warning: Citation `pang2020' on page 138 undefined on input line 7.
+
+
+LaTeX Warning: Citation `lovic2023' on page 138 undefined on input line 7.
+
+
+LaTeX Warning: Citation `huang2019' on page 138 undefined on input line 7.
+
+
+LaTeX Warning: Citation `pang2020' on page 138 undefined on input line 7.
+
+
+LaTeX Warning: Citation `lovic2023' on page 138 undefined on input line 7.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[138.135
 
 
 
 
 ]
 
-LaTeX Warning: Citation `wei2020' on page 133 undefined on input line 9.
+LaTeX Warning: Citation `wei2020' on page 139 undefined on input line 9.
 
 
-LaTeX Warning: Citation `woodward2021' on page 133 undefined on input line 9.
+LaTeX Warning: Citation `woodward2021' on page 139 undefined on input line 9.
 
 
-LaTeX Warning: Citation `comandar2016a' on page 133 undefined on input line 11.
+LaTeX Warning: Citation `comandar2016a' on page 139 undefined on input line 11.
 
 
-LaTeX Warning: Citation `xie2019' on page 133 undefined on input line 11.
+LaTeX Warning: Citation `xie2019' on page 139 undefined on input line 11.
 
 
 
 pdfTeX warning: pdflatex.exe (file ./images/StabilityDiagramsFreq.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/StabilityDiagramsFreq.pdf, id=1535, 540.70004pt x 284.62335pt>
+<images/StabilityDiagramsFreq.pdf, id=1589, 540.70004pt x 284.62335pt>
 File: images/StabilityDiagramsFreq.pdf Graphic file (type pdf)
 <use images/StabilityDiagramsFreq.pdf>
 Package pdftex.def Info: images/StabilityDiagramsFreq.pdf  used on input line 15.
@@ -3823,12 +3930,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[133.130]
+[139.136]
 
-LaTeX Warning: Citation `liu2020' on page 134 undefined on input line 24.
+LaTeX Warning: Citation `liu2020' on page 140 undefined on input line 24.
 
 
-LaTeX Warning: Citation `lau2008' on page 134 undefined on input line 26.
+LaTeX Warning: Citation `lau2008' on page 140 undefined on input line 26.
 
 
 LaTeX Warning: Reference `fig:injection_stab' on page 1 undefined on input line 26.
@@ -3847,12 +3954,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[134.131 <./images/StabilityDiagramsFreq.pdf>]
+[140.137 <./images/StabilityDiagramsFreq.pdf>]
 
 LaTeX Warning: Reference `fig:injection_stab' on page 1 undefined on input line 56.
 
 
-LaTeX Warning: Citation `wang2013' on page 135 undefined on input line 56.
+LaTeX Warning: Citation `wang2013' on page 141 undefined on input line 56.
 
 
 
@@ -3868,15 +3975,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[135.132]
+[141.138]
 
-LaTeX Warning: Citation `chen2022' on page 136 undefined on input line 60.
-
-
-LaTeX Warning: Citation `shakhovoy2020' on page 136 undefined on input line 63.
+LaTeX Warning: Citation `chen2022' on page 142 undefined on input line 60.
 
 
-LaTeX Warning: Citation `shakhovoy2021' on page 136 undefined on input line 63.
+LaTeX Warning: Citation `shakhovoy2020' on page 142 undefined on input line 63.
+
+
+LaTeX Warning: Citation `shakhovoy2021' on page 142 undefined on input line 63.
 
 
 
@@ -3892,20 +3999,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[136.133]
+[142.139]
 
-LaTeX Warning: Citation `shakhovoy2021' on page 137 undefined on input line 67.
+LaTeX Warning: Citation `shakhovoy2021' on page 143 undefined on input line 67.
 
-<images/PDF.png, id=1598, 220.49042pt x 189.70876pt>
+<images/PDF.png, id=1652, 220.49042pt x 189.70876pt>
 File: images/PDF.png Graphic file (type png)
 <use images/PDF.png>
 Package pdftex.def Info: images/PDF.png  used on input line 69.
 (pdftex.def)             Requested size: 220.48987pt x 189.70828pt.
 
-LaTeX Warning: Citation `shakhovoy2021' on page 137 undefined on input line 70.
+LaTeX Warning: Citation `shakhovoy2021' on page 143 undefined on input line 70.
 
 
-LaTeX Warning: Citation `shakhovoy2021' on page 137 undefined on input line 70.
+LaTeX Warning: Citation `shakhovoy2021' on page 143 undefined on input line 70.
 
 
 
@@ -3921,8 +4028,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[137.134]
-<images/setup.pdf, id=1606, 237.26341pt x 161.67723pt>
+[143.140]
+<images/setup.pdf, id=1660, 237.26341pt x 161.67723pt>
 File: images/setup.pdf Graphic file (type pdf)
 <use images/setup.pdf>
 Package pdftex.def Info: images/setup.pdf  used on input line 84.
@@ -3941,8 +4048,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[138.135 <./images/PDF.png>]
-<images/spectra.pdf, id=1615, 244.915pt x 187.70125pt>
+[144.141 <./images/PDF.png>]
+<images/spectra.pdf, id=1669, 244.915pt x 187.70125pt>
 File: images/spectra.pdf Graphic file (type pdf)
 <use images/spectra.pdf>
 Package pdftex.def Info: images/spectra.pdf  used on input line 98.
@@ -3961,8 +4068,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[139.136 <./images/setup.pdf>]
-<images/envelope.pdf, id=1661, 244.915pt x 187.70125pt>
+[145.142 <./images/setup.pdf>]
+<images/envelope.pdf, id=1716, 244.915pt x 187.70125pt>
 File: images/envelope.pdf Graphic file (type pdf)
 <use images/envelope.pdf>
 Package pdftex.def Info: images/envelope.pdf  used on input line 104.
@@ -3985,7 +4092,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[140.137 <./images/spectra.pdf>]
+[146.143 <./images/spectra.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -3999,16 +4106,16 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[141.138 <./images/envelope.pdf>]
+[147.144 <./images/envelope.pdf>]
 
-LaTeX Warning: Citation `huang2020' on page 142 undefined on input line 118.
+LaTeX Warning: Citation `huang2020' on page 148 undefined on input line 118.
 
-<images/master_power.pdf, id=1712, 244.915pt x 187.70125pt>
+<images/master_power.pdf, id=1766, 244.915pt x 187.70125pt>
 File: images/master_power.pdf Graphic file (type pdf)
 <use images/master_power.pdf>
 Package pdftex.def Info: images/master_power.pdf  used on input line 123.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_initial.pdf, id=1713, 774.895pt x 593.21625pt>
+<images/hist_initial.pdf, id=1767, 774.895pt x 593.21625pt>
 File: images/hist_initial.pdf Graphic file (type pdf)
 <use images/hist_initial.pdf>
 Package pdftex.def Info: images/hist_initial.pdf  used on input line 129.
@@ -4027,13 +4134,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[142.139]
-<images/spectra_att.pdf, id=1719, 244.915pt x 187.70125pt>
+[148.145]
+<images/spectra_att.pdf, id=1773, 244.915pt x 187.70125pt>
 File: images/spectra_att.pdf Graphic file (type pdf)
 <use images/spectra_att.pdf>
 Package pdftex.def Info: images/spectra_att.pdf  used on input line 135.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/envelope_att.pdf, id=1720, 244.915pt x 187.70125pt>
+<images/envelope_att.pdf, id=1774, 244.915pt x 187.70125pt>
 File: images/envelope_att.pdf Graphic file (type pdf)
 <use images/envelope_att.pdf>
 Package pdftex.def Info: images/envelope_att.pdf  used on input line 141.
@@ -4052,7 +4159,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[143.140 <./images/master_power.pdf>]
+[149.146 <./images/master_power.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4066,7 +4173,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[144.141 <./images/hist_initial.pdf>]
+[150.147 <./images/hist_initial.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4080,7 +4187,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[145.142 <./images/spectra_att.pdf>]
+[151.148 <./images/spectra_att.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4094,8 +4201,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[146.143 <./images/envelope_att.pdf>]
-<images/average_power.pdf, id=1943, 244.915pt x 187.70125pt>
+[152.149 <./images/envelope_att.pdf>]
+<images/average_power.pdf, id=1998, 244.915pt x 187.70125pt>
 File: images/average_power.pdf Graphic file (type pdf)
 <use images/average_power.pdf>
 Package pdftex.def Info: images/average_power.pdf  used on input line 167.
@@ -4114,7 +4221,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[147.144]
+[153.150]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4128,8 +4235,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[148.145 <./images/average_power.pdf>]
-<images/amplitude_change.pdf, id=1994, 244.915pt x 187.70125pt>
+[154.151 <./images/average_power.pdf>]
+<images/amplitude_change.pdf, id=2048, 244.915pt x 187.70125pt>
 File: images/amplitude_change.pdf Graphic file (type pdf)
 <use images/amplitude_change.pdf>
 Package pdftex.def Info: images/amplitude_change.pdf  used on input line 177.
@@ -4142,12 +4249,12 @@ File: images/area_under_attack.pdf Graphic file (type pdf)
 <use images/area_under_attack.pdf>
 Package pdftex.def Info: images/area_under_attack.pdf  used on input line 187.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_attack_11.pdf, id=1995, 244.915pt x 187.70125pt>
+<images/hist_attack_11.pdf, id=2049, 244.915pt x 187.70125pt>
 File: images/hist_attack_11.pdf Graphic file (type pdf)
 <use images/hist_attack_11.pdf>
 Package pdftex.def Info: images/hist_attack_11.pdf  used on input line 194.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_attack_01.pdf, id=1996, 244.915pt x 187.70125pt>
+<images/hist_attack_01.pdf, id=2050, 244.915pt x 187.70125pt>
 File: images/hist_attack_01.pdf Graphic file (type pdf)
 <use images/hist_attack_01.pdf>
 Package pdftex.def Info: images/hist_attack_01.pdf  used on input line 199.
@@ -4166,7 +4273,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[149.146 <./images/amplitude_change.pdf>]
+[155.152 <./images/amplitude_change.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4180,7 +4287,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[150.147]
+[156.153]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4194,8 +4301,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[151.148]
-<images/WL_Eve.pdf, id=2030, 244.915pt x 187.70125pt>
+[157.154]
+<images/WL_Eve.pdf, id=2084, 244.915pt x 187.70125pt>
 File: images/WL_Eve.pdf Graphic file (type pdf)
 <use images/WL_Eve.pdf>
 Package pdftex.def Info: images/WL_Eve.pdf  used on input line 215.
@@ -4214,7 +4321,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[152.149 <./images/hist_attack_11.pdf>]
+[158.155 <./images/hist_attack_11.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4228,7 +4335,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[153.150 <./images/hist_attack_01.pdf> <./images/WL_Eve.pdf
+[159.156 <./images/hist_attack_01.pdf> <./images/WL_Eve.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/WL_Eve.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >])
@@ -4245,7 +4352,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[154.151]
+[160.157]
 \openout2 = `Dissertation/conclusion.aux'.
 
  (./Dissertation/conclusion.tex)
@@ -4262,7 +4369,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[155.152
+[161.158
 
 
 
@@ -4476,7 +4583,9 @@ images/когеретное.png
 images/гетеродин для обзора.png
 images/gg02 lit.png
 images/QKD CV LLO.png
+images/CV_attack.png
 Dissertation/part2.tex
+images/spectum_laser_injection.png
 images/Схема с обратной связью новая 2 .png
 images/сигнал после бд с новыми шкалами.png
 images/сигнал после бд с новыми шкалами.png
@@ -4521,21 +4630,21 @@ Dissertation/references.tex
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 9B98AE9574447EE65AFAAB6A08237491;34203.
+(rerunfilecheck)             Checksum: BA68309ECF32F92106D1D80AEC0DEE21;35866.
  ) 
 Here is how much of TeX's memory you used:
- 37434 strings out of 474360
- 689720 string characters out of 5751088
+ 37490 strings out of 474360
+ 690852 string characters out of 5751088
  1950908 words of memory out of 5000000
- 59016 multiletter control sequences out of 15000+600000
+ 59052 multiletter control sequences out of 15000+600000
  569197 words of font info for 62 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
  94i,21n,98p,5416b,1044s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on dissertation.pdf (152 pages, 3314664 bytes).
+Output written on dissertation.pdf (158 pages, 3396996 bytes).
 PDF statistics:
- 2274 PDF objects out of 2487 (max. 8388607)
- 1766 compressed objects within 18 object streams
- 376 named destinations out of 1000 (max. 500000)
- 799 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2332 PDF objects out of 2487 (max. 8388607)
+ 1812 compressed objects within 19 object streams
+ 396 named destinations out of 1000 (max. 500000)
+ 831 words of extra memory for PDF output out of 10000 (max. 10000000)
 

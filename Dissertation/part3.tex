@@ -43,16 +43,24 @@ S(t) = (1+ m\sin(\Omega t  + \phi (t))),
 
 Лазерное излучение после модуляции выглядит следующим образом:
 \begin{align}
-\label{eq:laser}
+\label{eq:laser_het}
 F_s(t) &= F(t) * S(t) = A_0 * \sin(\omega_0 t + \phi_0) + \frac{A_0 * m}{2} * (\cos((\omega_0 + \Omega)t + (\phi_0 + \phi (t))) - \notag \\
 &- \frac{A_0 * m}{2} * (\cos((\omega_0 - \Omega)t + (\phi_0 - \phi (t))),
 \end{align}
 
 Результат квадратичного детектирования сигнала, полученного в выражении~\eqref{eq:laser} будет выглядеть следующим образом:
-\begin{align}
-F_d(t) &= F(t)^2 * S(t)^2 = (A_0 * \sin (\omega_0 t + \phi_0))^2 * (1 + m*\sin (\Omega t + \phi_0 + \phi (t))^2=\notag \\
-&= \frac{1}{8}\bigg \{4A_0^2 + 2A_0^2 *m^2 - 4A_0^2\cos(2\omega t + 2\phi_0) - 2A_0^2*m^2\cos(2\omega t + 2\phi_0) - \notag \\ & - 2A_0^2*m^2\cos(2\Omega t + 2\phi(t))  + A_0^2*m^2\cos(2\omega t - 2\Omega t + 2\phi_0 - 2\phi(t)) + \notag \\ & + A_0^2*m^2\cos(2\omega t + 2\Omega t + 2\phi_0 + 2\phi(t)) + 8A_0^2m\sin(\Omega t + 2\phi(t)) -\notag \\ & + 4A_0^2m\sin(2\omega t - \Omega t +2\phi_0 - \phi(t)) - 4A_0^2m\sin(2\omega t + \Omega t + 2\phi_0 + \phi(t))   \bigg\},
-\end{align}
+\begin{equation}
+    \begin{aligned}
+        &F_d(t) = (F(t) * S(t) * F_{het}(t))^2 =
+        &\frac{A_{sig}^2*A_{het}^2}{4} + \frac{A_{sig}^2*A_{het}^2 * m^2}{8}
+        +\frac{A_{sig}^2*A_{het}^2}{4}*\cos(2ft +2\phi)+\frac{A_{sig}^2*A_{het}^2 *m^2}{8}*\cos(2ft+2\phi)+ \\ 
+        &+\frac{A_{sig}^2 *A_{het}^2}{8} * \cos(2ft - 2\omega t) +\frac{A_{sig}^2 *A_{het}^2}{16} * \cos(2ft - 2\omega t)+\\ 
+        &+\frac{A_{sig}^2*A_{het}^2}{4}*\cos(2\omega*t +2\phi) +\frac{A_{sig}^2*A_{het}^2 *m^2}{8}*\cos(2\omega*t +2\phi)+  \\&
+        +\frac{A_{sig}^2*A_{het}^2}{8} + \cos(2ft + 2\omega t + 2\phi) 
+        + \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2ft + 2\omega t +4\phi) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m ^2}{8} * \cos(2\Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2ft - 2\Omega t + 2\phi) -  \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft - 2\omega t - 2\Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16}* \cos(2\omega t - 2\Omega t) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32}* \cos(2ft + 2\omega t - 2\Omega t + 4\phi) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2ft + 2\Omega t +2\phi) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft - 2\omega t + 2\Omega t) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2\omega t + 2\Omega t + 2\phi) -,
+        \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft - 2\omega t + 2\Omega t) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2\omega t + 2\Omega t + 2\phi) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft + 2\omega t + 2\Omega t + 4\phi)   +   \\& + \frac{A_{sig}^2 * A_{het}^2 * m}{2}* \sin(\Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m}{4} * \sin(2ft - \omega t + 2\phi) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft - 2\omega t - \Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m}{4}* \sin(2\omega t - \Omega t + 2\phi) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft + 2\omega t - \Omega t + 4\phi) + \frac{A_{sig}^2 * A_{het}^2 * m}{2ft + \Omega t + 2\phi} + \\&  +\frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft - 2\omega t + \Omega t) + \frac{A_{sig}^2 * A_{het}^2 * m}{4} * \sin(2\omega t + \Omega t + 2\phi) + \\& + \frac{A_{sig}^2 * A_{het}^2 * m}{8} * sin(2ft + 2\omega t + \Omega t + 4\phi)
+        \end{aligned}
+    \end{equation}\label{eq:het_math_true}
 В результате ток, протекающий через фотодиод, будет определяться выражением:
 \begin{align}
    I &= R(\lambda)G C F_d,
@@ -111,6 +119,7 @@ F_d(t) &= F(t)^2 * S(t)^2 = (A_0 * \sin (\omega_0 t + \phi_0))^2 * (1 + m*\sin (
 В рамках данной работы предлагается программно фильтровать огибающую, которая соответствует частоте $(\omega_{LO} -(\omega_{car} - \Omega_{mod})$, так как она попадает в полосу пропускания балансного детектора. 
 
 В результате работы данной системы на выходе балансного детектора формируются сигналы на промежуточных частотах, которые соответствуют разности частот локального осциллятора и частот сигналов, пришедших от Алисы. Спектр сигнала изображен на рисунке \ref*{label}
+
 \section{Определение фазового шума}\label{sec:ch3/sect9}
 
 \section{Выводы по главе}\label{sec:ch3/sect10}
