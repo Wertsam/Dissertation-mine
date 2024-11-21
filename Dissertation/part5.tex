@@ -95,13 +95,13 @@
 На лазерные диоды подается ток смещения от лабораторного источника питания (E3648A, Keysight) с напряжением смещения около 1.2-1.4 В и током 2-4 мА. Для получения оптических импульсов с частотой повторения 10.035 МГц ведущий и ведомый лазерные диоды управляются по отдельности двумя цифровыми генераторами задержки и импульсов (P400, Highland Technology). Электрические импульсы подаются в виде прямоугольников с амплитудой - 5 В и длительностью 2.7 нс и 1.9 нс  для управления ведущим и ведомым лазерами, соответственно. Для идеальной формы импульса время прихода ведущего импульса на ведомый диод должно быть немного раньше, чем электрический импульс привода ведомого. Такое согласование времени было достигнуто точной настройкой времени задержки между ПГ с разрешением задержки 1 пс. Время задержки для ведомого лазера составило 7.6 нс
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{spectra}
+	\includegraphics[width=\linewidth]{spectra}
 	\caption{Спектры лазерных диолов мастера, слейва и источника излучения для КРК}
 \end{figure}\label{fig:QKD_source_spectra}
 
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{envelope}
+	\includegraphics[width=\linewidth]{envelope}
 	\caption{Формы импульсов лазеров мастера, слейва и источника излучения КРК}
 \end{figure}\label{fig:QKD_source_pulse}
 %\caption{Spectral characteristics~(a) and pulse envelope~(b) of the master, slave LDs, and adjusted QKD source.}
@@ -120,25 +120,25 @@
 Конфигурация измерений позволяет контролировать среднюю мощность, спектральные, амплитудно-временные характеристики импульсов и интерференцию следующих друг за другом импульсов. Средняя мощность измеряется с помощью оптического измерителя мощности OPM (S154C, Thorlabs). Выходные спектры измеряются оптическим анализатором спектра OSA (AQ6370D, Yokogawa) со спектральным разрешением 0.02 нм. Амплитуда, длительность импульсов, их стабильность и интерференционные сигналы измеряются осциллографами OSC1 и OSC2 (735Zi, Lecroy, полоса пропускания 3.5 ГГц) и p-i-n фотодиодами (PDI35-10G, Thorlabs) с полосой пропускания 10 ГГц. Для анализа статистических распределений амплитуды и длительности оптических импульсов для каждого измерения накапливается 30 тыс. выборок и строится стандартное отклонение. Затем из средних значений амплитуды и длительности и их стандартных отклонений рассчитываются энергия импульса и его стабильность соответственно.
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{images/master_power.pdf}
+	\includegraphics[width=\linewidth]{images/master_power.pdf}
 	\caption{}
 \end{figure}
 \
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{images/hist_initial.pdf}
+	\includegraphics[width=\linewidth]{images/hist_initial.pdf}
 	\caption{}
 \end{figure}
 
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{images/spectra_att.pdf}
+	\includegraphics[width=\linewidth]{images/spectra_att.pdf}
 	\caption{}
 \end{figure}
 
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{images/envelope_att.pdf}
+	\includegraphics[width=\linewidth]{images/envelope_att.pdf}
 	\caption{}
 \end{figure}
 %\caption{Характеристики источника QKD в зависимости от напряжения на аттенюаторе: средняя мощность ведущего волокна на входе ведомого волокна (PMCIR1, порт~2) и коэффициент инжекции (a), функция плотности вероятности сигнала помехи (b), выходные спектры (c) и огибающая импульса (d).}
@@ -174,29 +174,29 @@
 
 \begin{figure}%{0.3\linewidth}
 	\centering
-	\includegraphics[width=\textwidth]{images/amplitude_change.pdf}
+	\includegraphics[width=\linewidth]{images/amplitude_change.pdf}
 	\caption{}
 \end{figure}
 
 \begin{figure}%{0.3\linewidth}
-	\includegraphics[width=\textwidth]{images/duration_change.pdf}
+	\includegraphics[width=\linewidth]{images/duration_change.pdf}
 	\caption{}
 \end{figure}
 
 \begin{figure}%{0.3\linewidth}
-	\includegraphics[width=\textwidth]{images/area_under_attack.pdf}
+	\includegraphics[width=\linewidth]{images/area_under_attack.pdf}
 	\caption{}
 \end{figure}
 %\caption{Характеристики импульсов с атакой и без: (a)~амплитуда, (b)~длительность и (c)~вычисленная нормализованная энергия импульса (стандартное отклонение указано на вставленном графике).}
 \label{fig:area}
 
 \begin{figure}
-	\includegraphics[width=\textwidth]{images/hist_attack_11.pdf}
+	\includegraphics[width=\linewidth]{images/hist_attack_11.pdf}
 	\caption{}
 \end{figure}
 
 \begin{figure}
-	\includegraphics[width=\textwidth]{images/hist_attack_01.pdf}
+	\includegraphics[width=\linewidth]{images/hist_attack_01.pdf}
 	\caption{}
 \end{figure}
 %\caption{Функция плотности вероятности нормированного сигнала помех с атакой и без нее: (a)~ мощность ведущего LD составляет 11 мкВт; (b)~ мощность ведущего LD составляет 0,69 мкВт.}

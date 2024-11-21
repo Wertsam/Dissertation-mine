@@ -1,8 +1,8 @@
 \changetocdepth {2}
 \babel@toc {russian}{}\relax 
 
-\contentsline {chapter}{Реферат}{9}{chapter*.2}%
-\contentsline {chapter}{Введение}{38}{chapter*.22}%
+\contentsline {chapter}{Реферат}{6}{chapter*.2}%
+\contentsline {chapter}{Введение}{37}{chapter*.22}%
 \contentsline {chapter}{\chapternumberline {1}Обзор литературы}{44}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Системы квантовой коммуникации и их применение}{44}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Протоколы квантовой коммуникации}{44}{section.1.2}%
