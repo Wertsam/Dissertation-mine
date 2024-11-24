@@ -4,41 +4,15 @@ Release version: 4.02 (16 dec 2023)
 
 The 8-bit codepage and sorting file: utf8cyrillic.csf
 The top-level auxiliary file: dissertation.aux
-The style file: BibTeX-Styles/utf8gost71u.bst
-A level-1 auxilliary file: Dissertation/title.aux
-A level-1 auxilliary file: Dissertation/contents.aux
-A level-1 auxilliary file: Dissertation/ref.aux
-A level-1 auxilliary file: Dissertation/introduction.aux
-A level-1 auxilliary file: Dissertation/part1.aux
-A level-1 auxilliary file: Dissertation/part2.aux
-A level-1 auxilliary file: Dissertation/part3.aux
-A level-1 auxilliary file: Dissertation/part4.aux
-A level-1 auxilliary file: Dissertation/part5.aux
-A level-1 auxilliary file: Dissertation/conclusion.aux
-A level-1 auxilliary file: Dissertation/references.aux
-A level-1 auxilliary file: Dissertation/resume.aux
-Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
-Reallocated global_strs (elt_size=200001) to 10 items from 0.
-Reallocated glb_str_end (elt_size=4) to 10 items from 0.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: biblio/external.bib
-Database file #2: biblio/author.bib
-Warning--I didn't find a database entry for "sun2022"
-Warning--I didn't find a database entry for "zahidy2024"
-Warning--I didn't find a database entry for "pang2020"
-Warning--I didn't find a database entry for "comandar2016a"
-Warning--I didn't find a database entry for "liu2020"
-Warning--I didn't find a database entry for "lau2008"
-Warning--I didn't find a database entry for "wang2013"
-Warning--I didn't find a database entry for "chen2022"
-Warning--I didn't find a database entry for "shakhovoy2020"
-Warning--I didn't find a database entry for "shakhovoy2021"
+I found no \citation commands---while reading file dissertation.aux
+I found no \bibdata command---while reading file dissertation.aux
+I found no \bibstyle command---while reading file dissertation.aux
 
 Here's how much of BibTeX's memory you used:
- Cites:                 8 out of 750
- Fields:              247 out of 5000
- Hash table:         9711 out of 10000
- Strings:             808 out of 10000
- Free string pool:   8415 out of 65000
- Wizard functions:   3126 out of 6000
-(There were 10 warnings)
+ Cites:                 0 out of 750
+ Fields:                0 out of 5000
+ Hash table:        10001 out of 10000
+ Strings:              83 out of 10000
+ Free string pool:    483 out of 65000
+ Wizard functions:      0 out of 3000
+(There were 3 error messages)
