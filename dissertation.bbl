@@ -1,0 +1,71 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{acin2006}
+\selectlanguageifdefined{english}
+\BibEmph{Ac\'{\i}n~A., Gisin~N., Masanes~L.} From {B}ell's theorem to secure quantum key distribution~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 2006. ---
+\newblock Vol.~97. ---
+\newblock P.~120405.
+
+\bibitem{jouguet2013}
+\selectlanguageifdefined{english}
+\BibEmph{Jouguet~Paul, Kunz-Jacques~S{\' e}bastien, Diamanti~Eleni}. Preventing calibration attacks on the local oscillator in continuous-variable quantum key distribution~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2013. ---
+\newblock Vol.~87. ---
+\newblock P.~062313.
+
+\bibitem{makarov2023}
+\selectlanguageifdefined{english}
+Preparing a commercial quantum key distribution system for certification against implementation loopholes~/ Vadim~Makarov, Alexey~Abrikosov, Poompong~Chaiwongkhot et~al.~// \BibEmph{arXiv}. ---
+\newblock 2023.
+
+\bibitem{sun2022}
+\selectlanguageifdefined{english}
+\BibEmph{Sun~Shihai, Huang~Anqi}. A review of security evaluation of practical quantum key distribution system~// \BibEmph{Entropy}. ---
+\newblock 2022. ---
+\newblock Vol.~24, no.~2. ---
+\newblock P.~260.
+
+\bibitem{huang2019}
+\selectlanguageifdefined{english}
+Laser-seeding attack in quantum key distribution~/ Anqi~Huang, {\'A}lvaro~Navarrete, Shi-Hai~Sun et~al.~// \BibEmph{Phys. Rev. Appl.} ---
+\newblock 2019. ---
+\newblock Vol.~12. ---
+\newblock P.~064043.
+
+\bibitem{pang2020}
+\selectlanguageifdefined{english}
+Hacking quantum key distribution via injection locking~/ Xiao-Ling~Pang, Ai-Lin~Yang, Chao-Ni~Zhang et~al.~// \BibEmph{Phys. Rev. Appl.} ---
+\newblock 2020. ---
+\newblock Vol.~13. ---
+\newblock P.~034008.
+
+\bibitem{lovic2023}
+\selectlanguageifdefined{english}
+Quantified effects of the laser-seeding attack in quantum key distribution~/ V.~Lovic, D.G.~Marangon, P.R.~Smith et~al.~// \BibEmph{Phys. Rev. Appl.} ---
+\newblock 2023. ---
+\newblock Vol.~20. ---
+\newblock P.~044005.
+
+\bibitem{woodward2021}
+\selectlanguageifdefined{english}
+Gigahertz measurement-device-independent quantum key distribution using directly modulated lasers~/ R.~I.~Woodward, Y.~S.~Lo, M.~Pittaluga et~al.~// \BibEmph{npj Quantum Inf.} ---
+\newblock 2021. ---
+\newblock Vol.~7. ---
+\newblock P.~58.
+
+\bibitem{huang2020}
+\selectlanguageifdefined{english}
+Laser-damage attack against optical attenuators in quantum key distribution~/ Anqi~Huang, Ruoping~Li, Vladimir~Egorov et~al.~// \BibEmph{Phys. Rev. Appl.} ---
+\newblock 2020. ---
+\newblock Vol.~13. ---
+\newblock P.~034017.
+
+\end{thebibliography}
