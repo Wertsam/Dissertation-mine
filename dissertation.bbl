@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -33,6 +33,13 @@ Preparing a commercial quantum key distribution system for certification against
 \newblock Vol.~24, no.~2. ---
 \newblock P.~260.
 
+\bibitem{zahidy2024}
+\selectlanguageifdefined{english}
+Quantum key distribution using deterministic single-photon sources over a field-installed fibre link~/ Mujtaba~Zahidy, Mikkel~T.~Mikkelsen, Ronny~M{\"u}ller et~al.~// \BibEmph{Npj Quantum Inf.} ---
+\newblock 2024. ---
+\newblock Vol.~10. ---
+\newblock P.~2.
+
 \bibitem{huang2019}
 \selectlanguageifdefined{english}
 Laser-seeding attack in quantum key distribution~/ Anqi~Huang, {\'A}lvaro~Navarrete, Shi-Hai~Sun et~al.~// \BibEmph{Phys. Rev. Appl.} ---
@@ -54,12 +61,68 @@ Quantified effects of the laser-seeding attack in quantum key distribution~/ V.~
 \newblock Vol.~20. ---
 \newblock P.~044005.
 
+\bibitem{wei2020}
+\selectlanguageifdefined{english}
+High-Speed Measurement-Device-Independent Quantum Key Distribution with Integrated Silicon Photonics~/ Kejin~Wei, Wei~Li, Hao~Tan et~al.~// \BibEmph{Phys.Rev.X}. ---
+\newblock 2020. ---
+\newblock Vol.~10. ---
+\newblock P.~031030.
+
 \bibitem{woodward2021}
 \selectlanguageifdefined{english}
 Gigahertz measurement-device-independent quantum key distribution using directly modulated lasers~/ R.~I.~Woodward, Y.~S.~Lo, M.~Pittaluga et~al.~// \BibEmph{npj Quantum Inf.} ---
 \newblock 2021. ---
 \newblock Vol.~7. ---
 \newblock P.~58.
+
+\bibitem{comandar2016}
+\selectlanguageifdefined{english}
+Quantum cryptography without detector vulnerabilities using optically-seeded lasers~/ L~C~Comandar, M~Lucamarini, B~Fr{\" o}hlich et~al.~// \BibEmph{Nat. Photonics}. ---
+\newblock 2016. ---
+\newblock Vol.~10. ---
+\newblock Pp.~312--315.
+
+\bibitem{xie2019}
+\selectlanguageifdefined{english}
+Optically injected intensity-stable pulse source for secure quantum key distribution~/ Hong-Bo~Xie, Yang~Li, Cong~Jiang et~al.~// \BibEmph{Opt. Express}. ---
+\newblock 2019. ---
+\newblock Vol.~27, no.~9. ---
+\newblock Pp.~12231--12240.
+
+\bibitem{liu2020}
+\selectlanguageifdefined{english}
+\BibEmph{Liu~Zhixin, Slav{\'\i}k~Radan}. Optical Injection Locking: from Principle to Applications~// \BibEmph{J. Light. Technol.} ---
+\newblock 2020. ---
+\newblock Vol.~38, no.~1. ---
+\newblock Pp.~43--59.
+
+\bibitem{lau2008}
+\selectlanguageifdefined{english}
+\BibEmph{Lau~Erwin~K., Sung~Hyuk-Kee, Wu~Ming~C.} Frequency Response Enhancement of Optical Injection-Locked Lasers~// \BibEmph{IEEE J. Quantum Electron.} ---
+\newblock 2008. ---
+\newblock Vol.~44, no.~1. ---
+\newblock Pp.~90--99.
+
+\bibitem{wang2013}
+\selectlanguageifdefined{english}
+Rate equation analysis of injection-locked quantum cascade lasers~/ Cheng~Wang, Fr{\'e}d{\'e}ric~Grillot, Vassilios~Kovanis, Jacky~Even~// \BibEmph{J. Appl. Phys.} ---
+\newblock 2013. ---
+\newblock Vol. 113, no.~6. ---
+\newblock P.~063104.
+
+\bibitem{shakhovoy2020}
+\selectlanguageifdefined{english}
+Quantum noise extraction from the interference of laser pulses in an optical quantum random number generator~/ Roman~Shakhovoy, Denis~Sych, Violetta~Sharoglazova et~al.~// \BibEmph{Opt. Express}. ---
+\newblock 2020. ---
+\newblock Vol.~28, no.~5. ---
+\newblock Pp.~6209--6224.
+
+\bibitem{shakhovoy2021}
+\selectlanguageifdefined{english}
+Influence of Chirp, Jitter, and Relaxation Oscillations on Probabilistic Properties of Laser Pulse Interference~/ Roman~Shakhovoy, Violetta~Sharoglazova, Alexander~Udaltsov et~al.~// \BibEmph{IEEE J. Quantum Electron.} ---
+\newblock 2021. ---
+\newblock Vol.~57, no.~2. ---
+\newblock P.~2000307.
 
 \bibitem{huang2020}
 \selectlanguageifdefined{english}
