@@ -7,12 +7,97 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{acin2006}
+\bibitem{bennett1984a}
 \selectlanguageifdefined{english}
-\BibEmph{Ac\'{\i}n~A., Gisin~N., Masanes~L.} From {B}ell's theorem to secure quantum key distribution~// \BibEmph{Phys. Rev. Lett.} ---
-\newblock 2006. ---
-\newblock Vol.~97. ---
-\newblock P.~120405.
+Eavesdrop-detecting quantum communications channel~/ C.~H.~Bennett, G.~Brassard, S.~Breidbart, S.~Wiesner~// \BibEmph{IBM Tech. Discl. Bull.} ---
+\newblock 1984. ---
+\newblock Vol.~26. ---
+\newblock Pp.~4363--4366.
+
+\bibitem{zhao2008}
+\selectlanguageifdefined{english}
+Quantum hacking: Experimental demonstration of time-shift attack against practical quantum-key-distribution systems~/ Yi~Zhao, Chi-Hang~Fred~Fung, Bing~Qi et~al.~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2008. ---
+\newblock Vol.~78, no.~4. ---
+\newblock P.~042333.
+
+\bibitem{inamori2007}
+\selectlanguageifdefined{english}
+\BibEmph{Inamori~H., L{\" u}tkenhaus~N., Mayers~D.} Unconditional security of practical quantum key distribution~// \BibEmph{Eur. Phys. J. D}. ---
+\newblock 2007. ---
+\newblock Vol.~41. ---
+\newblock Pp.~599--627.
+
+\bibitem{gottesman2004}
+\selectlanguageifdefined{english}
+Security of quantum key distribution with imperfect devices~/ D.~Gottesman, H.-K.~Lo, N.~L{\" u}tkenhaus, J.~Preskill~// \BibEmph{Quantum Inf. Comput.} ---
+\newblock 2004. ---
+\newblock Vol.~4. ---
+\newblock Pp.~325--360.
+
+\bibitem{bennett1984}
+\selectlanguageifdefined{english}
+\BibEmph{Bennett~Charles~H., Brassard~Gilles}. Quantum cryptography: public key distribution and coin tossing~// Proc. International Conference on Computers, Systems, and Signal Processing. ---
+\newblock Bangalore, India: IEEE Press, New York, 1984. ---
+\newblock Pp.~175--179.
+
+\bibitem{lo2005}
+\selectlanguageifdefined{english}
+\BibEmph{Lo~Hoi-Kwong, Ma~Xiongfeng, Chen~Kai}. Decoy state quantum key distribution~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 2005. ---
+\newblock Vol.~94, no.~23. ---
+\newblock P.~230504.
+
+\bibitem{hong1987}
+\selectlanguageifdefined{english}
+\BibEmph{Hong~C.~K., Ou~Z.~Y., Mandel~L.} Measurement of subpicosecond time intervals between two photons by interference~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 1987. --- Nov. ---
+\newblock Vol.~59. ---
+\newblock Pp.~2044--2046. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.59.2044}.
+
+\bibitem{ma2007}
+\selectlanguageifdefined{english}
+\BibEmph{Ma~Xiongfeng, Fung~Chi-Hang~Fred, Lo~Hoi-Kwong}. Quantum key distribution with entangled photon sources~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2007. --- Jul. ---
+\newblock Vol.~76. ---
+\newblock P.~012307. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevA.76.012307}.
+
+\bibitem{ma2005}
+\selectlanguageifdefined{english}
+Practical decoy state for quantum key distribution~/ Xiongfeng~Ma, Bing~Qi, Yi~Zhao, Hoi-Kwong~Lo~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2005. ---
+\newblock Vol.~72. ---
+\newblock P.~012326.
+
+\bibitem{rosenberg2009}
+\selectlanguageifdefined{english}
+Practical long-distance quantum key distribution system using decoy levels~/ D.~Rosenberg, C.~G.~Peterson, J.~W.~Harrington et~al.~// \BibEmph{New J. Phys.} ---
+\newblock 2009. ---
+\newblock Vol.~11. ---
+\newblock P.~045009.
+
+\bibitem{fuchs1997}
+\selectlanguageifdefined{english}
+Optimal eavesdropping in quantum cryptography. 1. {I}nformation bound and optimal strategy~/ C.~A.~Fuchs, N.~Gisin, R.~B.~Griffiths et~al.~// \BibEmph{Phys. Rev. A}. ---
+\newblock 1997. ---
+\newblock Vol.~56, no.~2. ---
+\newblock Pp.~1163--1172.
+
+\bibitem{tamaki2012}
+\selectlanguageifdefined{english}
+Phase encoding schemes for measurement-device-independent quantum key distribution with basis-dependent flaw~/ Kiyoshi~Tamaki, Hoi-Kwong~Lo, Chi-Hang~Fred~Fung, Bing~Qi~// \BibEmph{Physical Review A}. ---
+\newblock 2012. --- Apr. ---
+\newblock Vol.~85, no.~4. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.85.042307}.
+
+\bibitem{gobby2004}
+\selectlanguageifdefined{english}
+\BibEmph{Gobby~C., Yuan~Z.~L., Shields~A.~J.} Quantum key distribution over 122 km of standard telecom fiber~// \BibEmph{Appl. Phys. Lett.} ---
+\newblock 2004. ---
+\newblock Vol.~84, no.~19. ---
+\newblock Pp.~3762--3764.
 
 \bibitem{jouguet2013}
 \selectlanguageifdefined{english}
