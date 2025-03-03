@@ -64,6 +64,20 @@ Security of quantum key distribution with imperfect devices~/ D.~Gottesman, H.-K
 \newblock P.~012307. ---
 \newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevA.76.012307}.
 
+\bibitem{takeoka2014}
+\selectlanguageifdefined{english}
+\BibEmph{Takeoka~Masahiro, Guha~Saikat, Wilde~Mark~M.} Fundamental rate-loss tradeoff for optical quantum key distribution~// \BibEmph{Nature Communications}. ---
+\newblock 2014. --- Oct. ---
+\newblock Vol.~5, no.~5. ---
+\newblock URL: \BibUrl{https://doi.org/10.1038/ncomms6235}.
+
+\bibitem{pirandola2017}
+\selectlanguageifdefined{english}
+Fundamental limits of repeaterless quantum communications~/ Stefano~Pirandola, Riccardo~Laurenza, Carlo~Ottaviani, Leonardo~Banchi~// \BibEmph{Nature Communications}. ---
+\newblock 2017. --- apr. ---
+\newblock Vol.~8, no.~1. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1038/ncomms15043}.
+
 \bibitem{ma2005}
 \selectlanguageifdefined{english}
 Practical decoy state for quantum key distribution~/ Xiongfeng~Ma, Bing~Qi, Yi~Zhao, Hoi-Kwong~Lo~// \BibEmph{Phys. Rev. A}. ---
@@ -91,6 +105,20 @@ Phase encoding schemes for measurement-device-independent quantum key distributi
 \newblock 2012. --- Apr. ---
 \newblock Vol.~85, no.~4. ---
 \newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.85.042307}.
+
+\bibitem{scarani2009}
+\selectlanguageifdefined{english}
+The security of practical quantum key distribution~/ V.~Scarani, H.~Bechmann-Pasquinucci, N.~J.~Cerf et~al.~// \BibEmph{Rev. Mod. Phys.} ---
+\newblock 2009. ---
+\newblock Vol.~81, no.~3. ---
+\newblock Pp.~1301--1350.
+
+\bibitem{wang2018}
+\selectlanguageifdefined{english}
+\BibEmph{Wang~Xiang-Bin, Yu~Zong-Wen, Hu~Xiao-Long}. Twin-field quantum key distribution with large misalignment error~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2018. ---
+\newblock Vol.~98. ---
+\newblock P.~062323.
 
 \bibitem{gobby2004}
 \selectlanguageifdefined{english}
