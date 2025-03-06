@@ -134,6 +134,13 @@ The security of practical quantum key distribution~/ V.~Scarani, H.~Bechmann-Pas
 \newblock Vol.~87. ---
 \newblock P.~062313.
 
+\bibitem{comandar2016}
+\selectlanguageifdefined{english}
+Quantum cryptography without detector vulnerabilities using optically-seeded lasers~/ L~C~Comandar, M~Lucamarini, B~Fr{\" o}hlich et~al.~// \BibEmph{Nat. Photonics}. ---
+\newblock 2016. ---
+\newblock Vol.~10. ---
+\newblock Pp.~312--315.
+
 \bibitem{makarov2023}
 \selectlanguageifdefined{english}
 Preparing a commercial quantum key distribution system for certification against implementation loopholes~/ Vadim~Makarov, Alexey~Abrikosov, Poompong~Chaiwongkhot et~al.~// \BibEmph{arXiv}. ---
@@ -187,13 +194,6 @@ Gigahertz measurement-device-independent quantum key distribution using directly
 \newblock 2021. ---
 \newblock Vol.~7. ---
 \newblock P.~58.
-
-\bibitem{comandar2016}
-\selectlanguageifdefined{english}
-Quantum cryptography without detector vulnerabilities using optically-seeded lasers~/ L~C~Comandar, M~Lucamarini, B~Fr{\" o}hlich et~al.~// \BibEmph{Nat. Photonics}. ---
-\newblock 2016. ---
-\newblock Vol.~10. ---
-\newblock Pp.~312--315.
 
 \bibitem{xie2019}
 \selectlanguageifdefined{english}
