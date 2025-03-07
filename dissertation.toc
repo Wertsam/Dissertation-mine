@@ -50,7 +50,7 @@
 \contentsline {section}{\numberline {3.8}Описание полученных результатов}{125}{section.3.8}%
 \contentsline {section}{\numberline {3.9}Определение фазового шума}{127}{section.3.9}%
 \contentsline {section}{\numberline {3.10}Выводы по главе}{127}{section.3.10}%
-\contentsline {chapter}{\chapternumberline {4}Атака оптической накачкой на источник когеретного излучения}{128}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {4}Атака оптической накачкой на источник когерентного излучения}{128}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Атака оптической накачкой на лазер с распределенной обратной связью}{128}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Изменение Ватт-Амперной характеристики лазера с распределенной обратной связью при атаке на других длинах волн}{130}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Изменение формы импульса при атаке на лазер с распределенной обратной связью, работающем в режиме переключения усиления}{132}{section.4.3}%
