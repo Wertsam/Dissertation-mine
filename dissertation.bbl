@@ -78,6 +78,17 @@ Fundamental limits of repeaterless quantum communications~/ Stefano~Pirandola, R
 \newblock Vol.~8, no.~1. ---
 \newblock URL: \BibUrl{http://dx.doi.org/10.1038/ncomms15043}.
 
+\bibitem{koashi2005}
+\selectlanguageifdefined{english}
+\BibEmph{Koashi~M.} Simple security proof of quantum key distribution via uncertainty principle~// \BibEmph{arXiv}.
+
+\bibitem{tamaki2012}
+\selectlanguageifdefined{english}
+Phase encoding schemes for measurement-device-independent quantum key distribution with basis-dependent flaw~/ Kiyoshi~Tamaki, Hoi-Kwong~Lo, Chi-Hang~Fred~Fung, Bing~Qi~// \BibEmph{Physical Review A}. ---
+\newblock 2012. --- Apr. ---
+\newblock Vol.~85, no.~4. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.85.042307}.
+
 \bibitem{ma2005}
 \selectlanguageifdefined{english}
 Practical decoy state for quantum key distribution~/ Xiongfeng~Ma, Bing~Qi, Yi~Zhao, Hoi-Kwong~Lo~// \BibEmph{Phys. Rev. A}. ---
@@ -99,13 +110,6 @@ Optimal eavesdropping in quantum cryptography. 1. {I}nformation bound and optima
 \newblock Vol.~56, no.~2. ---
 \newblock Pp.~1163--1172.
 
-\bibitem{tamaki2012}
-\selectlanguageifdefined{english}
-Phase encoding schemes for measurement-device-independent quantum key distribution with basis-dependent flaw~/ Kiyoshi~Tamaki, Hoi-Kwong~Lo, Chi-Hang~Fred~Fung, Bing~Qi~// \BibEmph{Physical Review A}. ---
-\newblock 2012. --- Apr. ---
-\newblock Vol.~85, no.~4. ---
-\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.85.042307}.
-
 \bibitem{scarani2009}
 \selectlanguageifdefined{english}
 The security of practical quantum key distribution~/ V.~Scarani, H.~Bechmann-Pasquinucci, N.~J.~Cerf et~al.~// \BibEmph{Rev. Mod. Phys.} ---
@@ -120,6 +124,13 @@ The security of practical quantum key distribution~/ V.~Scarani, H.~Bechmann-Pas
 \newblock Vol.~98. ---
 \newblock P.~062323.
 
+\bibitem{lucamarini2018}
+\selectlanguageifdefined{english}
+Overcoming the rate--distance limit of quantum key distribution without quantum repeaters~/ M.~Lucamarini, Z.~L.~Yuan, J.~F.~Dynes, A.~J.~Shields~// \BibEmph{Nature}. ---
+\newblock 2018. ---
+\newblock Vol. 557. ---
+\newblock P.~400.
+
 \bibitem{gobby2004}
 \selectlanguageifdefined{english}
 \BibEmph{Gobby~C., Yuan~Z.~L., Shields~A.~J.} Quantum key distribution over 122 km of standard telecom fiber~// \BibEmph{Appl. Phys. Lett.} ---
@@ -127,12 +138,251 @@ The security of practical quantum key distribution~/ V.~Scarani, H.~Bechmann-Pas
 \newblock Vol.~84, no.~19. ---
 \newblock Pp.~3762--3764.
 
+\bibitem{ralph1999}
+\selectlanguageifdefined{english}
+\BibEmph{Ralph~T.~C.} Continuous variable quantum cryptography~// \BibEmph{Phys. Rev. A}. ---
+\newblock 1999. ---
+\newblock Vol.~61, no.~1. ---
+\newblock P.~010303.
+
+\bibitem{ralph2000}
+\selectlanguageifdefined{english}
+\BibEmph{Ralph~T.} Security of continuous-variable quantum cryptography~// \BibEmph{Physical Review A}. ---
+\newblock 2000. --- nov. ---
+\newblock Vol.~62, no.~6. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.62.062306}.
+
+\bibitem{hillery2000}
+\selectlanguageifdefined{english}
+\BibEmph{Hillery~M.} Quantum cryptography with squeezed states~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2000. ---
+\newblock Vol.~61, no.~2. ---
+\newblock P.~022309.
+
+\bibitem{reid2000}
+\selectlanguageifdefined{english}
+\BibEmph{Reid~M.~D.} Quantum cryptography with a predetermined key, using continuous-variable {E}instein-{P}odolsky-{R}osen correlations~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2000. ---
+\newblock Vol.~62, no.~6. ---
+\newblock P.~062308.
+
+\bibitem{cerf2001}
+\selectlanguageifdefined{english}
+\BibEmph{Cerf~N.~J., L\'evy~M., Assche~G.~Van}. Quantum distribution of Gaussian keys using squeezed states~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2001. --- Apr. ---
+\newblock Vol.~63. ---
+\newblock P.~052311. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevA.63.052311}.
+
+\bibitem{vanassche2004}
+\selectlanguageifdefined{english}
+\BibEmph{Van~Assche~G., Cardinal~J., Cerf~N.J.} Reconciliation of a quantum-distributed Gaussian key~// \BibEmph{IEEE Transactions on Information Theory}. ---
+\newblock 2004. ---
+\newblock Vol.~50, no.~2. ---
+\newblock Pp.~394--400.
+
+\bibitem{gottesman2001}
+\selectlanguageifdefined{english}
+\BibEmph{Gottesman~Daniel, Preskill~John}. Secure quantum key distribution using squeezed states~// \BibEmph{Physical Review A}. ---
+\newblock 2001. --- jan. ---
+\newblock Vol.~63, no.~2. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.63.022309}.
+
+\bibitem{grosshans2002}
+\selectlanguageifdefined{english}
+\BibEmph{Grosshans~Frédéric, Grangier~Philippe}. Continuous Variable Quantum Cryptography Using Coherent States~// \BibEmph{Physical Review Letters}. ---
+\newblock 2002. --- jan. ---
+\newblock Vol.~88, no.~5. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevLett.88.057902}.
+
+\bibitem{grosshans2001}
+\selectlanguageifdefined{english}
+\BibEmph{Grosshans~Frédéric, Grangier~Philippe}. Quantum cloning and teleportation criteria for continuous quantum variables~// \BibEmph{Physical Review A}. ---
+\newblock 2001. --- jun. ---
+\newblock Vol.~64, no.~1. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.64.010301}.
+
+\bibitem{silberhorn2002}
+\selectlanguageifdefined{english}
+Continuous Variable Quantum Cryptography: Beating the 3 dB Loss Limit~/ Ch.~Silberhorn, T.~C.~Ralph, N.~Lütkenhaus, G.~Leuchs~// \BibEmph{Physical Review Letters}. ---
+\newblock 2002. --- sep. ---
+\newblock Vol.~89, no.~16. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevLett.89.167901}.
+
+\bibitem{grosshans2002a}
+\selectlanguageifdefined{english}
+\BibEmph{Grosshans~Frédéric, Grangier~Philippe}. Reverse reconciliation protocols for quantum cryptography with continuous variables~// \BibEmph{arXiv}. ---
+\newblock 2002. ---
+\newblock URL: \BibUrl{https://arxiv.org/abs/quant-ph/0204127}.
+
+\bibitem{weedbrook2004}
+\selectlanguageifdefined{english}
+Quantum Cryptography Without Switching~/ Christian~Weedbrook, Andrew~M.~Lance, Warwick~P.~Bowen et~al.~// \BibEmph{Physical Review Letters}. ---
+\newblock 2004. --- oct. ---
+\newblock Vol.~93, no.~17. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevLett.93.170504}.
+
+\bibitem{navascus2006}
+\selectlanguageifdefined{english}
+\BibEmph{Navascués~Miguel, Grosshans~Frédéric, Acín~Antonio}. Optimality of Gaussian Attacks in Continuous-Variable Quantum Cryptography~// \BibEmph{Physical Review Letters}. ---
+\newblock 2006. --- nov. ---
+\newblock Vol.~97, no.~19. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevLett.97.190502}.
+
+\bibitem{GarciaPatron2006}
+\selectlanguageifdefined{english}
+\BibEmph{Garc\'{\i}a-Patr\'on~Ra\'ul, Cerf~Nicolas~J.} Unconditional Optimality of Gaussian Attacks against Continuous-Variable Quantum Key Distribution~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 2006. --- Nov. ---
+\newblock Vol.~97. ---
+\newblock P.~190503. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.97.190503}.
+
+\bibitem{pirandola2008}
+\selectlanguageifdefined{english}
+\BibEmph{Pirandola~Stefano, Braunstein~Samuel~L., Lloyd~Seth}. Characterization of Collective Gaussian Attacks and Security of Coherent-State Quantum Cryptography~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 2008. --- Nov. ---
+\newblock Vol. 101. ---
+\newblock P.~200504. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.101.200504}.
+
+\bibitem{pirandola2009}
+\selectlanguageifdefined{english}
+Direct and Reverse Secret Key Capacities of a Quantum Channel~/ Stefano~Pirandola, Raul~García-Patrón, Samuel~L.~Braunstein, Seth~Lloyd~// \BibEmph{Physical Review Letters}. ---
+\newblock 2009. --- feb. ---
+\newblock Vol. 102, no.~5. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevLett.102.050503}.
+
+\bibitem{renner2009}
+\selectlanguageifdefined{english}
+\BibEmph{Renner~R., Cirac~J.~I.} de {F}inetti Representation Theorem for Infinite-Dimensional Quantum Systems and Applications to Quantum Cryptography~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 2009. ---
+\newblock Vol. 102, no.~11. ---
+\newblock P.~110504.
+
+\bibitem{pirandola2014}
+\selectlanguageifdefined{english}
+\BibEmph{Pirandola~Stefano}. Quantum discord as a resource for quantum cryptography~// \BibEmph{Scientific Reports}. ---
+\newblock 2014. --- nov. ---
+\newblock Vol.~4, no.~1. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1038/srep06956}.
+
+\bibitem{usenko2016}
+\selectlanguageifdefined{english}
+\BibEmph{Usenko~Vladyslav, Filip~Radim}. Trusted Noise in Continuous Variable Quantum Key Distribution: A Threat and a Defense~// \BibEmph{Entropy}. ---
+\newblock 2016. --- jan. ---
+\newblock Vol.~18, no.~1. ---
+\newblock P.~20. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.3390/e18010020}.
+
+\bibitem{laudenbach2019}
+\selectlanguageifdefined{english}
+\BibEmph{Laudenbach~Fabian, Pacher~Christoph}. Analysis of the Trusted Device Scenario in Continuous Variable Quantum Key Distribution~// \BibEmph{Advanced Quantum Technologies}. ---
+\newblock 2019. --- aug. ---
+\newblock Vol.~2, no.~11. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1002/qute.201900055}.
+
+\bibitem{hosseinidehaj2019}
+\selectlanguageifdefined{english}
+\BibEmph{Hosseinidehaj~Nedasadat, Walk~Nathan, Ralph~Timothy~C.} Optimal realistic attacks in continuous-variable quantum key distribution~// \BibEmph{Physical Review A}. ---
+\newblock 2019. --- may. ---
+\newblock Vol.~99, no.~5. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.99.052336}.
+
+\bibitem{pan2020}
+\selectlanguageifdefined{english}
+Secret-Key Distillation across a Quantum Wiretap Channel under Restricted Eavesdropping~/ Ziwen~Pan, Kaushik~P.~Seshadreesan, William~Clark et~al.~// \BibEmph{Physical Review Applied}. ---
+\newblock 2020. --- aug. ---
+\newblock Vol.~14, no.~2. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevApplied.14.024044}.
+
+\bibitem{guo2017}
+\selectlanguageifdefined{english}
+Performance improvement of continuous-variable quantum key distribution with an entangled source in the middle via photon subtraction~/ Ying~Guo, Qin~Liao, Yijun~Wang et~al.~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2017. --- Mar. ---
+\newblock Vol.~95. ---
+\newblock P.~032304. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevA.95.032304}.
+
+\bibitem{guo2019}
+\selectlanguageifdefined{english}
+Continuous-variable quantum key distribution with non-Gaussian quantum catalysis~/ Ying~Guo, Wei~Ye, Hai~Zhong, Qin~Liao~// \BibEmph{Physical Review A}. ---
+\newblock 2019. --- mar. ---
+\newblock Vol.~99, no.~3. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.99.032327}.
+
+\bibitem{ghalaii2020}
+\selectlanguageifdefined{english}
+Long-Distance Continuous-Variable Quantum Key Distribution With Quantum Scissors~/ Masoud~Ghalaii, Carlo~Ottaviani, Rupesh~Kumar et~al.~// \BibEmph{IEEE Journal of Selected Topics in Quantum Electronics}. ---
+\newblock 2020. --- may. ---
+\newblock Vol.~26, no.~3. ---
+\newblock Pp.~1--12. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1109/JSTQE.2020.2964395}.
+
+\bibitem{ekert1991}
+\selectlanguageifdefined{english}
+\BibEmph{Ekert~A.~K.} Quantum {C}ryptography {B}ased on {B}ell's {T}heorem~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 1991. ---
+\newblock Vol.~67, no.~6. ---
+\newblock Pp.~661--663.
+
+\bibitem{jouguet2013a}
+\selectlanguageifdefined{english}
+Experimental demonstration of long-distance continuous-variable quantum key distribution~/ Paul~Jouguet, Sébastien~Kunz-Jacques, Anthony~Leverrier et~al.~// \BibEmph{Nature Photonics}. ---
+\newblock 2013. --- apr. ---
+\newblock Vol.~7, no.~5. ---
+\newblock Pp.~378--381. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1038/NPHOTON.2013.63}.
+
+\bibitem{kumar2015}
+\selectlanguageifdefined{english}
+\BibEmph{Kumar~Rupesh, Qin~Hao, Alléaume~Romain}. Coexistence of continuous variable QKD with intense DWDM classical channels~// \BibEmph{New Journal of Physics}. ---
+\newblock 2015. --- apr. ---
+\newblock Vol.~17, no.~4. ---
+\newblock P.~043027. ---
+\newblock URL: \BibUrl{https://dx.doi.org/10.1088/1367-2630/17/4/043027}.
+
+\bibitem{heim2014}
+\selectlanguageifdefined{english}
+Atmospheric continuous-variable quantum communication~/ B~Heim, C~Peuntinger, N~Killoran et~al.~// \BibEmph{New Journal of Physics}. ---
+\newblock 2014. --- nov. ---
+\newblock Vol.~16, no.~11. ---
+\newblock P.~113018. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1088/1367-2630/16/11/113018}.
+
+\bibitem{ma2013}
+\selectlanguageifdefined{english}
+Wavelength attack on practical continuous-variable quantum-key-distribution system with a heterodyne protocol~/ Xiang-Chun~Ma, Shi-Hai~Sun, Mu-Sheng~Jiang, Lin-Mei~Liang~// \BibEmph{Physical Review A}. ---
+\newblock 2013. --- may. ---
+\newblock Vol.~87, no.~5. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.87.052309}.
+
+\bibitem{huang2013}
+\selectlanguageifdefined{english}
+Quantum hacking of a continuous-variable quantum-key-distribution system using a wavelength attack~/ Jing-Zheng~Huang, Christian~Weedbrook, Zhen-Qiang~Yin et~al.~// \BibEmph{Physical Review A}. ---
+\newblock 2013. --- jun. ---
+\newblock Vol.~87, no.~6. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevA.87.062329}.
+
 \bibitem{jouguet2013}
 \selectlanguageifdefined{english}
 \BibEmph{Jouguet~Paul, Kunz-Jacques~S{\' e}bastien, Diamanti~Eleni}. Preventing calibration attacks on the local oscillator in continuous-variable quantum key distribution~// \BibEmph{Phys. Rev. A}. ---
 \newblock 2013. ---
 \newblock Vol.~87. ---
 \newblock P.~062313.
+
+\bibitem{ip2007}
+\selectlanguageifdefined{english}
+\BibEmph{Ip~Ezra, Kahn~Joseph~M.} Feedforward Carrier Recovery for Coherent Optical Communications~// \BibEmph{Journal of Lightwave Technology}. ---
+\newblock 2007. ---
+\newblock Vol.~25, no.~9. ---
+\newblock Pp.~2675--2692.
+
+\bibitem{fice2011}
+\selectlanguageifdefined{english}
+Homodyne Coherent Optical Receiver Using an Optical Injection Phase-Lock Loop~/ Martyn~J.~Fice, Andrea~Chiuchiarelli, Ernesto~Ciaramella, Alwyn~J.~Seeds~// \BibEmph{Journal of Lightwave Technology}. ---
+\newblock 2011. ---
+\newblock Vol.~29, no.~8. ---
+\newblock Pp.~1152--1164.
 
 \bibitem{comandar2016}
 \selectlanguageifdefined{english}
