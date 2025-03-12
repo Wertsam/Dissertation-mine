@@ -384,6 +384,13 @@ Homodyne Coherent Optical Receiver Using an Optical Injection Phase-Lock Loop~/ 
 \newblock Vol.~29, no.~8. ---
 \newblock Pp.~1152--1164.
 
+\bibitem{gleim2016}
+\selectlanguageifdefined{english}
+Secure polarization-independent subcarrier quantum key distribution in optical fiber channel using BB84 protocol with a strong reference~/ A.~V.~Gleim, V.~I.~Egorov, Yu.~V.~Nazarov et~al.~// \BibEmph{Opt. Express}. ---
+\newblock 2016. ---
+\newblock Vol.~24. ---
+\newblock Pp.~2619--2633.
+
 \bibitem{comandar2016}
 \selectlanguageifdefined{english}
 Quantum cryptography without detector vulnerabilities using optically-seeded lasers~/ L~C~Comandar, M~Lucamarini, B~Fr{\" o}hlich et~al.~// \BibEmph{Nat. Photonics}. ---

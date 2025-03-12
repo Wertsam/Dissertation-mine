@@ -30,46 +30,46 @@
 \contentsline {subsection}{\numberline {1.5.2}Атака на мощность локального осциллятора в системах квантового распределения ключа на непрерывных переменных}{98}{subsection.1.5.2}%
 \contentsline {subsection}{\numberline {1.5.3}Выводы по главе}{99}{subsection.1.5.3}%
 \contentsline {chapter}{\chapternumberline {2}Система квантового распределения ключа на боковых частотах с применением обратной связи}{101}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Метод оптической инжекции}{103}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Математическая модель оптической инжекции}{104}{subsection.2.1.1}%
-\contentsline {section}{\numberline {2.2}Измерение диапазона фазовой синхронизации двух когерентных источников излучения}{104}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Изменение длины волны излучения локального осциллятора под действием внешнего излучения.}{106}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Математическая модель гетеродинного детектирования для системы КРК на боковых частотах с применением обратной связи.}{108}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Оптическая схема эксперимента для системы квантового распределения ключа на боковых частотах с применением метода оптической инжекции}{109}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Описание экспериментальной установки}{110}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Полученные экспериментальные результаты}{111}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Выводы по главе}{113}{section.2.8}%
-\contentsline {chapter}{\chapternumberline {3}Система квантового распределения ключа на поднесущих гармониках с применением двух независимых источников когерентного излучения на непрерывных переменных}{116}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Метод гетеродинного детектирования сигналов для системы квантового распределения ключа на боковых частотах}{117}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Протокол квантового распределения ключа на поднесущих гармониках с гетеродинном методом детектирования сигналов}{118}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Оптическая схема системы квантового распределения ключа на боковых частотах с применением гетеродинного детектирования }{118}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Математическая модель системы квантового распределения ключа на боковых частотах с применением гетеродинного детектирования}{119}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Алгоритм подстройки поляризационных искажений для системы квантового распределения ключа на боковых частотах с применением гетеродинного детектирования}{122}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Математическая модель гетеродинного детектирования с двумя независимыми источниками излучения}{124}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Описание экспериментальной установки}{124}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Описание полученных результатов}{125}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Определение фазового шума}{127}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Выводы по главе}{127}{section.3.10}%
-\contentsline {chapter}{\chapternumberline {4}Атака оптической накачкой на источник когерентного излучения}{128}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Атака оптической накачкой на лазер с распределенной обратной связью}{128}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Изменение Ватт-Амперной характеристики лазера с распределенной обратной связью при атаке на других длинах волн}{130}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Изменение формы импульса при атаке на лазер с распределенной обратной связью, работающем в режиме переключения усиления}{132}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Определение минимально необходимой изоляции лазерного источника для предотвращения атаки оптической накачкой}{136}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Оценка возможности проведения атаки на существующие системы квантового распределения ключей}{136}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Экспериментальное подтверждение контрмеры против атаки оптической накачкой}{139}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Выводы по главе}{139}{section.4.7}%
-\contentsline {chapter}{\chapternumberline {5}Исследование источника когерентного излучения на основе оптической инжекции на устойчивость к лазерному засеиванию мощным излучением}{141}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Введение}{141}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Теоретическое описание метода оптической синхронизации}{143}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Полупроводниковые источники света с инжекционной синхронизацией}{143}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Статистика интерференции фазово-рандомизированного классического света}{145}{subsection.5.2.2}%
-\contentsline {section}{\numberline {5.3}Проведение эксперимента}{147}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Источник света на испытаниях}{147}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Экспериментальная установка}{150}{subsection.5.3.2}%
-\contentsline {section}{\numberline {5.4}Результаты экспериментов}{153}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Характеристики источника КРК}{153}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Длина волны источника равна длине волны источника}{156}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Атака в зависимости от длины волны}{161}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}Выводы по главе}{163}{section.5.5}%
-\contentsline {chapter}{Заключение}{165}{chapter*.30}%
-\contentsline {chapter}{Список литературы}{166}{chapter*.31}%
+\contentsline {section}{\numberline {2.1}Метод оптической инжекции}{104}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Математическая модель оптической инжекции}{105}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Измерение диапазона фазовой синхронизации двух когерентных источников излучения}{106}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Изменение длины волны излучения локального осциллятора под действием внешнего излучения.}{107}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Математическая модель гетеродинного детектирования для системы КРК на боковых частотах с применением обратной связи.}{109}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Оптическая схема эксперимента для системы квантового распределения ключа на боковых частотах с применением метода оптической инжекции}{110}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Описание экспериментальной установки}{111}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Полученные экспериментальные результаты}{112}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Выводы по главе}{114}{section.2.8}%
+\contentsline {chapter}{\chapternumberline {3}Система квантового распределения ключа на поднесущих гармониках с применением двух независимых источников когерентного излучения на непрерывных переменных}{117}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Метод гетеродинного детектирования сигналов для системы квантового распределения ключа на боковых частотах}{118}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Протокол квантового распределения ключа на поднесущих гармониках с гетеродинном методом детектирования сигналов}{119}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Оптическая схема системы квантового распределения ключа на боковых частотах с применением гетеродинного детектирования }{119}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Математическая модель системы квантового распределения ключа на боковых частотах с применением гетеродинного детектирования}{120}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Алгоритм подстройки поляризационных искажений для системы квантового распределения ключа на боковых частотах с применением гетеродинного детектирования}{123}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Математическая модель гетеродинного детектирования с двумя независимыми источниками излучения}{125}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Описание экспериментальной установки}{125}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Описание полученных результатов}{126}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Определение фазового шума}{128}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Выводы по главе}{128}{section.3.10}%
+\contentsline {chapter}{\chapternumberline {4}Атака оптической накачкой на источник когерентного излучения}{129}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Атака оптической накачкой на лазер с распределенной обратной связью}{129}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Изменение Ватт-Амперной характеристики лазера с распределенной обратной связью при атаке на других длинах волн}{131}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Изменение формы импульса при атаке на лазер с распределенной обратной связью, работающем в режиме переключения усиления}{133}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Определение минимально необходимой изоляции лазерного источника для предотвращения атаки оптической накачкой}{137}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Оценка возможности проведения атаки на существующие системы квантового распределения ключей}{137}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Экспериментальное подтверждение контрмеры против атаки оптической накачкой}{140}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Выводы по главе}{140}{section.4.7}%
+\contentsline {chapter}{\chapternumberline {5}Исследование источника когерентного излучения на основе оптической инжекции на устойчивость к лазерному засеиванию мощным излучением}{142}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Введение}{142}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Теоретическое описание метода оптической синхронизации}{144}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Полупроводниковые источники света с инжекционной синхронизацией}{144}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Статистика интерференции фазово-рандомизированного классического света}{146}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Проведение эксперимента}{148}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Источник света на испытаниях}{148}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Экспериментальная установка}{151}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Результаты экспериментов}{154}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Характеристики источника КРК}{154}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Длина волны источника равна длине волны источника}{157}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Атака в зависимости от длины волны}{162}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}Выводы по главе}{164}{section.5.5}%
+\contentsline {chapter}{Заключение}{166}{chapter*.30}%
+\contentsline {chapter}{Список литературы}{167}{chapter*.31}%
