@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -535,12 +535,118 @@ Secure polarization-independent subcarrier quantum key distribution in optical f
 \newblock Vol.~24. ---
 \newblock Pp.~2619--2633.
 
+\bibitem{yuan2016}
+\selectlanguageifdefined{english}
+Directly Phase-Modulated Light Source~/ Z.~L.~Yuan, B.~Fr\"ohlich, M.~Lucamarini et~al.~// \BibEmph{Phys. Rev. X}. ---
+\newblock 2016. --- Sep. ---
+\newblock Vol.~6. ---
+\newblock P.~031044. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevX.6.031044}.
+
+\bibitem{roberts2018}
+\selectlanguageifdefined{english}
+A direct GHz-clocked phase and intensity modulated transmitter applied to quantum key distribution~/ G~L~Roberts, M~Lucamarini, J~F~Dynes et~al.~// \BibEmph{Quantum Science and Technology}. ---
+\newblock 2018. --- aug. ---
+\newblock Vol.~3, no.~4. ---
+\newblock P.~045010. ---
+\newblock URL: \BibUrl{https://dx.doi.org/10.1088/2058-9565/aad9bd}.
+
 \bibitem{comandar2016}
 \selectlanguageifdefined{english}
 Quantum cryptography without detector vulnerabilities using optically-seeded lasers~/ L~C~Comandar, M~Lucamarini, B~Fr{\" o}hlich et~al.~// \BibEmph{Nat. Photonics}. ---
 \newblock 2016. ---
 \newblock Vol.~10. ---
 \newblock Pp.~312--315.
+
+\bibitem{xie2019}
+\selectlanguageifdefined{english}
+Optically injected intensity-stable pulse source for secure quantum key distribution~/ Hong-Bo~Xie, Yang~Li, Cong~Jiang et~al.~// \BibEmph{Opt. Express}. ---
+\newblock 2019. ---
+\newblock Vol.~27, no.~9. ---
+\newblock Pp.~12231--12240.
+
+\bibitem{liu2020}
+\selectlanguageifdefined{english}
+\BibEmph{Liu~Zhixin, Slav{\'\i}k~Radan}. Optical Injection Locking: from Principle to Applications~// \BibEmph{J. Light. Technol.} ---
+\newblock 2020. ---
+\newblock Vol.~38, no.~1. ---
+\newblock Pp.~43--59.
+
+\bibitem{shakhovoy2024}
+\selectlanguageifdefined{english}
+\BibEmph{Р.А.~Шаховой}. Динамика полупроводниковых лазеров: Учебное пособие для вузов. ---
+\newblock 1 edition. ---
+\newblock Издательство "Лань", 2024.
+
+\bibitem{khaksar2023a}
+\selectlanguageifdefined{english}
+\BibEmph{Khaksar~Zeinab~S., Bahrampour~Alireza}. Generating local oscillator locally in continuous variable quantum key distribution using optical injection phase locked loop: a theoretical approach~// \BibEmph{Opt. Express}. ---
+\newblock 2023. --- Nov. ---
+\newblock Vol.~31, no.~23. ---
+\newblock Pp.~37911--37928. ---
+\newblock URL: \BibUrl{https://opg.optica.org/oe/abstract.cfm?URI=oe-31-23-37911}.
+
+\bibitem{su2022}
+\selectlanguageifdefined{english}
+Optical injection locking based local oscillator regeneration for continuous variable quantum key distribution~/ Zikang~Su, Dajian~Cai, Hao~Jiang et~al.~// \BibEmph{Opt. Lett.} ---
+\newblock 2022. --- Mar. ---
+\newblock Vol.~47, no.~5. ---
+\newblock Pp.~1287--1290. ---
+\newblock URL: \BibUrl{https://opg.optica.org/ol/abstract.cfm?URI=ol-47-5-1287}.
+
+\bibitem{tang2020}
+\selectlanguageifdefined{english}
+Performance of continuous variable quantum key distribution system at different detector bandwidth~/ X.~Tang, R.~Kumar, S.~Ren et~al.~// \BibEmph{Optics Communications}. ---
+\newblock 2020. ---
+\newblock Vol. 471. ---
+\newblock P.~126034. ---
+\newblock URL: \BibUrl{https://www.sciencedirect.com/science/article/pii/S003040182030451X}.
+
+\bibitem{adan2024}
+\selectlanguageifdefined{english}
+Long-distance continuous-variable quantum key distribution over 100-km fiber with local local oscillator~/ Adnan A.~E.~Hajomer, Ivan~Derkach, Nitin~Jain et~al.~// \BibEmph{Science Advances}. ---
+\newblock 2024. ---
+\newblock Vol.~10, no.~1. ---
+\newblock P.~eadi9474. ---
+\newblock URL: \BibUrl{https://www.science.org/doi/abs/10.1126/sciadv.adi9474}.
+
+\bibitem{laudenbach2019a}
+\selectlanguageifdefined{english}
+Pilot-assisted intradyne reception for high-speed continuous-variable quantum key distribution with true local oscillator~/ Fabian~Laudenbach, Bernhard~Schrenk, Christoph~Pacher et~al.~// \BibEmph{Quantum}. ---
+\newblock 2019. --- oct. ---
+\newblock Vol.~3. ---
+\newblock P.~193. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.22331/q-2019-10-07-193}.
+
+\bibitem{wang2018b}
+\selectlanguageifdefined{english}
+Pilot-multiplexed continuous-variable quantum key distribution with a real local oscillator~/ Tao~Wang, Peng~Huang, Yingming~Zhou et~al.~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2018. --- Jan. ---
+\newblock Vol.~97. ---
+\newblock P.~012310. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevA.97.012310}.
+
+\bibitem{karinou2018}
+\selectlanguageifdefined{english}
+Toward the Integration of CV Quantum Key Distribution in Deployed Optical Networks~/ Fotini~Karinou, Hans~H.~Brunner, Chi-Hang~Fred~Fung et~al.~// \BibEmph{IEEE Photonics Technology Letters}. ---
+\newblock 2018. ---
+\newblock Vol.~30, no.~7. ---
+\newblock Pp.~650--653.
+
+\bibitem{oxborrow2005}
+\selectlanguageifdefined{english}
+\BibEmph{M~Oxborrow, Sinclair~Alastair~G}. Single-photon sources~// \BibEmph{Contemporary Physics}. ---
+\newblock 2005. ---
+\newblock Vol.~46, no.~3. ---
+\newblock Pp.~173--206.
+
+\bibitem{liu2020a}
+\selectlanguageifdefined{english}
+Continuous-variable quantum key distribution under strong channel polarization disturbance~/ Wenyuan~Liu, Yanxia~Cao, Xuyang~Wang, Yongmin~Li~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2020. --- Sep. ---
+\newblock Vol. 102. ---
+\newblock P.~032625. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevA.102.032625}.
 
 \bibitem{makarov2023}
 \selectlanguageifdefined{english}
@@ -581,20 +687,6 @@ Gigahertz measurement-device-independent quantum key distribution using directly
 \newblock 2021. ---
 \newblock Vol.~7. ---
 \newblock P.~58.
-
-\bibitem{xie2019}
-\selectlanguageifdefined{english}
-Optically injected intensity-stable pulse source for secure quantum key distribution~/ Hong-Bo~Xie, Yang~Li, Cong~Jiang et~al.~// \BibEmph{Opt. Express}. ---
-\newblock 2019. ---
-\newblock Vol.~27, no.~9. ---
-\newblock Pp.~12231--12240.
-
-\bibitem{liu2020}
-\selectlanguageifdefined{english}
-\BibEmph{Liu~Zhixin, Slav{\'\i}k~Radan}. Optical Injection Locking: from Principle to Applications~// \BibEmph{J. Light. Technol.} ---
-\newblock 2020. ---
-\newblock Vol.~38, no.~1. ---
-\newblock Pp.~43--59.
 
 \bibitem{lau2008}
 \selectlanguageifdefined{english}
