@@ -56,20 +56,19 @@
 \contentsline {section}{\numberline {4.3}Изменение формы импульса при атаке на лазер с распределенной обратной связью, работающем в режиме переключения усиления}{133}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Определение минимально необходимой изоляции лазерного источника для предотвращения атаки оптической накачкой}{137}{section.4.4}%
 \contentsline {section}{\numberline {4.5}Оценка возможности проведения атаки на существующие системы квантового распределения ключей}{137}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Экспериментальное подтверждение контрмеры против атаки оптической накачкой}{140}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Выводы по главе}{140}{section.4.7}%
-\contentsline {chapter}{\chapternumberline {5}Исследование источника когерентного излучения на основе оптической инжекции на устойчивость к лазерному засеиванию мощным излучением}{142}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Введение}{142}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Теоретическое описание метода оптической синхронизации}{144}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Полупроводниковые источники света с инжекционной синхронизацией}{144}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Статистика интерференции фазово-рандомизированного классического света}{146}{subsection.5.2.2}%
-\contentsline {section}{\numberline {5.3}Проведение эксперимента}{148}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Источник света на испытаниях}{148}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Экспериментальная установка}{151}{subsection.5.3.2}%
-\contentsline {section}{\numberline {5.4}Результаты экспериментов}{154}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Характеристики источника КРК}{154}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Длина волны источника равна длине волны источника}{157}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Атака в зависимости от длины волны}{162}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}Выводы по главе}{164}{section.5.5}%
-\contentsline {chapter}{Заключение}{166}{chapter*.29}%
-\contentsline {chapter}{Список литературы}{167}{chapter*.30}%
+\contentsline {section}{\numberline {4.6}Выводы по главе}{140}{section.4.6}%
+\contentsline {chapter}{\chapternumberline {5}Исследование источника когерентного излучения на основе оптической инжекции на устойчивость к лазерному засеиванию мощным излучением}{141}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Введение}{141}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Теоретическое описание метода оптической синхронизации}{143}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Полупроводниковые источники света с инжекционной синхронизацией}{143}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Статистика интерференции фазово-рандомизированного классического света}{145}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Проведение эксперимента}{147}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Источник света на испытаниях}{147}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Экспериментальная установка}{150}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Результаты экспериментов}{153}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Характеристики источника КРК}{153}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Длина волны источника равна длине волны источника}{156}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Атака в зависимости от длины волны}{161}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}Выводы по главе}{163}{section.5.5}%
+\contentsline {chapter}{Заключение}{165}{chapter*.29}%
+\contentsline {chapter}{Список литературы}{166}{chapter*.30}%

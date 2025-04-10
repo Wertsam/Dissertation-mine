@@ -648,10 +648,136 @@ Continuous-variable quantum key distribution under strong channel polarization d
 \newblock P.~032625. ---
 \newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevA.102.032625}.
 
+\bibitem{horodecki2008}
+\selectlanguageifdefined{english}
+Quantum Key Distribution Based on Private States: Unconditional Security Over Untrusted Channels With Zero Quantum Capacity~/ Karol~Horodecki, Michal~Horodecki, Pawel~Horodecki et~al.~// \BibEmph{IEEE Trans. Inf. Theory}. ---
+\newblock 2008. ---
+\newblock Vol.~54, no.~6. ---
+\newblock Pp.~2604--2620.
+
+\bibitem{lo2014}
+\selectlanguageifdefined{english}
+\BibEmph{Lo~Hoi-Kwong, Curty~Marcos, Tamaki~Kiyoshi}. Secure quantum key distribution~// \BibEmph{Nat. Photonics}. ---
+\newblock 2014. ---
+\newblock Vol.~8. ---
+\newblock Pp.~595--604.
+
+\bibitem{dixon2017}
+\selectlanguageifdefined{english}
+Quantum key distribution with hacking countermeasures and long term field trial~/ A.~R.~Dixon, J.~F.~Dynes, M.~Lucamarini et~al.~// \BibEmph{Sci. Rep.} ---
+\newblock 2017. ---
+\newblock Vol.~7. ---
+\newblock P.~1978.
+
+\bibitem{xu2020}
+\selectlanguageifdefined{english}
+Secure quantum key distribution with realistic devices~/ Feihu~Xu, Xiongfeng~Ma, Qiang~Zhang et~al.~// \BibEmph{Rev. Mod. Phys.} ---
+\newblock 2020. ---
+\newblock Vol.~92, no.~2. ---
+\newblock P.~025002.
+
 \bibitem{makarov2023}
 \selectlanguageifdefined{english}
 Preparing a commercial quantum key distribution system for certification against implementation loopholes~/ Vadim~Makarov, Alexey~Abrikosov, Poompong~Chaiwongkhot et~al.~// \BibEmph{arXiv}. ---
 \newblock 2023.
+
+\bibitem{pang2020}
+\selectlanguageifdefined{english}
+Hacking quantum key distribution via injection locking~/ Xiao-Ling~Pang, Ai-Lin~Yang, Chao-Ni~Zhang et~al.~// \BibEmph{Phys. Rev. Appl.} ---
+\newblock 2020. ---
+\newblock Vol.~13. ---
+\newblock P.~034008.
+
+\bibitem{nasedkin2022}
+\selectlanguageifdefined{english}
+Analyzing Transmission Spectra of Fiber-Optic Elements in the Near {IR} Range to Improve the Security of Quantum Key Distribution Systems~/ B.~A.~Nasedkin, I.~M.~Filipov, A.~O.~Ismagilov et~al.~// \BibEmph{Bull. Russ. Acad. Sci.: Phys.} ---
+\newblock 2022. --- oct. ---
+\newblock Vol.~86, no.~10. ---
+\newblock Pp.~1164--1167. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.3103/S1062873822100148}.
+
+\bibitem{nasedkin2023}
+\selectlanguageifdefined{english}
+Loopholes in the 1500--2100-nm Range for Quantum-Key-Distribution Components: Prospects for Trojan-Horse Attacks~/ Boris~Nasedkin, Fedor~Kiselev, Ilya~Filipov et~al.~// \BibEmph{Phys. Rev. Appl.} ---
+\newblock 2023. --- Jul. ---
+\newblock Vol.~20. ---
+\newblock P.~014038. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevApplied.20.014038}.
+
+\bibitem{borisova2020}
+\selectlanguageifdefined{english}
+Risk Analysis of Countermeasures Against the {T}rojan-Horse Attacks on Quantum Key Distribution Systems in 1260–1650 nm Spectral Range~/ A.~V.~Borisova, B.~D.~Garmaev, I.~B.~Bobrov et~al.~// \BibEmph{Opt. Spectrosc.} ---
+\newblock 2020. --- nov. ---
+\newblock Vol. 128, no.~11. ---
+\newblock Pp.~1892--1900. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1134/S0030400X20110077}.
+
+\bibitem{svelto1998}
+\selectlanguageifdefined{english}
+\BibEmph{Svelto~Orazio}. Pumping Processes~// Principles of Lasers. ---
+\newblock Boston, MA: Springer US, 1998. ---
+\newblock Pp.~201--248. ---
+\newblock URL: \BibUrl{https://doi.org/10.1007/978-1-4757-6266-2_6}.
+
+\bibitem{okamoto2003}
+\selectlanguageifdefined{english}
+Optically pumped membrane {BH-DFB} lasers for low-threshold and single-mode operation~/ Takeshi~Okamoto, Nobuhiro~Nunoya, Yuichi~Onodera et~al.~// \BibEmph{IEEE J. Sel. Top. Quantum Electron.} ---
+\newblock 2003. --- sep. ---
+\newblock Vol.~9, no.~5. ---
+\newblock Pp.~1361--1366. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1109/jstqe.2003.819495}.
+
+\bibitem{klinkhammer2012}
+\selectlanguageifdefined{english}
+Continuously tunable solution-processed organic semiconductor {DFB} lasers pumped by laser diode~/ S\"{o}nke~Klinkhammer, Xin~Liu, Klaus~Huska et~al.~// \BibEmph{Opt. Express}. ---
+\newblock 2012. --- mar. ---
+\newblock Vol.~20, no.~6. ---
+\newblock Pp.~6357--6364. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1364/OE.20.006357}.
+
+\bibitem{guina2017}
+\selectlanguageifdefined{english}
+\BibEmph{Guina~M., Rantam\"{a}ki~A., H\"{a}rk\"{o}nen~A.} Optically pumped {VECSEL}s: review of technology and progress~// \BibEmph{J. Phys. D: Appl. Phys.} ---
+\newblock 2017. --- aug. ---
+\newblock Vol.~50, no.~38. ---
+\newblock P.~383001. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1088/1361-6463/aa7bfd}.
+
+\bibitem{svelto2010}
+\selectlanguageifdefined{english}
+\BibEmph{Svelto~Orazio}. Transient Laser Behavior~// Principles of Lasers. ---
+\newblock Boston, MA: Springer US, 2010. ---
+\newblock Pp.~313--373. ---
+\newblock URL: \BibUrl{https://doi.org/10.1007/978-1-4419-1302-9_8}.
+
+\bibitem{cassidy1984}
+\selectlanguageifdefined{english}
+\BibEmph{Cassidy~Daniel~T.} Differential quantum efficiency of a homogeneously broadened injection laser~// \BibEmph{Appl. Opt.} ---
+\newblock 1984. --- Sep. ---
+\newblock Vol.~23, no.~17. ---
+\newblock Pp.~2870--2873. ---
+\newblock URL: \BibUrl{https://opg.optica.org/ao/abstract.cfm?URI=ao-23-17-2870}.
+
+\bibitem{tomiyasu2017}
+\selectlanguageifdefined{english}
+High-differential quantum efficiency operation of {G}a{I}n{A}s{P}/{I}n{P} membrane distributed-reflector laser on {S}i~/ Takahiro~Tomiyasu, Takuo~Hiratani, Daisuke~Inoue et~al.~// \BibEmph{Appl. Phys. Express}. ---
+\newblock 2017. --- may. ---
+\newblock Vol.~10, no.~6. ---
+\newblock P.~062702. ---
+\newblock URL: \BibUrl{https://dx.doi.org/10.7567/APEX.10.062702}.
+
+\bibitem{grimes2022}
+\selectlanguageifdefined{english}
+High-power, high-efficiency, semi-random {R}aman fiber lasers~/ Andrew~Grimes, Anand~Hariharan, Ian~Sun, Jeffrey~W.~Nicholson~// Proc. SPIE 11981, Fiber Lasers XIX: Technology and Systems. ---
+\newblock 2022. ---
+\newblock P.~119810J.
+
+\bibitem{ponosova2022}
+\selectlanguageifdefined{english}
+Protecting fiber-optic quantum key distribution sources against light-injection attacks~/ Anastasiya~Ponosova, Daria~Ruzhitskaya, Poompong~Chaiwongkhot et~al.~// \BibEmph{PRX Quantum}. ---
+\newblock 2022. ---
+\newblock Vol.~3. ---
+\newblock P.~040307.
 
 \bibitem{sun2022}
 \selectlanguageifdefined{english}
@@ -666,13 +792,6 @@ Quantum key distribution using deterministic single-photon sources over a field-
 \newblock 2024. ---
 \newblock Vol.~10. ---
 \newblock P.~2.
-
-\bibitem{pang2020}
-\selectlanguageifdefined{english}
-Hacking quantum key distribution via injection locking~/ Xiao-Ling~Pang, Ai-Lin~Yang, Chao-Ni~Zhang et~al.~// \BibEmph{Phys. Rev. Appl.} ---
-\newblock 2020. ---
-\newblock Vol.~13. ---
-\newblock P.~034008.
 
 \bibitem{wei2020}
 \selectlanguageifdefined{english}

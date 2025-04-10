@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
+This is BibTeX, Version 0.99d (TeX Live 2025)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: dissertation.aux
 The style file: BibTeX-Styles/utf8gost71u.bst
@@ -17,45 +17,45 @@ A level-1 auxiliary file: Dissertation/resume.aux
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/library.bib
 Warning--I didn't find a database entry for "liu2013"
-You've used 100 entries,
+You've used 116 entries,
             3126 wiz_defined-function locations,
-            1406 strings with 29234 characters,
-and the built_in function-call counts, 39829 in all, are:
-= -- 4960
-> -- 1356
-< -- 253
-+ -- 414
-- -- 314
-* -- 2454
-:= -- 4158
-add.period$ -- 460
-call.type$ -- 100
+            1518 strings with 33667 characters,
+and the built_in function-call counts, 47247 in all, are:
+= -- 5889
+> -- 1584
+< -- 291
++ -- 483
+- -- 367
+* -- 2903
+:= -- 4923
+add.period$ -- 536
+call.type$ -- 116
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 100
-duplicate$ -- 2076
-empty$ -- 3217
-format.name$ -- 314
-if$ -- 10362
+cite$ -- 116
+duplicate$ -- 2452
+empty$ -- 3830
+format.name$ -- 367
+if$ -- 12318
 int.to.chr$ -- 0
-int.to.str$ -- 100
+int.to.str$ -- 116
 missing$ -- 0
-newline$ -- 726
-num.names$ -- 297
-pop$ -- 472
+newline$ -- 845
+num.names$ -- 345
+pop$ -- 540
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1880
+skip$ -- 2263
 stack$ -- 0
-substring$ -- 1493
-swap$ -- 1828
-text.length$ -- 154
+substring$ -- 1883
+swap$ -- 2166
+text.length$ -- 176
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 220
-width$ -- 103
-write$ -- 2017
+while$ -- 263
+width$ -- 119
+write$ -- 2355
 (There was 1 warning)
