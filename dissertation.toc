@@ -16,10 +16,10 @@
 \contentsline {subsection}{\numberline {1.2.2}Гетеродинное детектирование}{79}{subsection.1.2.2}%
 \contentsline {subsection}{\numberline {1.2.3}90-градусный оптический гибрид }{81}{subsection.1.2.3}%
 \contentsline {section}{\numberline {1.3}Протоколы квантового распределения ключа на непрерывных переменных}{82}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Протокол квантового распределения ключа с использованием модуялции Гаусса}{84}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.1}Протокол квантового распределения ключа с использованием модуляции Гаусса}{84}{subsection.1.3.1}%
 \contentsline {subsubsection}{Этапы протокола с использованием модуляции Гаусса}{85}{section*.23}%
-\contentsline {subsubsection}{Экспериментальная реализация протокола с модуялцией Гаусса}{86}{section*.24}%
-\contentsline {subsection}{\numberline {1.3.2}Протокол квантового распределения ключа с использованием модуялции Гаусса и локальным осциллятором, сгенерированным на приемной стороне}{89}{subsection.1.3.2}%
+\contentsline {subsubsection}{Экспериментальная реализация протокола с модуляцией Гаусса}{86}{section*.24}%
+\contentsline {subsection}{\numberline {1.3.2}Протокол квантового распределения ключа с использованием модуляции Гаусса и локальным осциллятором, сгенерированным на приемной стороне}{89}{subsection.1.3.2}%
 \contentsline {subsubsection}{Экспериментальная реализация протокола КРК на непрерывных переменных с модуляцией Гаусса.}{91}{section*.25}%
 \contentsline {section}{\numberline {1.4}Фазовый шум в системах квантового распределения ключа}{94}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}Методы борьбы с фазовым шумом в системах квантового распределения ключа}{95}{subsection.1.4.1}%
