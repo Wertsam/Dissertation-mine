@@ -5,6 +5,7 @@ The style file: BibTeX-Styles/utf8gost71u.bst
 A level-1 auxiliary file: Dissertation/title.aux
 A level-1 auxiliary file: Dissertation/contents.aux
 A level-1 auxiliary file: Dissertation/ref.aux
+A level-1 auxiliary file: Dissertation/syn.aux
 A level-1 auxiliary file: Dissertation/introduction.aux
 A level-1 auxiliary file: Dissertation/part1.aux
 A level-1 auxiliary file: Dissertation/part2.aux
@@ -19,7 +20,7 @@ Database file #1: biblio/library.bib
 Warning--I didn't find a database entry for "liu2013"
 You've used 134 entries,
             3126 wiz_defined-function locations,
-            1630 strings with 38142 characters,
+            1631 strings with 38162 characters,
 and the built_in function-call counts, 55028 in all, are:
 = -- 6856
 > -- 1846
