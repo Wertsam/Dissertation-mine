@@ -14,13 +14,14 @@ A level-1 auxiliary file: Dissertation/part4.aux
 A level-1 auxiliary file: Dissertation/part5.aux
 A level-1 auxiliary file: Dissertation/conclusion.aux
 A level-1 auxiliary file: Dissertation/references.aux
+A level-1 auxiliary file: Dissertation/publications.aux
 A level-1 auxiliary file: Dissertation/resume.aux
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/library.bib
 Warning--I didn't find a database entry for "liu2013"
 You've used 134 entries,
             3126 wiz_defined-function locations,
-            1631 strings with 38162 characters,
+            1632 strings with 38191 characters,
 and the built_in function-call counts, 55028 in all, are:
 = -- 6856
 > -- 1846

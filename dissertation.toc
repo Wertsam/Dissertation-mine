@@ -73,3 +73,4 @@
 \contentsline {section}{\numberline {5.5}Выводы по главе}{170}{section.5.5}%
 \contentsline {chapter}{Заключение}{172}{chapter*.42}%
 \contentsline {chapter}{Список литературы}{173}{chapter*.43}%
+\contentsline {chapter}{Тексты публикаций}{190}{chapter*.44}%
