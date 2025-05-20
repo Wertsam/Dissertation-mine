@@ -300,13 +300,6 @@ Optically pumped membrane {BH-DFB} lasers for low-threshold and single-mode oper
 \newblock P.~383001. ---
 \newblock URL: \BibUrl{http://dx.doi.org/10.1088/1361-6463/aa7bfd}.
 
-\bibitem{liu2010}
-\selectlanguageifdefined{english}
-Decoy-state quantum key distribution with polarized photons over 200 km~/ Y.~Liu, T.-Y.~Chen, J.~Wang et~al.~// \BibEmph{Opt. Express}. ---
-\newblock 2010. ---
-\newblock Vol.~18, no.~8. ---
-\newblock Pp.~8587--8594.
-
 \bibitem{comandar2016}
 \selectlanguageifdefined{english}
 Quantum cryptography without detector vulnerabilities using optically-seeded lasers~/ L~C~Comandar, M~Lucamarini, B~Fr{\" o}hlich et~al.~// \BibEmph{Nat. Photonics}. ---
