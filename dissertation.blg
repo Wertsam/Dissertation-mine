@@ -19,9 +19,10 @@ A level-1 auxiliary file: Dissertation/resume.aux
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/library.bib
 Warning--I didn't find a database entry for "liu2013"
+Warning--I didn't find a database entry for "sec:ch3/sect4"
 You've used 133 entries,
             3126 wiz_defined-function locations,
-            1627 strings with 37900 characters,
+            1628 strings with 37913 characters,
 and the built_in function-call counts, 54518 in all, are:
 = -- 6792
 > -- 1829
@@ -60,4 +61,4 @@ warning$ -- 0
 while$ -- 313
 width$ -- 136
 write$ -- 2697
-(There was 1 warning)
+(There were 2 warnings)
