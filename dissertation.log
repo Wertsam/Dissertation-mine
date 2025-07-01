@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.10)  26 JUN 2025 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.10)  1 JUL 2025 12:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -4283,6 +4283,11 @@ File: images/толстые линии и исправлены названия 
 <use images/толстые линии и исправлены названия сигнал после детектирования.png>
 Package pdftex.def Info: images/толстые линии и исправлены названия сигнал после детектирования.png  used on input line 116.
 (pdftex.def)             Requested size: 284.5022pt x 217.53215pt.
+<images/FFT Amplitude.png, id=1701, 509.2626pt x 332.2011pt>
+File: images/FFT Amplitude.png Graphic file (type png)
+<use images/FFT Amplitude.png>
+Package pdftex.def Info: images/FFT Amplitude.png  used on input line 123.
+(pdftex.def)             Requested size: 497.92325pt x 324.80971pt.
 
 
 
@@ -4297,11 +4302,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[158.155]
-
-LaTeX Warning: Reference `label' on page 159 undefined on input line 123.
-
-)
+[158.155])
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4329,11 +4330,25 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[160.157]
+[160.157 <./images/FFT Amplitude.png (PNG copy)>]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[161.158]
 \openout2 = `Dissertation/part4.aux'.
 
  (./Dissertation/part4.tex
-<images/1310 experiment (3).pdf, id=1731, 244.915pt x 162.6075pt>
+<images/1310 experiment (3).pdf, id=1738, 244.915pt x 162.6075pt>
 File: images/1310 experiment (3).pdf Graphic file (type pdf)
 <use images/1310 experiment (3).pdf>
 Package pdftex.def Info: images/1310 experiment (3).pdf  used on input line 15.
@@ -4352,7 +4367,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[161.158
+[162.159
 
 
 
@@ -4371,7 +4386,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[162.159 <./images/1310 experiment (3).pdf>]
+[163.160 <./images/1310 experiment (3).pdf>]
 File: images/ватт ампер для диссера.png Graphic file (type png)
 <use images/ватт ампер для диссера.png>
 Package pdftex.def Info: images/ватт ампер для диссера.png  used on input line 28.
@@ -4390,7 +4405,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[163.160]
+[164.161]
 File: images/Эффективность 1310.png Graphic file (type png)
 <use images/Эффективность 1310.png>
 Package pdftex.def Info: images/Эффективность 1310.png  used on input line 41.
@@ -4409,36 +4424,22 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[164.161]
+[165.162]
 File: images/Импульсы под действием 1310 для диссера.png Graphic file (type png)
 <use images/Импульсы под действием 1310 для диссера.png>
 Package pdftex.def Info: images/Импульсы под действием 1310 для диссера.png  used on input line 51.
 (pdftex.def)             Requested size: 497.92325pt x 381.02702pt.
-<images/1310_энергия.png, id=1801, 244.5135pt x 244.5135pt>
+<images/1310_энергия.png, id=1809, 244.5135pt x 244.5135pt>
 File: images/1310_энергия.png Graphic file (type png)
 <use images/1310_энергия.png>
 Package pdftex.def Info: images/1310_энергия.png  used on input line 58.
 (pdftex.def)             Requested size: 497.92325pt x 497.94653pt.
-<images/1310_мощность.png, id=1803, 244.5135pt x 244.5135pt>
+<images/1310_мощность.png, id=1811, 244.5135pt x 244.5135pt>
 File: images/1310_мощность.png Graphic file (type png)
 <use images/1310_мощность.png>
 Package pdftex.def Info: images/1310_мощность.png  used on input line 66.
 (pdftex.def)             Requested size: 244.5129pt x 244.5129pt.
 
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[165.162]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4466,7 +4467,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[167.164 <./images/1310_энергия.png (PNG copy)>]
+[167.164]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4480,13 +4481,27 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[168.165 <./images/1310_мощность.png (PNG copy)>]
-<images/spectra_1310_iso.pdf, id=1829, 244.915pt x 128.48pt>
+[168.165]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[169.166 <./images/1310_энергия.png (PNG copy)>]
+<images/spectra_1310_iso.pdf, id=1837, 244.915pt x 128.48pt>
 File: images/spectra_1310_iso.pdf Graphic file (type pdf)
 <use images/spectra_1310_iso.pdf>
 Package pdftex.def Info: images/spectra_1310_iso.pdf  used on input line 87.
 (pdftex.def)             Requested size: 497.92325pt x 261.2135pt.
-<images/Qrate-Alice.pdf, id=1833, 244.915pt x 86.3225pt>
+<images/Qrate-Alice.pdf, id=1841, 244.915pt x 86.3225pt>
 File: images/Qrate-Alice.pdf Graphic file (type pdf)
 <use images/Qrate-Alice.pdf>
 Package pdftex.def Info: images/Qrate-Alice.pdf  used on input line 96.
@@ -4505,7 +4520,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[169.166]
+[170.167 <./images/1310_мощность.png (PNG copy)>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4519,10 +4534,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[170.167 <./images/spectra_1310_iso.pdf> <./images/Qrate-Alice.pdf
-
-pdfTeX warning: pdflatex.exe (file ./images/Qrate-Alice.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]
+[171.168 <./images/spectra_1310_iso.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4536,7 +4548,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[171.168])
+[172.169 <./images/Qrate-Alice.pdf>])
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4550,7 +4562,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[172.169]
+[173.170]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[174.171]
 \openout2 = `Dissertation/part5.aux'.
 
  (./Dissertation/part5.tex
@@ -4567,13 +4593,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[173.170
+[175.172
 
 
 
 
 ]
-<images/StabilityDiagramsFreq.pdf, id=2149, 540.70004pt x 284.62335pt>
+<images/StabilityDiagramsFreq.pdf, id=2162, 540.70004pt x 284.62335pt>
 File: images/StabilityDiagramsFreq.pdf Graphic file (type pdf)
 <use images/StabilityDiagramsFreq.pdf>
 Package pdftex.def Info: images/StabilityDiagramsFreq.pdf  used on input line 18.
@@ -4584,34 +4610,6 @@ Overfull \hbox (42.77547pt too wide) in paragraph at lines 18--19
  []
 
 
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[174.171]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[175.172 <./images/StabilityDiagramsFreq.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4639,8 +4637,36 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[177.174]
-<images/PDF.png, id=2226, 220.49042pt x 189.70876pt>
+[177.174 <./images/StabilityDiagramsFreq.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[178.175]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[179.176]
+<images/PDF.png, id=2240, 220.49042pt x 189.70876pt>
 File: images/PDF.png Graphic file (type png)
 <use images/PDF.png>
 Package pdftex.def Info: images/PDF.png  used on input line 72.
@@ -4659,51 +4685,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[178.175 <./images/PDF.png>]
-<images/setup.pdf, id=2238, 237.26341pt x 161.67723pt>
+[180.177 <./images/PDF.png>]
+<images/setup.pdf, id=2251, 237.26341pt x 161.67723pt>
 File: images/setup.pdf Graphic file (type pdf)
 <use images/setup.pdf>
 Package pdftex.def Info: images/setup.pdf  used on input line 87.
 (pdftex.def)             Requested size: 497.92325pt x 339.31511pt.
-
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[179.176]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[180.177 <./images/setup.pdf>]
-<images/spectra.pdf, id=2292, 244.915pt x 187.70125pt>
-File: images/spectra.pdf Graphic file (type pdf)
-<use images/spectra.pdf>
-Package pdftex.def Info: images/spectra.pdf  used on input line 101.
-(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/envelope.pdf, id=2293, 244.915pt x 187.70125pt>
-File: images/envelope.pdf Graphic file (type pdf)
-<use images/envelope.pdf>
-Package pdftex.def Info: images/envelope.pdf  used on input line 107.
-(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
 
 
 
@@ -4732,7 +4719,18 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[182.179 <./images/spectra.pdf>]
+[182.179 <./images/setup.pdf>]
+<images/spectra.pdf, id=2305, 244.915pt x 187.70125pt>
+File: images/spectra.pdf Graphic file (type pdf)
+<use images/spectra.pdf>
+Package pdftex.def Info: images/spectra.pdf  used on input line 101.
+(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
+<images/envelope.pdf, id=2306, 244.915pt x 187.70125pt>
+File: images/envelope.pdf Graphic file (type pdf)
+<use images/envelope.pdf>
+Package pdftex.def Info: images/envelope.pdf  used on input line 107.
+(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4746,23 +4744,51 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[183.180 <./images/envelope.pdf>]
-<images/master_power.pdf, id=2351, 244.915pt x 187.70125pt>
+[183.180]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[184.181 <./images/spectra.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[185.182 <./images/envelope.pdf>]
+<images/master_power.pdf, id=2365, 244.915pt x 187.70125pt>
 File: images/master_power.pdf Graphic file (type pdf)
 <use images/master_power.pdf>
 Package pdftex.def Info: images/master_power.pdf  used on input line 126.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_initial.pdf, id=2352, 774.895pt x 593.21625pt>
+<images/hist_initial.pdf, id=2366, 774.895pt x 593.21625pt>
 File: images/hist_initial.pdf Graphic file (type pdf)
 <use images/hist_initial.pdf>
 Package pdftex.def Info: images/hist_initial.pdf  used on input line 132.
 (pdftex.def)             Requested size: 497.92325pt x 381.18684pt.
-<images/spectra_att.pdf, id=2353, 244.915pt x 187.70125pt>
+<images/spectra_att.pdf, id=2367, 244.915pt x 187.70125pt>
 File: images/spectra_att.pdf Graphic file (type pdf)
 <use images/spectra_att.pdf>
 Package pdftex.def Info: images/spectra_att.pdf  used on input line 138.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/envelope_att.pdf, id=2354, 244.915pt x 187.70125pt>
+<images/envelope_att.pdf, id=2368, 244.915pt x 187.70125pt>
 File: images/envelope_att.pdf Graphic file (type pdf)
 <use images/envelope_att.pdf>
 Package pdftex.def Info: images/envelope_att.pdf  used on input line 145.
@@ -4781,7 +4807,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[184.181]
+[186.183]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4795,7 +4821,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[185.182 <./images/master_power.pdf>]
+[187.184 <./images/master_power.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4809,7 +4835,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[186.183 <./images/hist_initial.pdf>]
+[188.185 <./images/hist_initial.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4823,8 +4849,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[187.184 <./images/spectra_att.pdf>]
-<images/average_power.pdf, id=2534, 244.915pt x 187.70125pt>
+[189.186 <./images/spectra_att.pdf>]
+<images/average_power.pdf, id=2548, 244.915pt x 187.70125pt>
 File: images/average_power.pdf Graphic file (type pdf)
 <use images/average_power.pdf>
 Package pdftex.def Info: images/average_power.pdf  used on input line 171.
@@ -4843,7 +4869,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[188.185 <./images/envelope_att.pdf>]
+[190.187 <./images/envelope_att.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4857,8 +4883,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[189.186 <./images/average_power.pdf>]
-<images/amplitude_change.pdf, id=2628, 244.915pt x 187.70125pt>
+[191.188 <./images/average_power.pdf>]
+<images/amplitude_change.pdf, id=2642, 244.915pt x 187.70125pt>
 File: images/amplitude_change.pdf Graphic file (type pdf)
 <use images/amplitude_change.pdf>
 Package pdftex.def Info: images/amplitude_change.pdf  used on input line 181.
@@ -4871,12 +4897,12 @@ File: images/area_under_attack.pdf Graphic file (type pdf)
 <use images/area_under_attack.pdf>
 Package pdftex.def Info: images/area_under_attack.pdf  used on input line 193.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_attack_11.pdf, id=2629, 244.915pt x 187.70125pt>
+<images/hist_attack_11.pdf, id=2643, 244.915pt x 187.70125pt>
 File: images/hist_attack_11.pdf Graphic file (type pdf)
 <use images/hist_attack_11.pdf>
 Package pdftex.def Info: images/hist_attack_11.pdf  used on input line 200.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_attack_01.pdf, id=2630, 244.915pt x 187.70125pt>
+<images/hist_attack_01.pdf, id=2644, 244.915pt x 187.70125pt>
 File: images/hist_attack_01.pdf Graphic file (type pdf)
 <use images/hist_attack_01.pdf>
 Package pdftex.def Info: images/hist_attack_01.pdf  used on input line 206.
@@ -4895,36 +4921,36 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[190.187]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[191.188 <./images/amplitude_change.pdf>]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
 [192.189]
-<images/WL_Eve.pdf, id=2668, 244.915pt x 187.70125pt>
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[193.190 <./images/amplitude_change.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[194.191]
+<images/WL_Eve.pdf, id=2681, 244.915pt x 187.70125pt>
 File: images/WL_Eve.pdf Graphic file (type pdf)
 <use images/WL_Eve.pdf>
 Package pdftex.def Info: images/WL_Eve.pdf  used on input line 221.
@@ -4943,7 +4969,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[193.190])
+[195.192])
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4957,7 +4983,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[194.191 <./images/hist_attack_11.pdf>]
+[196.193 <./images/hist_attack_11.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4971,7 +4997,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[195.192 <./images/hist_attack_01.pdf>]
+[197.194 <./images/hist_attack_01.pdf>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4985,48 +5011,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[196.193 <./images/WL_Eve.pdf>]
+[198.195 <./images/WL_Eve.pdf>]
 \openout2 = `Dissertation/conclusion.aux'.
 
  (./Dissertation/conclusion.tex
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[197.194
-
-
-
-
-])
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
-
-[198.195]
-\openout2 = `Dissertation/references.aux'.
-
- (./Dissertation/references.tex (./dissertation.bbl
-bibitemlist
-
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5045,8 +5033,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 
 
-
-]
+])
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5061,6 +5048,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [200.197]
+\openout2 = `Dissertation/references.aux'.
+
+ (./Dissertation/references.tex (./dissertation.bbl
+bibitemlist
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5074,27 +5066,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[201.198]
-Underfull \hbox (badness 1946) in paragraph at lines 193--198
-[]\T2A/cmr/m/n/14.4 Sideband quan^^?tum com^^?mu^^?ni^^?ca^^?tion at 1&#x2009;&#x2009;Mbit/s on a
- []
+[201.198
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 201--206
-[]\T2A/cmr/m/n/14.4 HETERODYNE DE^^?TEC^^?TION FOR SUB^^?CAR^^?RI^^?ER-WAVE QUAN^^?TUM
- []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 238--241
-[]\T2A/cmr/m/n/14.4 Laser-pumping at^^?tack on QKD sources / M. Fadeev, A.A. Ponoso^^?va,
- []
 
-
-Underfull \hbox (badness 1442) in paragraph at lines 244--248
-[]\T2A/cmr/m/n/14.4 Optical-pumping at^^?tack on a quan^^?tum key dis^^?tri^^?bu^^?tion laser source /
- []
-
-
+]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5123,6 +5101,26 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [203.200]
+Underfull \hbox (badness 1946) in paragraph at lines 193--198
+[]\T2A/cmr/m/n/14.4 Sideband quan^^?tum com^^?mu^^?ni^^?ca^^?tion at 1&#x2009;&#x2009;Mbit/s on a
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 201--206
+[]\T2A/cmr/m/n/14.4 HETERODYNE DE^^?TEC^^?TION FOR SUB^^?CAR^^?RI^^?ER-WAVE QUAN^^?TUM
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 238--241
+[]\T2A/cmr/m/n/14.4 Laser-pumping at^^?tack on QKD sources / M. Fadeev, A.A. Ponoso^^?va,
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 244--248
+[]\T2A/cmr/m/n/14.4 Optical-pumping at^^?tack on a quan^^?tum key dis^^?tri^^?bu^^?tion laser source /
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5207,11 +5205,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [209.206]
-Underfull \hbox (badness 1424) in paragraph at lines 698--702
-\T2A/cmr/m/n/14.4 Loop / Mar^^?tyn J. Fice, An^^?drea Chi^^?uchiarel^^?li, Ernesto Cia^^?ramel^^?la, Al^^?
- []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5240,6 +5233,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [211.208]
+Underfull \hbox (badness 1424) in paragraph at lines 698--702
+\T2A/cmr/m/n/14.4 Loop / Mar^^?tyn J. Fice, An^^?drea Chi^^?uchiarel^^?li, Ernesto Cia^^?ramel^^?la, Al^^?
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5254,6 +5252,34 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [212.209]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[213.210]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 5.25005pt, for example:
+(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+
+[214.211]
 Underfull \hbox (badness 3343) in paragraph at lines 843--847
 []\T2A/cmr/m/n/14.4 Secure quan^^?tum key dis^^?tri^^?bu^^?tion with re^^?al^^?is^^?tic de^^?vices / Fei^^?hu Xu,
  []
@@ -5277,7 +5303,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[213.210]
+[215.212]
 Underfull \hbox (badness 1546) in paragraph at lines 920--924
 []\T2A/cmr/m/n/14.4 High-Speed Mea^^?sure^^?men^^?t-De^^?vice-In^^?de^^?pen^^?dent Quan^^?tum Key Dis^^?tri^^?bu^^?tion
  []
@@ -5301,7 +5327,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[214.211]))
+[216.213]))
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5315,16 +5341,16 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[215.212]
+[217.214]
 \openout2 = `Dissertation/publications.aux'.
 
  (./Dissertation/publications.tex
-<images/heterpaper.pdf, id=2941, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=2954, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
 <use images/heterpaper.pdf>
 Package pdftex.def Info: images/heterpaper.pdf  used on input line 3.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<images/heterpaper.pdf, id=2943, page=1, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=2956, page=1, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
 <use images/heterpaper.pdf, page 1>
 Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 3.
@@ -5347,7 +5373,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[216.213
+[218.215
 
 
 
@@ -5367,349 +5393,349 @@ File: images/heterpaper.pdf Graphic file (type pdf)
 <use images/heterpaper.pdf, page 1>
 Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-[217.214
-
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=2965, page=2, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 2>
-Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 2>
-Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 2>
-Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-[218.215
-
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=2994, page=3, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 3>
-Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 3>
-Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 3>
-Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [219.216
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=2999, page=4, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=2978, page=2, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 4>
-Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
+<use images/heterpaper.pdf, page 2>
+Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 4>
-Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
+<use images/heterpaper.pdf, page 2>
+Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 4>
-Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
+<use images/heterpaper.pdf, page 2>
+Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [220.217
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3012, page=5, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3009, page=3, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 5>
-Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
+<use images/heterpaper.pdf, page 3>
+Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 5>
-Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
+<use images/heterpaper.pdf, page 3>
+Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 5>
-Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
+<use images/heterpaper.pdf, page 3>
+Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [221.218
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3017, page=6, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3014, page=4, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 6>
-Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
+<use images/heterpaper.pdf, page 4>
+Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 6>
-Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
+<use images/heterpaper.pdf, page 4>
+Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 6>
-Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
+<use images/heterpaper.pdf, page 4>
+Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [222.219
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3040, page=7, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3025, page=5, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 7>
-Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
+<use images/heterpaper.pdf, page 5>
+Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 7>
-Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
+<use images/heterpaper.pdf, page 5>
+Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 7>
-Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
+<use images/heterpaper.pdf, page 5>
+Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [223.220
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3054, page=8, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3030, page=6, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 8>
-Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
+<use images/heterpaper.pdf, page 6>
+Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 8>
-Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
+<use images/heterpaper.pdf, page 6>
+Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 8>
-Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
+<use images/heterpaper.pdf, page 6>
+Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [224.221
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3059, page=9, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3053, page=7, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 9>
-Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
+<use images/heterpaper.pdf, page 7>
+Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 9>
-Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
+<use images/heterpaper.pdf, page 7>
+Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 9>
-Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
+<use images/heterpaper.pdf, page 7>
+Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [225.222
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3064, page=10, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3067, page=8, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 10>
-Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
+<use images/heterpaper.pdf, page 8>
+Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 10>
-Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
+<use images/heterpaper.pdf, page 8>
+Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 10>
-Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
+<use images/heterpaper.pdf, page 8>
+Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [226.223
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3076, page=11, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3073, page=9, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 11>
-Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
+<use images/heterpaper.pdf, page 9>
+Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 11>
-Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
+<use images/heterpaper.pdf, page 9>
+Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 11>
-Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
+<use images/heterpaper.pdf, page 9>
+Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [227.224
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3081, page=12, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3078, page=10, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 12>
-Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
+<use images/heterpaper.pdf, page 10>
+Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 12>
-Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
+<use images/heterpaper.pdf, page 10>
+Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 12>
-Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
+<use images/heterpaper.pdf, page 10>
+Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [228.225
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3089, page=13, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3089, page=11, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 13>
-Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
+<use images/heterpaper.pdf, page 11>
+Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 13>
-Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
+<use images/heterpaper.pdf, page 11>
+Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 13>
-Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
+<use images/heterpaper.pdf, page 11>
+Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [229.226
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3096, page=14, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3094, page=12, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 14>
-Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
+<use images/heterpaper.pdf, page 12>
+Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 14>
-Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
+<use images/heterpaper.pdf, page 12>
+Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 14>
-Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
+<use images/heterpaper.pdf, page 12>
+Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [230.227
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3103, page=15, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3102, page=13, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 15>
-Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
+<use images/heterpaper.pdf, page 13>
+Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 15>
-Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
+<use images/heterpaper.pdf, page 13>
+Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 15>
-Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
+<use images/heterpaper.pdf, page 13>
+Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [231.228
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3108, page=16, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3109, page=14, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 16>
-Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
+<use images/heterpaper.pdf, page 14>
+Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 16>
-Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
+<use images/heterpaper.pdf, page 14>
+Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 16>
-Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
+<use images/heterpaper.pdf, page 14>
+Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [232.229
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3114, page=17, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3117, page=15, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 17>
-Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
+<use images/heterpaper.pdf, page 15>
+Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 17>
-Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
+<use images/heterpaper.pdf, page 15>
+Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 17>
-Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
+<use images/heterpaper.pdf, page 15>
+Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [233.230
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3119, page=18, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3122, page=16, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 18>
-Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
+<use images/heterpaper.pdf, page 16>
+Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 18>
-Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
+<use images/heterpaper.pdf, page 16>
+Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 18>
-Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
+<use images/heterpaper.pdf, page 16>
+Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [234.231
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3124, page=19, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3127, page=17, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 19>
-Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+<use images/heterpaper.pdf, page 17>
+Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 19>
-Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+<use images/heterpaper.pdf, page 17>
+Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 19>
-Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+<use images/heterpaper.pdf, page 17>
+Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [235.232
 
  <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3129, page=20, 597.50829pt x 845.0471pt>
+<images/heterpaper.pdf, id=3132, page=18, 597.50829pt x 845.0471pt>
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 20>
-Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
+<use images/heterpaper.pdf, page 18>
+Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 20>
-Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
+<use images/heterpaper.pdf, page 18>
+Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 20>
-Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
+<use images/heterpaper.pdf, page 18>
+Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [236.233
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=3137, page=19, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 19>
+Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 19>
+Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 19>
+Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[237.234
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=3142, page=20, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 20>
+Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 20>
+Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 20>
+Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[238.235
 
  <./images/heterpaper.pdf>])
 
@@ -5725,7 +5751,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[237.234]
+[239.236]
 \openout2 = `Dissertation/resume.aux'.
 
 
@@ -5964,6 +5990,7 @@ images/Гетеродин схема новая2 .png
 images/Spectrum of ruined polarization.png
 images/normal polarization.png
 images/толстые линии и исправлены названия сигнал после детектирования.png
+images/FFT Amplitude.png
 Dissertation/part4.tex
 images/1310 experiment (3).pdf
 images/ватт ампер для диссера.png
@@ -6032,18 +6059,18 @@ Package rerunfilecheck Info: File `dissertation.out' has not changed.
 ### simple group (level 1) entered at line 114 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 39054 strings out of 470412
- 719275 string characters out of 5494316
- 1479015 words of memory out of 5000000
- 64230 multiletter control sequences out of 15000+600000
+ 39069 strings out of 470412
+ 719644 string characters out of 5494316
+ 1480566 words of memory out of 5000000
+ 64242 multiletter control sequences out of 15000+600000
  638827 words of font info for 67 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
- 94i,21n,98p,5642b,1119s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,21n,98p,5642b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on dissertation.pdf (234 pages, 4279928 bytes).
+Output written on dissertation.pdf (236 pages, 4328352 bytes).
 PDF statistics:
- 3364 PDF objects out of 3580 (max. 8388607)
- 2707 compressed objects within 28 object streams
- 671 named destinations out of 1000 (max. 500000)
- 933 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3379 PDF objects out of 3580 (max. 8388607)
+ 2719 compressed objects within 28 object streams
+ 674 named destinations out of 1000 (max. 500000)
+ 938 words of extra memory for PDF output out of 10000 (max. 10000000)
 
