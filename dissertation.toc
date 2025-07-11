@@ -65,11 +65,11 @@
 \contentsline {section}{\numberline {5.3}Проведение эксперимента}{181}{section.5.3}%
 \contentsline {subsection}{\numberline {5.3.1}Источник света на испытаниях}{181}{subsection.5.3.1}%
 \contentsline {subsection}{\numberline {5.3.2}Экспериментальная установка}{184}{subsection.5.3.2}%
-\contentsline {section}{\numberline {5.4}Результаты экспериментов}{187}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Характеристики источника КРК}{187}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Длина волны источника равна длине волны источника}{190}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Атака в зависимости от длины волны}{195}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}Выводы по главе}{197}{section.5.5}%
-\contentsline {chapter}{Заключение}{199}{chapter*.38}%
-\contentsline {chapter}{Список литературы}{201}{chapter*.39}%
-\contentsline {chapter}{Тексты публикаций}{218}{chapter*.40}%
+\contentsline {section}{\numberline {5.4}Результаты экспериментов}{188}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Характеристики источника КРК}{188}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Длина волны источника равна длине волны источника}{191}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Атака в зависимости от длины волны}{196}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}Выводы по главе}{198}{section.5.5}%
+\contentsline {chapter}{Заключение}{200}{chapter*.38}%
+\contentsline {chapter}{Список литературы}{202}{chapter*.39}%
+\contentsline {chapter}{Тексты публикаций}{219}{chapter*.40}%
