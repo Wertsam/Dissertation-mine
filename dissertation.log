@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.2)  21 AUG 2025 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.2)  8 SEP 2025 17:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1452,20 +1452,7 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 LaTeX Warning: Label `fig:enter-label@cref' multiply defined.
 
-) (./Dissertation/introduction.aux) (./Dissertation/part1.aux) (./Dissertation/part2.aux) (./Dissertation/part3.aux) (./Dissertation/part4.aux) (./Dissertation/part5.aux
-
-LaTeX Warning: Label `fig:QKD_PDF' multiply defined.
-
-
-LaTeX Warning: Label `fig:QKD_PDF@cref' multiply defined.
-
-
-LaTeX Warning: Label `fig:amplitude' multiply defined.
-
-
-LaTeX Warning: Label `fig:amplitude@cref' multiply defined.
-
-) (./Dissertation/conclusion.aux) (./Dissertation/references.aux) (./Dissertation/publications.aux) (./Dissertation/resume.aux)
+) (./Dissertation/introduction.aux) (./Dissertation/part1.aux) (./Dissertation/part2.aux) (./Dissertation/part3.aux) (./Dissertation/part4.aux) (./Dissertation/part5.aux) (./Dissertation/conclusion.aux) (./Dissertation/references.aux) (./Dissertation/publications.aux) (./Dissertation/resume.aux)
 \c@totalcount@figure@totc=\count456
 \c@totalcount@table@totc=\count457
 \c@TotPages@totc=\count458
@@ -1840,11 +1827,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [20.17]
-Underfull \hbox (badness 10000) in paragraph at lines 114--118
-
- []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1873,10 +1855,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [22.19]
-<images/Схема с обратной связью.png, id=500, 1394.20876pt x 505.89pt>
+<images/Схема с обратной связью.png, id=506, 1394.20876pt x 505.89pt>
 File: images/Схема с обратной связью.png Graphic file (type png)
 <use images/Схема с обратной связью.png>
-Package pdftex.def Info: images/Схема с обратной связью.png  used on input line 137.
+Package pdftex.def Info: images/Схема с обратной связью.png  used on input line 128.
 (pdftex.def)             Requested size: 497.92325pt x 180.66904pt.
 
 
@@ -1892,16 +1874,16 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[23.20{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[23.20 <./images/Схема с обратной связью.png>]
 <images/03.png, id=515, 509.2626pt x 389.7762pt>
 File: images/03.png Graphic file (type png)
 <use images/03.png>
-Package pdftex.def Info: images/03.png  used on input line 152.
+Package pdftex.def Info: images/03.png  used on input line 143.
 (pdftex.def)             Requested size: 497.92325pt x 381.10378pt.
 <images/06.png, id=516, 509.2626pt x 495.2904pt>
 File: images/06.png Graphic file (type png)
 <use images/06.png>
-Package pdftex.def Info: images/06.png  used on input line 159.
+Package pdftex.def Info: images/06.png  used on input line 150.
 (pdftex.def)             Requested size: 398.3401pt x 387.41324pt.
 
 
@@ -1917,7 +1899,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[24.21 <./images/Схема с обратной связью.png>]
+[24.21{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1946,6 +1928,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [26.23 <./images/03.png (PNG copy)>]
+<images/Гетеродин схема новая2 .png, id=542, 2069.7325pt x 704.6325pt>
+File: images/Гетеродин схема новая2 .png Graphic file (type png)
+<use images/Гетеродин схема новая2 .png>
+Package pdftex.def Info: images/Гетеродин схема новая2 .png  used on input line 162.
+(pdftex.def)             Requested size: 497.92325pt x 169.51308pt.
+<images/balanced output heterodyne.png, id=543, 774.7344pt x 592.8549pt>
+File: images/balanced output heterodyne.png Graphic file (type png)
+<use images/balanced output heterodyne.png>
+Package pdftex.def Info: images/balanced output heterodyne.png  used on input line 170.
+(pdftex.def)             Requested size: 497.92325pt x 381.02702pt.
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1960,17 +1953,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [27.24 <./images/06.png (PNG copy)>]
-<images/Гетеродин схема новая2 .png, id=547, 2069.7325pt x 704.6325pt>
-File: images/Гетеродин схема новая2 .png Graphic file (type png)
-<use images/Гетеродин схема новая2 .png>
-Package pdftex.def Info: images/Гетеродин схема новая2 .png  used on input line 171.
-(pdftex.def)             Requested size: 497.92325pt x 169.51308pt.
-<images/balanced output heterodyne.png, id=548, 774.7344pt x 592.8549pt>
-File: images/balanced output heterodyne.png Graphic file (type png)
-<use images/balanced output heterodyne.png>
-Package pdftex.def Info: images/balanced output heterodyne.png  used on input line 179.
-(pdftex.def)             Requested size: 497.92325pt x 381.02702pt.
-
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2013,15 +1995,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [30.27 <./images/balanced output heterodyne.png (PNG copy)>]
-<images/Spectrum of ruined polarization.png, id=570, 284.5029pt x 178.5069pt>
+<images/Spectrum of ruined polarization.png, id=573, 284.5029pt x 178.5069pt>
 File: images/Spectrum of ruined polarization.png Graphic file (type png)
 <use images/Spectrum of ruined polarization.png>
-Package pdftex.def Info: images/Spectrum of ruined polarization.png  used on input line 196.
+Package pdftex.def Info: images/Spectrum of ruined polarization.png  used on input line 187.
 (pdftex.def)             Requested size: 497.92325pt x 312.41623pt.
-<images/normal polarization.png, id=571, 284.5029pt x 178.5069pt>
+<images/normal polarization.png, id=574, 284.5029pt x 178.5069pt>
 File: images/normal polarization.png Graphic file (type png)
 <use images/normal polarization.png>
-Package pdftex.def Info: images/normal polarization.png  used on input line 202.
+Package pdftex.def Info: images/normal polarization.png  used on input line 193.
 (pdftex.def)             Requested size: 497.92325pt x 312.41623pt.
 
 
@@ -2037,7 +2019,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[31.28]
+[31.28 <./images/Spectrum of ruined polarization.png (PNG copy)>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2051,7 +2033,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 5.25005pt, for example:
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
-[32.29 <./images/Spectrum of ruined polarization.png (PNG copy)> <./images/normal polarization.png (PNG copy)>]
+[32.29 <./images/normal polarization.png (PNG copy)>]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2069,17 +2051,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 <images/1310 experiment.png, id=599, 773.89125pt x 406.51875pt>
 File: images/1310 experiment.png Graphic file (type png)
 <use images/1310 experiment.png>
-Package pdftex.def Info: images/1310 experiment.png  used on input line 213.
+Package pdftex.def Info: images/1310 experiment.png  used on input line 204.
 (pdftex.def)             Requested size: 373.44243pt x 196.16887pt.
 <images/ватт ампер для диссера.png, id=600, 774.7344pt x 592.8549pt>
 File: images/ватт ампер для диссера.png Graphic file (type png)
 <use images/ватт ампер для диссера.png>
-Package pdftex.def Info: images/ватт ампер для диссера.png  used on input line 220.
+Package pdftex.def Info: images/ватт ампер для диссера.png  used on input line 211.
 (pdftex.def)             Requested size: 373.44243pt x 285.77026pt.
 <images/Импульсы под действием 1310 для диссера.png, id=604, 774.7344pt x 592.8549pt>
 File: images/Импульсы под действием 1310 для диссера.png Graphic file (type png)
 <use images/Импульсы под действием 1310 для диссера.png>
-Package pdftex.def Info: images/Импульсы под действием 1310 для диссера.png  used on input line 227.
+Package pdftex.def Info: images/Импульсы под действием 1310 для диссера.png  used on input line 218.
 (pdftex.def)             Requested size: 373.44243pt x 285.77026pt.
 
 
@@ -2127,7 +2109,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 <images/Эффективность 1310.png, id=631, 244.5135pt x 187.1793pt>
 File: images/Эффективность 1310.png Graphic file (type png)
 <use images/Эффективность 1310.png>
-Package pdftex.def Info: images/Эффективность 1310.png  used on input line 234.
+Package pdftex.def Info: images/Эффективность 1310.png  used on input line 225.
 (pdftex.def)             Requested size: 348.54475pt x 266.83038pt.
 
 
@@ -2147,17 +2129,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 <images/setup_Faraday_Mirrors_final.pdf, id=640, 237.2634pt x 161.67722pt>
 File: images/setup_Faraday_Mirrors_final.pdf Graphic file (type pdf)
 <use images/setup_Faraday_Mirrors_final.pdf>
-Package pdftex.def Info: images/setup_Faraday_Mirrors_final.pdf  used on input line 242.
+Package pdftex.def Info: images/setup_Faraday_Mirrors_final.pdf  used on input line 233.
 (pdftex.def)             Requested size: 448.12788pt x 305.38159pt.
 <images/area_under_attack.pdf, id=642, 244.915pt x 187.70125pt>
 File: images/area_under_attack.pdf Graphic file (type pdf)
 <use images/area_under_attack.pdf>
-Package pdftex.def Info: images/area_under_attack.pdf  used on input line 251.
+Package pdftex.def Info: images/area_under_attack.pdf  used on input line 242.
 (pdftex.def)             Requested size: 244.91438pt x 187.70079pt.
 <images/duration_change.pdf, id=645, 244.915pt x 187.70125pt>
 File: images/duration_change.pdf Graphic file (type pdf)
 <use images/duration_change.pdf>
-Package pdftex.def Info: images/duration_change.pdf  used on input line 258.
+Package pdftex.def Info: images/duration_change.pdf  used on input line 249.
 (pdftex.def)             Requested size: 244.91438pt x 187.70079pt.
 
 
@@ -4624,7 +4606,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 
 ]
-<images/StabilityDiagramsFreq.pdf, id=2163, 540.70004pt x 284.62335pt>
+<images/StabilityDiagramsFreq.pdf, id=2164, 540.70004pt x 284.62335pt>
 File: images/StabilityDiagramsFreq.pdf Graphic file (type pdf)
 <use images/StabilityDiagramsFreq.pdf>
 Package pdftex.def Info: images/StabilityDiagramsFreq.pdf  used on input line 18.
@@ -4691,10 +4673,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [179.176]
-<images/PDF.png, id=2241, 220.49042pt x 189.70876pt>
+<images/PDF.png, id=2242, 220.49042pt x 189.70876pt>
 File: images/PDF.png Graphic file (type png)
 <use images/PDF.png>
-Package pdftex.def Info: images/PDF.png  used on input line 72.
+Package pdftex.def Info: images/PDF.png  used on input line 73.
 (pdftex.def)             Requested size: 497.92325pt x 428.4502pt.
 
 
@@ -4711,10 +4693,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [180.177 <./images/PDF.png>]
-<images/setup.pdf, id=2252, 237.26341pt x 161.67723pt>
+<images/setup.pdf, id=2253, 237.26341pt x 161.67723pt>
 File: images/setup.pdf Graphic file (type pdf)
 <use images/setup.pdf>
-Package pdftex.def Info: images/setup.pdf  used on input line 87.
+Package pdftex.def Info: images/setup.pdf  used on input line 88.
 (pdftex.def)             Requested size: 497.92325pt x 339.31511pt.
 
 
@@ -4745,15 +4727,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [182.179 <./images/setup.pdf>]
-<images/spectra.pdf, id=2306, 244.915pt x 187.70125pt>
+<images/spectra.pdf, id=2307, 244.915pt x 187.70125pt>
 File: images/spectra.pdf Graphic file (type pdf)
 <use images/spectra.pdf>
-Package pdftex.def Info: images/spectra.pdf  used on input line 101.
+Package pdftex.def Info: images/spectra.pdf  used on input line 102.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/envelope.pdf, id=2307, 244.915pt x 187.70125pt>
+<images/envelope.pdf, id=2308, 244.915pt x 187.70125pt>
 File: images/envelope.pdf Graphic file (type pdf)
 <use images/envelope.pdf>
-Package pdftex.def Info: images/envelope.pdf  used on input line 107.
+Package pdftex.def Info: images/envelope.pdf  used on input line 109.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
 
 
@@ -4798,25 +4780,25 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [185.182 <./images/envelope.pdf>]
-<images/master_power.pdf, id=2366, 244.915pt x 187.70125pt>
+<images/master_power.pdf, id=2367, 244.915pt x 187.70125pt>
 File: images/master_power.pdf Graphic file (type pdf)
 <use images/master_power.pdf>
-Package pdftex.def Info: images/master_power.pdf  used on input line 126.
+Package pdftex.def Info: images/master_power.pdf  used on input line 129.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_initial.pdf, id=2367, 774.895pt x 593.21625pt>
+<images/hist_initial.pdf, id=2368, 774.895pt x 593.21625pt>
 File: images/hist_initial.pdf Graphic file (type pdf)
 <use images/hist_initial.pdf>
-Package pdftex.def Info: images/hist_initial.pdf  used on input line 133.
+Package pdftex.def Info: images/hist_initial.pdf  used on input line 136.
 (pdftex.def)             Requested size: 497.92325pt x 381.18684pt.
-<images/spectra_att.pdf, id=2368, 244.915pt x 187.70125pt>
+<images/spectra_att.pdf, id=2369, 244.915pt x 187.70125pt>
 File: images/spectra_att.pdf Graphic file (type pdf)
 <use images/spectra_att.pdf>
-Package pdftex.def Info: images/spectra_att.pdf  used on input line 140.
+Package pdftex.def Info: images/spectra_att.pdf  used on input line 143.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/envelope_att.pdf, id=2369, 244.915pt x 187.70125pt>
+<images/envelope_att.pdf, id=2370, 244.915pt x 187.70125pt>
 File: images/envelope_att.pdf Graphic file (type pdf)
 <use images/envelope_att.pdf>
-Package pdftex.def Info: images/envelope_att.pdf  used on input line 148.
+Package pdftex.def Info: images/envelope_att.pdf  used on input line 151.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
 
 
@@ -4875,10 +4857,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [189.186 <./images/spectra_att.pdf>]
-<images/average_power.pdf, id=2548, 244.915pt x 187.70125pt>
+<images/average_power.pdf, id=2549, 244.915pt x 187.70125pt>
 File: images/average_power.pdf Graphic file (type pdf)
 <use images/average_power.pdf>
-Package pdftex.def Info: images/average_power.pdf  used on input line 175.
+Package pdftex.def Info: images/average_power.pdf  used on input line 178.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
 
 
@@ -4909,12 +4891,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [191.188]
-<images/amplitude_change.pdf, id=2608, 244.915pt x 187.70125pt>
-File: images/amplitude_change.pdf Graphic file (type pdf)
-<use images/amplitude_change.pdf>
-Package pdftex.def Info: images/amplitude_change.pdf  used on input line 185.
-(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4929,23 +4905,28 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [192.189 <./images/average_power.pdf>]
+<images/amplitude_change.pdf, id=2651, 244.915pt x 187.70125pt>
+File: images/amplitude_change.pdf Graphic file (type pdf)
+<use images/amplitude_change.pdf>
+Package pdftex.def Info: images/amplitude_change.pdf  used on input line 188.
+(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
 File: images/duration_change.pdf Graphic file (type pdf)
 <use images/duration_change.pdf>
-Package pdftex.def Info: images/duration_change.pdf  used on input line 192.
+Package pdftex.def Info: images/duration_change.pdf  used on input line 195.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
 File: images/area_under_attack.pdf Graphic file (type pdf)
 <use images/area_under_attack.pdf>
-Package pdftex.def Info: images/area_under_attack.pdf  used on input line 199.
+Package pdftex.def Info: images/area_under_attack.pdf  used on input line 202.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_attack_11.pdf, id=2648, 244.915pt x 187.70125pt>
+<images/hist_attack_11.pdf, id=2652, 244.915pt x 187.70125pt>
 File: images/hist_attack_11.pdf Graphic file (type pdf)
 <use images/hist_attack_11.pdf>
-Package pdftex.def Info: images/hist_attack_11.pdf  used on input line 207.
+Package pdftex.def Info: images/hist_attack_11.pdf  used on input line 210.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-<images/hist_attack_01.pdf, id=2649, 244.915pt x 187.70125pt>
+<images/hist_attack_01.pdf, id=2653, 244.915pt x 187.70125pt>
 File: images/hist_attack_01.pdf Graphic file (type pdf)
 <use images/hist_attack_01.pdf>
-Package pdftex.def Info: images/hist_attack_01.pdf  used on input line 214.
+Package pdftex.def Info: images/hist_attack_01.pdf  used on input line 217.
 (pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
 
 
@@ -4976,12 +4957,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [194.191]
-<images/WL_Eve.pdf, id=2682, 244.915pt x 187.70125pt>
-File: images/WL_Eve.pdf Graphic file (type pdf)
-<use images/WL_Eve.pdf>
-Package pdftex.def Info: images/WL_Eve.pdf  used on input line 230.
-(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
-
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -4996,6 +4971,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{5.25005pt}.
 
 [195.192]
+<images/WL_Eve.pdf, id=2688, 244.915pt x 187.70125pt>
+File: images/WL_Eve.pdf Graphic file (type pdf)
+<use images/WL_Eve.pdf>
+Package pdftex.def Info: images/WL_Eve.pdf  used on input line 233.
+(pdftex.def)             Requested size: 497.92325pt x 381.61664pt.
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -5385,20 +5366,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 \openout2 = `Dissertation/publications.aux'.
 
  (./Dissertation/publications.tex
-<images/heterpaper.pdf, id=2959, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf>
-Package pdftex.def Info: images/heterpaper.pdf  used on input line 3.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<images/heterpaper.pdf, id=2961, page=1, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 1>
-Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 1>
-Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+<images/JOSAB_detection.pdf, id=2961, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf>
+Package pdftex.def Info: images/JOSAB_detection.pdf  used on input line 3.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<images/JOSAB_detection.pdf, id=2963, page=1, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 1>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 1>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
 
@@ -5419,379 +5400,1171 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 
 ]
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 1>
-Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 1>
-Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 1>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 1>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 1>
-Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 1>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [220.217
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=2984, page=2, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 2>
-Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 2>
-Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3011, page=2, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 2>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page2 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 2>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page2 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 2>
-Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 2>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page2 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [221.218
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3014, page=3, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 3>
-Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 3>
-Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3057, page=3, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 3>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page3 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 3>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page3 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 3>
-Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 3>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page3 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [222.219
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3019, page=4, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 4>
-Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 4>
-Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3062, page=4, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 4>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 4>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 4>
-Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 4>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [223.220
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3030, page=5, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 5>
-Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 5>
-Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3263, page=5, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 5>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page5 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 5>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page5 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 5>
-Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 5>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page5 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [224.221
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3035, page=6, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 6>
-Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 6>
-Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3268, page=6, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 6>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page6 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 6>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page6 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 6>
-Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 6>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page6 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [225.222
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3058, page=7, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 7>
-Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 7>
-Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3301, page=7, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 7>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page7 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 7>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page7 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 7>
-Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 7>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page7 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [226.223
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3073, page=8, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 8>
-Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 8>
-Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3579, page=8, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 8>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page8 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 8>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page8 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 8>
-Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 8>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page8 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [227.224
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3078, page=9, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 9>
-Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 9>
-Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3598, page=9, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 9>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page9 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 9>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page9 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 9>
-Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 9>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page9 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [228.225
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3083, page=10, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 10>
-Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 10>
-Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3615, page=10, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 10>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page10 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 10>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page10 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 10>
-Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 10>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page10 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [229.226
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3094, page=11, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 11>
-Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 11>
-Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3638, page=11, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 11>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page11 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 11>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page11 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 11>
-Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 11>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page11 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [230.227
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3099, page=12, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 12>
-Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 12>
-Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3648, page=12, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 12>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page12 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 12>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page12 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 12>
-Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 12>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page12 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [231.228
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3107, page=13, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 13>
-Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 13>
-Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3653, page=13, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 13>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page13 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 13>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page13 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 13>
-Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 13>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page13 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [232.229
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3115, page=14, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 14>
-Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 14>
-Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/JOSAB_detection.pdf>]
+<images/JOSAB_detection.pdf, id=3659, page=14, 614.295pt x 794.97pt>
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 14>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page14 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 14>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page14 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 14>
-Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/JOSAB_detection.pdf Graphic file (type pdf)
+<use images/JOSAB_detection.pdf, page 14>
+Package pdftex.def Info: images/JOSAB_detection.pdf , page14 used on input line 3.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [233.230
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3122, page=15, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 15>
-Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
+ <./images/JOSAB_detection.pdf>]
+<images/qrng.pdf, id=3664, 597.50829pt x 845.0471pt>
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf>
+Package pdftex.def Info: images/qrng.pdf  used on input line 4.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<images/qrng.pdf, id=3666, page=1, 597.50829pt x 845.0471pt>
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 1>
+Package pdftex.def Info: images/qrng.pdf , page1 used on input line 4.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 1>
+Package pdftex.def Info: images/qrng.pdf , page1 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 15>
-Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 1>
+Package pdftex.def Info: images/qrng.pdf , page1 used on input line 4.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 1>
+Package pdftex.def Info: images/qrng.pdf , page1 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 15>
-Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 1>
+Package pdftex.def Info: images/qrng.pdf , page1 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [234.231
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3127, page=16, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 16>
-Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
+ <./images/qrng.pdf>]
+<images/qrng.pdf, id=3697, page=2, 597.50829pt x 845.0471pt>
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 2>
+Package pdftex.def Info: images/qrng.pdf , page2 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 16>
-Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 2>
+Package pdftex.def Info: images/qrng.pdf , page2 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 16>
-Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 2>
+Package pdftex.def Info: images/qrng.pdf , page2 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [235.232
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3132, page=17, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 17>
-Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
+ <./images/qrng.pdf>]
+<images/qrng.pdf, id=3730, page=3, 597.50829pt x 845.0471pt>
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 3>
+Package pdftex.def Info: images/qrng.pdf , page3 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 17>
-Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 3>
+Package pdftex.def Info: images/qrng.pdf , page3 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 17>
-Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 3>
+Package pdftex.def Info: images/qrng.pdf , page3 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [236.233
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3137, page=18, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 18>
-Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
+ <./images/qrng.pdf>]
+<images/qrng.pdf, id=3735, page=4, 597.50829pt x 845.0471pt>
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 4>
+Package pdftex.def Info: images/qrng.pdf , page4 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 18>
-Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 4>
+Package pdftex.def Info: images/qrng.pdf , page4 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 18>
-Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 4>
+Package pdftex.def Info: images/qrng.pdf , page4 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [237.234
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3142, page=19, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 19>
-Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+ <./images/qrng.pdf>]
+<images/qrng.pdf, id=3740, page=5, 597.50829pt x 845.0471pt>
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 5>
+Package pdftex.def Info: images/qrng.pdf , page5 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 19>
-Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 5>
+Package pdftex.def Info: images/qrng.pdf , page5 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 19>
-Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 3.
+File: images/qrng.pdf Graphic file (type pdf)
+<use images/qrng.pdf, page 5>
+Package pdftex.def Info: images/qrng.pdf , page5 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [238.235
 
- <./images/heterpaper.pdf>]
-<images/heterpaper.pdf, id=3148, page=20, 597.50829pt x 845.0471pt>
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 20>
-Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 20>
-Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ <./images/qrng.pdf>]
+<images/ICLO_2022_short.pdf, id=3752, 614.295pt x 794.97pt>
+File: images/ICLO_2022_short.pdf Graphic file (type pdf)
+<use images/ICLO_2022_short.pdf>
+Package pdftex.def Info: images/ICLO_2022_short.pdf  used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<images/ICLO_2022_short.pdf, id=3754, page=1, 614.295pt x 794.97pt>
+File: images/ICLO_2022_short.pdf Graphic file (type pdf)
+<use images/ICLO_2022_short.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2022_short.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: images/ICLO_2022_short.pdf Graphic file (type pdf)
+<use images/ICLO_2022_short.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2022_short.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/ICLO_2022_short.pdf Graphic file (type pdf)
+<use images/ICLO_2022_short.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2022_short.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/ICLO_2022_short.pdf Graphic file (type pdf)
+<use images/ICLO_2022_short.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2022_short.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 
 
-File: images/heterpaper.pdf Graphic file (type pdf)
-<use images/heterpaper.pdf, page 20>
-Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 3.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/ICLO_2022_short.pdf Graphic file (type pdf)
+<use images/ICLO_2022_short.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2022_short.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [239.236
 
- <./images/heterpaper.pdf>])
+ <./images/ICLO_2022_short.pdf>]
+<images/feedback.pdf, id=3799, 597.50829pt x 845.0471pt>
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf>
+Package pdftex.def Info: images/feedback.pdf  used on input line 6.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<images/feedback.pdf, id=3801, page=1, 597.50829pt x 845.0471pt>
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 1>
+Package pdftex.def Info: images/feedback.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 1>
+Package pdftex.def Info: images/feedback.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 1>
+Package pdftex.def Info: images/feedback.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 1>
+Package pdftex.def Info: images/feedback.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 1>
+Package pdftex.def Info: images/feedback.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[240.237
+
+ <./images/feedback.pdf>]
+<images/feedback.pdf, id=3848, page=2, 597.50829pt x 845.0471pt>
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 2>
+Package pdftex.def Info: images/feedback.pdf , page2 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 2>
+Package pdftex.def Info: images/feedback.pdf , page2 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 5.25005pt, for example:
-(fancyhdr)                \setlength{\footskip}{5.25005pt}.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 2>
+Package pdftex.def Info: images/feedback.pdf , page2 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[241.238
 
-[240.237]
+ <./images/feedback.pdf>]
+<images/feedback.pdf, id=3885, page=3, 597.50829pt x 845.0471pt>
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 3>
+Package pdftex.def Info: images/feedback.pdf , page3 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 3>
+Package pdftex.def Info: images/feedback.pdf , page3 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 3>
+Package pdftex.def Info: images/feedback.pdf , page3 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[242.239
+
+ <./images/feedback.pdf>]
+<images/feedback.pdf, id=3919, page=4, 597.50829pt x 845.0471pt>
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 4>
+Package pdftex.def Info: images/feedback.pdf , page4 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 4>
+Package pdftex.def Info: images/feedback.pdf , page4 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 4>
+Package pdftex.def Info: images/feedback.pdf , page4 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[243.240
+
+ <./images/feedback.pdf>]
+<images/feedback.pdf, id=3930, page=5, 597.50829pt x 845.0471pt>
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 5>
+Package pdftex.def Info: images/feedback.pdf , page5 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 5>
+Package pdftex.def Info: images/feedback.pdf , page5 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/feedback.pdf Graphic file (type pdf)
+<use images/feedback.pdf, page 5>
+Package pdftex.def Info: images/feedback.pdf , page5 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[244.241
+
+ <./images/feedback.pdf>]
+<images/hybrid.pdf, id=3936, 597.50829pt x 845.0471pt>
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf>
+Package pdftex.def Info: images/hybrid.pdf  used on input line 7.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<images/hybrid.pdf, id=3938, page=1, 597.50829pt x 845.0471pt>
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 1>
+Package pdftex.def Info: images/hybrid.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 1>
+Package pdftex.def Info: images/hybrid.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 1>
+Package pdftex.def Info: images/hybrid.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 1>
+Package pdftex.def Info: images/hybrid.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 1>
+Package pdftex.def Info: images/hybrid.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[245.242
+
+ <./images/hybrid.pdf>]
+<images/hybrid.pdf, id=3984, page=2, 597.50829pt x 845.0471pt>
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 2>
+Package pdftex.def Info: images/hybrid.pdf , page2 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 2>
+Package pdftex.def Info: images/hybrid.pdf , page2 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 2>
+Package pdftex.def Info: images/hybrid.pdf , page2 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[246.243
+
+ <./images/hybrid.pdf>]
+<images/hybrid.pdf, id=3994, page=3, 597.50829pt x 845.0471pt>
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 3>
+Package pdftex.def Info: images/hybrid.pdf , page3 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 3>
+Package pdftex.def Info: images/hybrid.pdf , page3 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 3>
+Package pdftex.def Info: images/hybrid.pdf , page3 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[247.244
+
+ <./images/hybrid.pdf>]
+<images/hybrid.pdf, id=4004, page=4, 597.50829pt x 845.0471pt>
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 4>
+Package pdftex.def Info: images/hybrid.pdf , page4 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 4>
+Package pdftex.def Info: images/hybrid.pdf , page4 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/hybrid.pdf Graphic file (type pdf)
+<use images/hybrid.pdf, page 4>
+Package pdftex.def Info: images/hybrid.pdf , page4 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[248.245
+
+ <./images/hybrid.pdf>]
+<images/ICLO_2024_laser_pump.pdf, id=4009, 614.295pt x 794.97pt>
+File: images/ICLO_2024_laser_pump.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_pump.pdf>
+Package pdftex.def Info: images/ICLO_2024_laser_pump.pdf  used on input line 8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<images/ICLO_2024_laser_pump.pdf, id=4011, page=1, 614.295pt x 794.97pt>
+File: images/ICLO_2024_laser_pump.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_pump.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_pump.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: images/ICLO_2024_laser_pump.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_pump.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_pump.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/ICLO_2024_laser_pump.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_pump.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_pump.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/ICLO_2024_laser_pump.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_pump.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_pump.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/ICLO_2024_laser_pump.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_pump.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_pump.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[249.246
+
+ <./images/ICLO_2024_laser_pump.pdf>]
+<images/ICLO_2024_laser_robustnes.pdf, id=4053, 614.295pt x 794.97pt>
+File: images/ICLO_2024_laser_robustnes.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_robustnes.pdf>
+Package pdftex.def Info: images/ICLO_2024_laser_robustnes.pdf  used on input line 9.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<images/ICLO_2024_laser_robustnes.pdf, id=4055, page=1, 614.295pt x 794.97pt>
+File: images/ICLO_2024_laser_robustnes.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_robustnes.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_robustnes.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: images/ICLO_2024_laser_robustnes.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_robustnes.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_robustnes.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/ICLO_2024_laser_robustnes.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_robustnes.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_robustnes.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/ICLO_2024_laser_robustnes.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_robustnes.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_robustnes.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/ICLO_2024_laser_robustnes.pdf Graphic file (type pdf)
+<use images/ICLO_2024_laser_robustnes.pdf, page 1>
+Package pdftex.def Info: images/ICLO_2024_laser_robustnes.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[250.247
+
+ <./images/ICLO_2024_laser_robustnes.pdf>]
+<images/heterpaper.pdf, id=4101, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf>
+Package pdftex.def Info: images/heterpaper.pdf  used on input line 10.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<images/heterpaper.pdf, id=4103, page=1, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 1>
+Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 1>
+Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 1>
+Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 1>
+Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 1>
+Package pdftex.def Info: images/heterpaper.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[251.248
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4121, page=2, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 2>
+Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 2>
+Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 2>
+Package pdftex.def Info: images/heterpaper.pdf , page2 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[252.249
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4146, page=3, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 3>
+Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 3>
+Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 3>
+Package pdftex.def Info: images/heterpaper.pdf , page3 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[253.250
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4151, page=4, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 4>
+Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 4>
+Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 4>
+Package pdftex.def Info: images/heterpaper.pdf , page4 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[254.251
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4162, page=5, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 5>
+Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 5>
+Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 5>
+Package pdftex.def Info: images/heterpaper.pdf , page5 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[255.252
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4167, page=6, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 6>
+Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 6>
+Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 6>
+Package pdftex.def Info: images/heterpaper.pdf , page6 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[256.253
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4189, page=7, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 7>
+Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 7>
+Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 7>
+Package pdftex.def Info: images/heterpaper.pdf , page7 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[257.254
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4203, page=8, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 8>
+Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 8>
+Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 8>
+Package pdftex.def Info: images/heterpaper.pdf , page8 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[258.255
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4208, page=9, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 9>
+Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 9>
+Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 9>
+Package pdftex.def Info: images/heterpaper.pdf , page9 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[259.256
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4213, page=10, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 10>
+Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 10>
+Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 10>
+Package pdftex.def Info: images/heterpaper.pdf , page10 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[260.257
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4222, page=11, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 11>
+Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 11>
+Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 11>
+Package pdftex.def Info: images/heterpaper.pdf , page11 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[261.258
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4227, page=12, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 12>
+Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 12>
+Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 12>
+Package pdftex.def Info: images/heterpaper.pdf , page12 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[262.259
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4236, page=13, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 13>
+Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 13>
+Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 13>
+Package pdftex.def Info: images/heterpaper.pdf , page13 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[263.260
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4243, page=14, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 14>
+Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 14>
+Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 14>
+Package pdftex.def Info: images/heterpaper.pdf , page14 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[264.261
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4250, page=15, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 15>
+Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 15>
+Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 15>
+Package pdftex.def Info: images/heterpaper.pdf , page15 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[265.262
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4256, page=16, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 16>
+Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 16>
+Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 16>
+Package pdftex.def Info: images/heterpaper.pdf , page16 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[266.263
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4261, page=17, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 17>
+Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 17>
+Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 17>
+Package pdftex.def Info: images/heterpaper.pdf , page17 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[267.264
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4266, page=18, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 18>
+Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 18>
+Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 18>
+Package pdftex.def Info: images/heterpaper.pdf , page18 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[268.265
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4272, page=19, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 19>
+Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 19>
+Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 19>
+Package pdftex.def Info: images/heterpaper.pdf , page19 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[269.266
+
+ <./images/heterpaper.pdf>]
+<images/heterpaper.pdf, id=4277, page=20, 597.50829pt x 845.0471pt>
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 20>
+Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 20>
+Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: images/heterpaper.pdf Graphic file (type pdf)
+<use images/heterpaper.pdf, page 20>
+Package pdftex.def Info: images/heterpaper.pdf , page20 used on input line 10.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[270.267
+
+ <./images/heterpaper.pdf>]
+<images/paper.pdf, id=4282, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf>
+Package pdftex.def Info: images/paper.pdf  used on input line 11.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<images/paper.pdf, id=4284, page=1, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 1>
+Package pdftex.def Info: images/paper.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 1>
+Package pdftex.def Info: images/paper.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 1>
+Package pdftex.def Info: images/paper.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 1>
+Package pdftex.def Info: images/paper.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 1>
+Package pdftex.def Info: images/paper.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[271.268
+
+ <./images/paper.pdf>]
+<images/paper.pdf, id=4346, page=2, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 2>
+Package pdftex.def Info: images/paper.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 2>
+Package pdftex.def Info: images/paper.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 2>
+Package pdftex.def Info: images/paper.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[272.269
+
+ <./images/paper.pdf>]
+<images/paper.pdf, id=4592, page=3, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 3>
+Package pdftex.def Info: images/paper.pdf , page3 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 3>
+Package pdftex.def Info: images/paper.pdf , page3 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 3>
+Package pdftex.def Info: images/paper.pdf , page3 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[273.270
+
+ <./images/paper.pdf>]
+<images/paper.pdf, id=4701, page=4, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 4>
+Package pdftex.def Info: images/paper.pdf , page4 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 4>
+Package pdftex.def Info: images/paper.pdf , page4 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 4>
+Package pdftex.def Info: images/paper.pdf , page4 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[274.271
+
+ <./images/paper.pdf>]
+<images/paper.pdf, id=4733, page=5, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 5>
+Package pdftex.def Info: images/paper.pdf , page5 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 5>
+Package pdftex.def Info: images/paper.pdf , page5 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 5>
+Package pdftex.def Info: images/paper.pdf , page5 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[275.272
+
+ <./images/paper.pdf>]
+<images/paper.pdf, id=5023, page=6, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 6>
+Package pdftex.def Info: images/paper.pdf , page6 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 6>
+Package pdftex.def Info: images/paper.pdf , page6 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 6>
+Package pdftex.def Info: images/paper.pdf , page6 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[276.273
+
+ <./images/paper.pdf>]
+<images/paper.pdf, id=5052, page=7, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 7>
+Package pdftex.def Info: images/paper.pdf , page7 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 7>
+Package pdftex.def Info: images/paper.pdf , page7 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 7>
+Package pdftex.def Info: images/paper.pdf , page7 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[277.274
+
+ <./images/paper.pdf>]
+<images/paper.pdf, id=5076, page=8, 614.295pt x 794.97pt>
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 8>
+Package pdftex.def Info: images/paper.pdf , page8 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 8>
+Package pdftex.def Info: images/paper.pdf , page8 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: images/paper.pdf Graphic file (type pdf)
+<use images/paper.pdf, page 8>
+Package pdftex.def Info: images/paper.pdf , page8 used on input line 11.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[278.275
+
+ <./images/paper.pdf>])
 \openout2 = `Dissertation/resume.aux'.
 
 
@@ -6057,6 +6830,51 @@ Dissertation/conclusion.tex
 Dissertation/references.tex
 dissertation.bbl
 Dissertation/publications.tex
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/JOSAB_detection.pdf
+images/qrng.pdf
+images/qrng.pdf
+images/qrng.pdf
+images/qrng.pdf
+images/qrng.pdf
+images/qrng.pdf
+images/qrng.pdf
+images/ICLO_2022_short.pdf
+images/ICLO_2022_short.pdf
+images/ICLO_2022_short.pdf
+images/feedback.pdf
+images/feedback.pdf
+images/feedback.pdf
+images/feedback.pdf
+images/feedback.pdf
+images/feedback.pdf
+images/feedback.pdf
+images/hybrid.pdf
+images/hybrid.pdf
+images/hybrid.pdf
+images/hybrid.pdf
+images/hybrid.pdf
+images/hybrid.pdf
+images/ICLO_2024_laser_pump.pdf
+images/ICLO_2024_laser_pump.pdf
+images/ICLO_2024_laser_pump.pdf
+images/ICLO_2024_laser_robustnes.pdf
+images/ICLO_2024_laser_robustnes.pdf
+images/ICLO_2024_laser_robustnes.pdf
 images/heterpaper.pdf
 images/heterpaper.pdf
 images/heterpaper.pdf
@@ -6079,6 +6897,16 @@ images/heterpaper.pdf
 images/heterpaper.pdf
 images/heterpaper.pdf
 images/heterpaper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
+images/paper.pdf
  ***********
 
 
@@ -6095,18 +6923,18 @@ Package rerunfilecheck Info: File `dissertation.out' has not changed.
 ### simple group (level 1) entered at line 114 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 39060 strings out of 468587
- 719319 string characters out of 5455223
- 1500443 words of memory out of 5000000
- 66063 multiletter control sequences out of 15000+600000
+ 39368 strings out of 468587
+ 729078 string characters out of 5455223
+ 1553606 words of memory out of 5000000
+ 66332 multiletter control sequences out of 15000+600000
  638827 words of font info for 67 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
- 92i,21n,96p,5642b,1122s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on dissertation.pdf (237 pages, 4375832 bytes).
+ 92i,21n,96p,5642b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on dissertation.pdf (275 pages, 6858976 bytes).
 PDF statistics:
- 3384 PDF objects out of 3580 (max. 8388607)
- 2722 compressed objects within 28 object streams
- 675 named destinations out of 1000 (max. 500000)
- 943 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5336 PDF objects out of 6186 (max. 8388607)
+ 4158 compressed objects within 42 object streams
+ 714 named destinations out of 1000 (max. 500000)
+ 1218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
