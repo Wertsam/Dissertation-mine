@@ -91,7 +91,7 @@ Key research results were presented and discussed at the following conferences:
 \section*{Personal contribution of the author}
 (the author's participation in all the stages of research, such as data collection or execution of experiments, approbation of the obtained results, design of experimental panels and plants (key elements of experimental plants), processing and interpretation of experimental data, publication of research papers, etc.)
 
-\section*{Thesis structure and number of pages} The dissertation consists of an introduction, four conclusion chapters, and two appendices. The full dissertation is 292 pages long, including 61 figures and 2 tables. The bibliography contains 116 titles.
+\section*{Thesis structure and number of pages} The dissertation consists of an introduction, four conclusion chapters, and two appendices. The full dissertation 306 pages long, including 61 figures and 2 tables. The bibliography contains 116 titles.
 \section*{Publications}
 Key results of research are described in nine publications. Four of them are published in journals recommended by the Higher Attestation Commission and one is published in a journal indexed by Scopus. One certificate of state registration of a computer program has also been obtained.\\
 
@@ -182,13 +182,13 @@ This appearance of the doubled frequency can be tracked in the frequency domain.
 As a result of its operation, it is possible to adjust the polarisation by using active polarisation control, which will use the FFT result as feedback to adjust the polarisation. 
 \begin{figure}
     \centering
-    \includegraphics[width=\linewidth]{Spectrum of ruined polarization.png}
+    \includegraphics[width=\linewidth]{spectrum_het_true_ruin_pol.png}
     \caption{Spectrum of ruined polarisation}
     \label{fig:ruined pol syn}
 \end{figure}
 \begin{figure}
     \centering
-    \includegraphics[width=\linewidth]{normal polarization.png}
+    \includegraphics[width=\linewidth]{spectrum_het_true_norm_pol.png}
     \caption{Spectrum of a signal with distorted polarisation}
     \label{fig:norm pol syn}
 \end{figure}
@@ -256,3 +256,41 @@ These results show that Eve is able to increase the output power instability to 
 \end{equation}, where $\alpha$ is the amount of isolation to be introduced, $P_a$ is the amount of probing power in dBm, $P_{req}$ is the power to which the input radiation needs to be attenuated, $\beta$ is the amount of isolation that is already implemented in the circuit, in dB. 
 Let's substitute in~\ref{eq:isolation syn} the values of 33 dBm of power, which corresponds to 2 watts of power and 50 dB of isolation. The resulting isolation value required to attenuate 2 watts to -35 dBm is 18 dB. To ensure the safety of this source, it is sufficient to install a fiber isolator with a typical isolation value of 30 dB. This will cover the entire allowable range of sensing power. 
 \newline The obtained results demonstrate the resistance of the proposed source of coherent radiation to external influences. To change its characteristics, an intruder needs to operate at powers close to those that trigger a spark in fibre-optic communication lines, which carries an increased risk of being detected. And protocols based on the protocol using an untrusted receiver node are not only secure from attacks of an intruder on receiver nodes in the form of single photon detectors, but also from attacks on single photon sources.
+In the \underline{conclusion} the main results and conclusions obtained during the work are presented.
+The \textbf{introduction} describes the relevance of the work and formulates its goals and objectives.
+\newline \textbf{Chapter} provides an overview of the current literature on quantum key distribution, its protocols, and modern attacks on its technical implementation.
+\newline \textbf{Chapter} \ref{ch:ch2} presents the results of creating a quantum key distribution system at side frequencies on continuous variables using optical injection as feedback for a local oscillator. A mathematical model of the optical injection method in semiconductor lasers is provided. The problem of synchronising the wavelengths of quantum states and the local oscillator is described. Key distribution is performed experimentally using the proposed synchronisation method.
+\newline \textbf{Section} \ref{sec:ch2/sect9} describes the principle of operation of the quantum key distribution system at side frequencies.
+\newline \textbf{Section} \ref{sec:ch2/sect1} describes the optical injection method and its advantages. A mathematical model is provided.
+\newline \textbf{Section} \ref{sec:ch2/sect2} provides a model of the frequency range in which the optical injection method can be implemented and the conditions for its occurrence.
+\newline \textbf{Section} \ref{sec:ch2/sect7} describes a method for measuring the wavelength of radiation from a local oscillator under the influence of external radiation and presents the results of experimental data obtained using this method.
+\newline \textbf{Section} \ref{sec:ch2/sect3} presents a mathematical model of heterodyne detection for a quantum key distribution system at side frequencies with optical injection. The results demonstrate that the signal received at the receiver side will only be observed at the modulation frequency.
+\newline \textbf{Section} \ref{sec:ch2/sect4} describes the features of a quantum key distribution system at side frequencies on continuous variables using optical injection, and describes the advantages of using optical injection.
+\newline \textbf{Section} \ref{sec:ch2/sect5} presents an experimental setup for a quantum key distribution system on side frequencies on continuous variables using optical injection.
+\newline \textbf{Section} \ref{sec:ch2/sect6} describes the results of the experiment. It is shown that the experimental results agree with the mathematical model described in section \ref{sec:ch2/sect3}, and the possibility of extracting information about the phase of quantum states from the intermediate frequency is demonstrated.
+\newline \textbf{Section} \ref{sec:ch2/sect8} presents the conclusions of the chapter.
+\newline \textbf{Chapter}\ref{ch:ch3} demonstrates the experimental implementation of a quantum key distribution system at side frequencies on continuous variables with two independent radiation sources without the use of feedback. The method of heterodyne signal reception and the protocol for forming a bit sequence for the described system are described.  A mathematical model of heterodyne signal detection for a quantum key distribution system at side frequencies with independent radiation sources is presented. A description of the experimental setup and experimental results is provided. The polarisation control algorithm is described and its effect is demonstrated.
+\newline \textbf{Section} \ref{sec:ch3/sect1} describes the heterodyne detection method and its advantages for a quantum key distribution system at side frequencies.
+\newline \textbf{Section} \ref{sec:ch3/sect2} describes the protocol for quantum key distribution at side frequencies using the heterodyne signal detection method.
+\newline \textbf{Section} \ref{sec:ch3/sect3} describes the optical scheme of an experiment to implement heterodyne signal detection for a sideband quantum key distribution system on continuous variables with two independent radiation sources.
+\newline \textbf{Section} \ref{sec:ch3/sect4} presents a mathematical model of heterodyne detection for the described system. The result is a signal at an intermediate frequency that coincides with the modulation frequency and carries information about the quantum state transmitted by Alice.
+\newline \textbf{Section} \ref{sec:ch3/sect5} describes the operation of the polarisation control algorithm for a quantum key distribution system at side frequencies on continuous variables with two independent radiation sources. It has been experimentally shown that polarisation distortions lead to a reduction in the number of spectral components in the output signal of the balanced detector, and the possibility of adjusting the polarisation based on the results of the Fast Fourier Transform applied to this signal has also been demonstrated.
+\newline \textbf{Section} \ref{sec:ch3/sect6} describes the experimental setup, its components, and how they work.
+\newline \textbf{Section} \ref{sec:ch3/sect7} describes and analyses the experimental results. It is shown that the information about the quantum states encoded by Alice is contained in the envelope of the signal at the output of the balanced detector, which is transmitted at the modulation frequency.
+\newline \textbf{Section} \ref{sec:ch3/sect8} presents the conclusions of the chapter.
+\newline \textbf{Chapter}\ref{ch:ch4} describes a new type of attack on a radiation source in the form of a distributed feedback laser (DFB-laser). An increase in the average output power and energy of pulses emitted by the laser under attack is experimentally demonstrated, with the current and pump pulse parameters remaining unchanged. The existing quantum key distribution system is analysed for resistance to this type of attack, and the minimum power required to carry out the attack is determined, as well as the necessary isolation to protect against it.
+\newline \textbf{Section} \ref{sec:ch4/sect1} describes the principle of the attack and compares it with an existing attack on an optical radiation source. A description of the experimental setup and its principle of operation is provided.
+\newline \textbf{Section} \ref{sec:ch4/sect3} presents measurements of the watt-ampere characteristics of the laser under the action of an 'optical pumping' attack at different attacker power levels. The differential quantum efficiency is calculated.
+\newline \textbf{Section} \ref{sec:ch4/sect4} describes the experimental results of measuring the dependence of the average power and energy of pulses emitted by a laser in a KRK system under the influence of different attacker pump powers.
+\newline \textbf{Section} \ref{sec:ch4/sect5}, the minimum isolation required to prevent an attack is calculated based on experimental data and information from the literature.
+\newline \textbf{section} \ref{sec:ch4/sect6}, the resistance of the quantum key distribution system is calculated from the open literature and its resistance to this type of attack is assessed.
+\newline \textbf{section} \ref{sec:ch4/sect7}, conclusions on the chapter are presented.
+\newline \textbf{Chapter}\ref{ch:ch5} is devoted to the study of the 'seeding' attack on a radiation source based on optical injection. A mathematical model of optical injection is described. A comparison of the characteristics of laser sources with and without optical injection is carried out. The experimental setup is described. The dependence of the output power and pulse characteristics on the ratio of the powers of the attacked and driving lasers is investigated. The dependence of the attack on the wavelength of the attacker's radiation source is described.
+\newline \textbf{Section} \ref{ch:ch5/sect1} motivates the need for the research conducted in this work.
+\newline \textbf{Section} \ref{ch:ch5/sect2} describes a mathematical model of a radiation source with optical injection. A comparison of the interference pattern of a pulsed laser source with and without optical injection is provided, and the visibility of the interference pattern is calculated.
+\newline \textbf{Section} \ref{ch:ch5/sect3} provides a diagram of the experimental setup and describes the radiation source under study based on optical injection. The parameters of the laser radiation under study are described.
+\newline \textbf{Section} \ref{ch:ch5/sect4} describes the experimental results. It is shown that external radiation from an attacker increases the average radiated power of the optical injection-based radiation source. An increase in pulse energy and the invariance of temporal characteristics are shown, and interference patterns under attack are investigated. The dependence of the attack on the wavelength of the attacker's seeding is also described.
+\newline \textbf{Section} \ref{ch:ch5/sect5} presents the conclusions of the chapter.
+
+
+
