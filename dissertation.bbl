@@ -28,6 +28,14 @@ Eavesdrop-detecting quantum communications channel~/ C.~H.~Bennett, G.~Brassard,
 \newblock Vol. 108. ---
 \newblock P.~130503.
 
+\bibitem{liu2013}
+\selectlanguageifdefined{english}
+Experimental Measurement-Device-Independent Quantum Key Distribution~/ Yang~Liu, Teng-Yun~Chen, Liu-Jun~Wang et~al.~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 2013. --- Sep. ---
+\newblock Vol. 111. ---
+\newblock P.~130502. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.111.130502}.
+
 \bibitem{zhao2008}
 \selectlanguageifdefined{english}
 Quantum hacking: Experimental demonstration of time-shift attack against practical quantum-key-distribution systems~/ Yi~Zhao, Chi-Hang~Fred~Fung, Bing~Qi et~al.~// \BibEmph{Phys. Rev. A}. ---
