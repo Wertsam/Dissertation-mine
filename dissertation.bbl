@@ -543,6 +543,13 @@ Secure polarization-independent subcarrier quantum key distribution in optical f
 \newblock Vol.~24. ---
 \newblock Pp.~2619--2633.
 
+\bibitem{fadeev2025b}
+\selectlanguageifdefined{english}
+Heterodyne Detection for a Subcarrier Wave Quantum Key Distribution System~/ M.~Fadeev, Polina~Morozova, Semen~Smirnov et~al.~// \BibEmph{Radiophysics and Quantum Electronics}. ---
+\newblock 2025. --- 10. ---
+\newblock Vol.~67. ---
+\newblock Pp.~707--714.
+
 \bibitem{yuan2016}
 \selectlanguageifdefined{english}
 Directly Phase-Modulated Light Source~/ Z.~L.~Yuan, B.~Fr\"ohlich, M.~Lucamarini et~al.~// \BibEmph{Phys. Rev. X}. ---
@@ -757,6 +764,12 @@ Continuously tunable solution-processed organic semiconductor {DFB} lasers pumpe
 \newblock Boston, MA: Springer US, 2010. ---
 \newblock Pp.~313--373. ---
 \newblock URL: \BibUrl{https://doi.org/10.1007/978-1-4419-1302-9_8}.
+
+\bibitem{fadeev2025}
+\selectlanguageifdefined{english}
+\BibEmph{Fadeev~Maxim, Ponosova~Anastasiya, Peng~Qingquan et~al.} Optical-pumping attack on a quantum key distribution laser source. ---
+\newblock 2025. ---
+\newblock URL: \BibUrl{https://arxiv.org/abs/2503.11239}.
 
 \bibitem{cassidy1984}
 \selectlanguageifdefined{english}

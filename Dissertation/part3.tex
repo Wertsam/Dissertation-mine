@@ -47,8 +47,8 @@ S(t) = (1+ m\sin(\Omega t  + \phi (t))),
 Лазерное излучение после модуляции выглядит следующим образом:
 \begin{align}
 \label{eq:laser_het}
-F_s(t) &= F(t) * S(t) = A_0 * \sin(\omega_0 t + \phi_0) + \frac{A_0 * m}{2} * (\cos((\omega_0 + \Omega)t + (\phi_0 + \phi (t))) - \notag \\
-&- \frac{A_0 * m}{2} * (\cos((\omega_0 - \Omega)t + (\phi_0 - \phi (t))),
+F_s(t) &= F(t) * S(t) = A_0 * \sin(\omega_0 t + \phi_0) + \frac{A_0 * m}{2} * (\cos((\omega_0 + \Omega)t + (\phi_0 + \phi (t)))) - \notag \\
+&- \frac{A_0 * m}{2} * (\cos((\omega_0 - \Omega)t + (\phi_0 - \phi (t)))),
 \end{align}
 
 Результат квадратичного детектирования сигнала, полученного в выражении~\eqref{eq:laser} будет выглядеть следующим образом:
@@ -61,7 +61,7 @@ F_s(t) &= F(t) * S(t) = A_0 * \sin(\omega_0 t + \phi_0) + \frac{A_0 * m}{2} * (\
         &+\frac{A_{sig}^2*A_{het}^2}{4}*\cos(2\omega*t +2\phi) +\frac{A_{sig}^2*A_{het}^2 *m^2}{8}*\cos(2\omega*t +2\phi)+  \\&
         +\frac{A_{sig}^2*A_{het}^2}{8} + \cos(2ft + 2\omega t + 2\phi) 
         + \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2ft + 2\omega t +4\phi) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m ^2}{8} * \cos(2\Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2ft - 2\Omega t + 2\phi) -  \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft - 2\omega t - 2\Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16}* \cos(2\omega t - 2\Omega t) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32}* \cos(2ft + 2\omega t - 2\Omega t + 4\phi) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2ft + 2\Omega t +2\phi) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft - 2\omega t + 2\Omega t) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2\omega t + 2\Omega t + 2\phi) -,
-        \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft - 2\omega t + 2\Omega t) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2\omega t + 2\Omega t + 2\phi) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft + 2\omega t + 2\Omega t + 4\phi)   +   \\& + \frac{A_{sig}^2 * A_{het}^2 * m}{2}* \sin(\Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m}{4} * \sin(2ft - \omega t + 2\phi) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft - 2\omega t - \Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m}{4}* \sin(2\omega t - \Omega t + 2\phi) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft + 2\omega t - \Omega t + 4\phi) + \frac{A_{sig}^2 * A_{het}^2 * m}{2ft + \Omega t + 2\phi} + \\&  +\frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft - 2\omega t + \Omega t) + \frac{A_{sig}^2 * A_{het}^2 * m}{4} * \sin(2\omega t + \Omega t + 2\phi) + \\& + \frac{A_{sig}^2 * A_{het}^2 * m}{8} * sin(2ft + 2\omega t + \Omega t + 4\phi)
+        \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft - 2\omega t + 2\Omega t) -   \\& - \frac{A_{sig}^2 * A_{het}^2 * m^2}{16} * \cos(2\omega t + 2\Omega t + 2\phi) - \frac{A_{sig}^2 * A_{het}^2 * m^2}{32} * \cos(2ft + 2\omega t + 2\Omega t + 4\phi)   +   \\& + \frac{A_{sig}^2 * A_{het}^2 * m}{2}* \sin(\Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m}{4} * \sin(2ft - \omega t + 2\phi) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft - 2\omega t - \Omega t) - \frac{A_{sig}^2 * A_{het}^2 * m}{4}* \sin(2\omega t - \Omega t + 2\phi) - \\& - \frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft + 2\omega t - \Omega t + 4\phi) + \frac{A_{sig}^2 * A_{het}^2 * m}{2ft + \Omega t + 2\phi} + \\&  +\frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft - 2\omega t + \Omega t) + \frac{A_{sig}^2 * A_{het}^2 * m}{4} * \sin(2\omega t + \Omega t + 2\phi) + \\& + \frac{A_{sig}^2 * A_{het}^2 * m}{8} * \sin(2ft + 2\omega t + \Omega t + 4\phi)
         \end{aligned}
     \end{equation}\label{eq:het_math_true}
 В результате ток, протекающий через фотодиод, будет определяться выражением:
@@ -113,7 +113,7 @@ F_s(t) &= F(t) * S(t) = A_0 * \sin(\omega_0 t + \phi_0) + \frac{A_0 * m}{2} * (\
 На выходе балансного детектора формируется гармонический сигнал состоящий из двух огибающих и несущей. Форма этого сигнала изображена на рисунке \ref*{fig: het true time}. 
 \begin{figure}
     \centering
-    \includegraphics*{толстые линии и исправлены названия сигнал после детектирования.png}
+    \includegraphics{толстые линии и исправлены названия сигнал после детектирования.png}
     \caption{Выходной сигнал с балансного детектора во временной области}
     \label{fig: het true time}
 \end{figure}

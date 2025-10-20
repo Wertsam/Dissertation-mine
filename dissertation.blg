@@ -20,44 +20,44 @@ A level-1 auxiliary file: Dissertation/publications.aux
 A level-1 auxiliary file: Dissertation/resume.aux
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/library.bib
-You've used 117 entries,
+You've used 119 entries,
             3126 wiz_defined-function locations,
-            1528 strings with 34188 characters,
-and the built_in function-call counts, 47686 in all, are:
-= -- 5943
-> -- 1601
-< -- 293
-+ -- 488
-- -- 371
-* -- 2929
-:= -- 4969
-add.period$ -- 541
-call.type$ -- 117
+            1540 strings with 34679 characters,
+and the built_in function-call counts, 48365 in all, are:
+= -- 6022
+> -- 1634
+< -- 295
++ -- 498
+- -- 379
+* -- 2972
+:= -- 5049
+add.period$ -- 549
+call.type$ -- 119
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 117
-duplicate$ -- 2476
-empty$ -- 3862
-format.name$ -- 371
-if$ -- 12433
+cite$ -- 119
+duplicate$ -- 2504
+empty$ -- 3917
+format.name$ -- 379
+if$ -- 12604
 int.to.chr$ -- 0
-int.to.str$ -- 117
+int.to.str$ -- 119
 missing$ -- 0
-newline$ -- 853
-num.names$ -- 348
-pop$ -- 544
+newline$ -- 866
+num.names$ -- 352
+pop$ -- 552
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2290
+skip$ -- 2321
 stack$ -- 0
-substring$ -- 1895
-swap$ -- 2188
-text.length$ -- 177
+substring$ -- 1923
+swap$ -- 2211
+text.length$ -- 178
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 265
-width$ -- 120
-write$ -- 2377
+while$ -- 269
+width$ -- 122
+write$ -- 2411
