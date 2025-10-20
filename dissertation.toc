@@ -28,7 +28,7 @@
 \contentsline {section}{\numberline {1.5}Известные атаки злоумышленника на источники лазерного излучения}{145}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}Атака "засевом" лазерным излучением}{146}{subsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.5.2}Атака на мощность локального осциллятора в системах квантового распределения ключа на непрерывных переменных}{147}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Выводы по главе}{148}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.3}Выводы по главе}{149}{subsection.1.5.3}%
 \contentsline {chapter}{\chapternumberline {2}Система квантового распределения ключа на боковых частотах с применением обратной связи}{150}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Система квантового распределения ключа на боковых частотах}{150}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Метод оптической инжекции}{153}{section.2.2}%

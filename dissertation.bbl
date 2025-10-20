@@ -153,6 +153,13 @@ Overcoming the rate--distance limit of quantum key distribution without quantum 
 \newblock Vol. 557. ---
 \newblock P.~400.
 
+\bibitem{liu2019}
+\selectlanguageifdefined{english}
+Experimental Twin-Field Quantum Key Distribution through Sending or Not Sending~/ Yang~Liu, Zong-Wen~Yu, Weijun~Zhang et~al.~// \BibEmph{Physical Review Letters}. ---
+\newblock 2019. --- sep. ---
+\newblock Vol. 123, no.~10. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.1103/PhysRevLett.123.100505}.
+
 \bibitem{gobby2004}
 \selectlanguageifdefined{english}
 \BibEmph{Gobby~C., Yuan~Z.~L., Shields~A.~J.} Quantum key distribution over 122 km of standard telecom fiber~// \BibEmph{Appl. Phys. Lett.} ---
