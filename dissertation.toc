@@ -4,7 +4,7 @@
 \contentsline {chapter}{Реферат}{9}{chapter*.2}%
 \contentsline {chapter}{Synopsis}{47}{chapter*.18}%
 \contentsline {chapter}{Введение}{82}{chapter*.33}%
-\contentsline {chapter}{\chapternumberline {1}Обзор литературы}{94}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {1}Подходы к созданию систем квантового распределения ключей и атаки на их техничексую реализацию}{94}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Протоколы квантовой коммуникации}{94}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Протоколы квантовой коммуникации на дискретных переменных }{95}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}Протокол BB84}{96}{subsection.1.1.2}%
@@ -20,7 +20,7 @@
 \contentsline {subsubsection}{Этапы протокола с использованием модуляции Гаусса}{131}{section*.46}%
 \contentsline {subsubsection}{Экспериментальная реализация протокола с модуляцией Гаусса}{132}{section*.47}%
 \contentsline {subsection}{\numberline {1.3.2}Протокол квантового распределения ключа с использованием модуляции Гаусса и локальным осциллятором, сгенерированным на приемной стороне}{135}{subsection.1.3.2}%
-\contentsline {subsubsection}{Экспериментальная реализация протокола КРК на непрерывных переменных с модуляцией Гаусса.}{137}{section*.48}%
+\contentsline {subsubsection}{Экспериментальная реализация протокола КРК на непрерывных переменных с модуляцией Гаусса}{137}{section*.48}%
 \contentsline {section}{\numberline {1.4}Фазовый шум в системах квантового распределения ключа}{140}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}Методы борьбы с фазовым шумом в системах квантового распределения ключа}{141}{subsection.1.4.1}%
 \contentsline {subsubsection}{Пилотные импульсы}{142}{section*.49}%
@@ -34,8 +34,8 @@
 \contentsline {section}{\numberline {2.2}Метод оптической инжекции}{151}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Математическая модель оптической инжекции}{152}{subsection.2.2.1}%
 \contentsline {section}{\numberline {2.3}Определение частотного диапазона фазовой синхронизации двух когерентных источников излучения}{153}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Изменение длины волны излучения локального осциллятора под действием внешнего излучения.}{154}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Математическая модель гетеродинного детектирования для системы КРК на боковых частотах с применением обратной связи.}{156}{section.2.5}%
+\contentsline {section}{\numberline {2.4}Изменение длины волны излучения локального осциллятора под действием внешнего излучения}{154}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Математическая модель гетеродинного детектирования для системы КРК на боковых частотах с применением обратной связи}{156}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Система квантового распределения ключей на боковых частотах с применением метода оптической инжекции}{157}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Описание экспериментальной установки}{158}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Полученные экспериментальные результаты}{159}{section.2.8}%
