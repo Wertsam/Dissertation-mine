@@ -7,6 +7,34 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{hamza2020}
+\selectlanguageifdefined{english}
+\BibEmph{Hamza~Aljaafari, Kumar~Basant}. A Review Paper on DES, AES, RSA Encryption Standards. ---
+\newblock 2020. ---
+\newblock Pp.~333--338.
+
+\bibitem{rybalov2023}
+\selectlanguageifdefined{english}
+\BibEmph{Rybalov~A.~N.} On Generic Complexity of the Integer Factorization Problem~// \BibEmph{Prikladnaya Diskretnaya Matematika}. ---
+\newblock 2023. ---
+\newblock no.~61. ---
+\newblock Pp.~122--126.
+
+\bibitem{gouzien2021}
+\selectlanguageifdefined{english}
+\BibEmph{Gouzien~\'Elie, Sangouard~Nicolas}. Factoring 2048-bit RSA Integers in 177 Days with 13 436 Qubits and a Multimode Memory~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 2021. --- Sep. ---
+\newblock Vol. 127. ---
+\newblock P.~140503. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.127.140503}.
+
+\bibitem{ekert1991}
+\selectlanguageifdefined{english}
+\BibEmph{Ekert~A.~K.} Quantum {C}ryptography {B}ased on {B}ell's {T}heorem~// \BibEmph{Phys. Rev. Lett.} ---
+\newblock 1991. ---
+\newblock Vol.~67, no.~6. ---
+\newblock Pp.~661--663.
+
 \bibitem{bennett1984a}
 \selectlanguageifdefined{english}
 Eavesdrop-detecting quantum communications channel~/ C.~H.~Bennett, G.~Brassard, S.~Breidbart, S.~Wiesner~// \BibEmph{IBM Tech. Discl. Bull.} ---
@@ -376,13 +404,6 @@ Field test of a continuous-variable quantum key distribution prototype~/ S.~Foss
 \newblock 2009. ---
 \newblock Vol.~11, no.~4. ---
 \newblock P.~045023.
-
-\bibitem{ekert1991}
-\selectlanguageifdefined{english}
-\BibEmph{Ekert~A.~K.} Quantum {C}ryptography {B}ased on {B}ell's {T}heorem~// \BibEmph{Phys. Rev. Lett.} ---
-\newblock 1991. ---
-\newblock Vol.~67, no.~6. ---
-\newblock Pp.~661--663.
 
 \bibitem{jouguet2013a}
 \selectlanguageifdefined{english}
