@@ -42,6 +42,14 @@ Eavesdrop-detecting quantum communications channel~/ C.~H.~Bennett, G.~Brassard,
 \newblock Vol.~26. ---
 \newblock Pp.~4363--4366.
 
+\bibitem{arbekov2025}
+\selectlanguageifdefined{english}
+\BibEmph{Arbekov~I.~M., Molotkov~S.~N.} Vernam's, Kotelnikov's, and Shannon's one-time pad and quantum cryptography~// \BibEmph{Phys. Usp.} ---
+\newblock 2025. ---
+\newblock Vol.~68, no.~10. ---
+\newblock Pp.~963--986. ---
+\newblock URL: \BibUrl{https://ufn.ru/en/articles/2025/10/a/}.
+
 \bibitem{bennett1992}
 \selectlanguageifdefined{english}
 \BibEmph{Bennett~C.~H.} Quantum Cryptography Using Any 2 Nonorthogonal States~// \BibEmph{Phys. Rev. Lett.} ---
