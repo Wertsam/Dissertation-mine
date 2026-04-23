@@ -20,46 +20,44 @@ A level-1 auxiliary file: Dissertation/publications.aux
 A level-1 auxiliary file: Dissertation/resume.aux
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/library.bib
-Warning--empty journal in hamza2020
 You've used 124 entries,
             3126 wiz_defined-function locations,
             1573 strings with 35920 characters,
-and the built_in function-call counts, 50329 in all, are:
-= -- 6270
+and the built_in function-call counts, 50341 in all, are:
+= -- 6274
 > -- 1683
 < -- 306
 + -- 514
 - -- 390
-* -- 3095
-:= -- 5250
+* -- 3097
+:= -- 5251
 add.period$ -- 574
 call.type$ -- 124
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 125
+cite$ -- 124
 duplicate$ -- 2605
-empty$ -- 4089
+empty$ -- 4090
 format.name$ -- 390
-if$ -- 13116
+if$ -- 13121
 int.to.chr$ -- 0
 int.to.str$ -- 124
 missing$ -- 0
 newline$ -- 902
 num.names$ -- 367
-pop$ -- 575
+pop$ -- 573
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
 skip$ -- 2405
 stack$ -- 0
 substring$ -- 2023
-swap$ -- 2297
+swap$ -- 2299
 text.length$ -- 184
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
+warning$ -- 0
 while$ -- 282
 width$ -- 127
-write$ -- 2510
-(There was 1 warning)
+write$ -- 2511

@@ -9,7 +9,7 @@
 
 \bibitem{hamza2020}
 \selectlanguageifdefined{english}
-\BibEmph{Hamza~Aljaafari, Kumar~Basant}. A Review Paper on DES, AES, RSA Encryption Standards. ---
+\BibEmph{Hamza~Aljaafari, Kumar~Basant}. A Review Paper on DES, AES, RSA Encryption Standards~// \BibEmph{2020 9th International Conference System Modeling and Advancement in Research Trends (SMART)}. ---
 \newblock 2020. ---
 \newblock Pp.~333--338.
 
