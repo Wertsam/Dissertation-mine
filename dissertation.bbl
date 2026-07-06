@@ -50,6 +50,14 @@ Eavesdrop-detecting quantum communications channel~/ C.~H.~Bennett, G.~Brassard,
 \newblock Pp.~963--986. ---
 \newblock URL: \BibUrl{https://ufn.ru/en/articles/2025/10/a/}.
 
+\bibitem{abidin2014}
+\selectlanguageifdefined{english}
+\BibEmph{Abidin~Aysajan, Åke Larsson~Jan}. Direct proof of security of Wegman–Carter authentication with partially known key~// \BibEmph{Quantum Information Processing}. ---
+\newblock 2014. ---
+\newblock Vol.~13, no.~10. ---
+\newblock Pp.~2155--2170. ---
+\newblock URL: \BibUrl{https://doi.org/10.1007/s11128-013-0641-6}.
+
 \bibitem{bennett1992}
 \selectlanguageifdefined{english}
 \BibEmph{Bennett~C.~H.} Quantum Cryptography Using Any 2 Nonorthogonal States~// \BibEmph{Phys. Rev. Lett.} ---
