@@ -1,63 +1,36 @@
-This is BibTeX, Version 0.99d (TeX Live 2025)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+This is 8-bit Big BibTeX version 0.99d-x4.02 (TeX Live 2026)
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 4.02 (25 jan 2026)
+
+The 8-bit codepage and sorting file: utf8cyrillic.csf
 The top-level auxiliary file: dissertation.aux
 The style file: BibTeX-Styles/utf8gost71u.bst
-A level-1 auxiliary file: Dissertation/title.aux
-A level-1 auxiliary file: Dissertation/contents.aux
-A level-1 auxiliary file: Dissertation/ref.aux
-A level-1 auxiliary file: Dissertation/syn.aux
-A level-1 auxiliary file: Dissertation/introduction.aux
-A level-1 auxiliary file: Dissertation/part1.aux
-A level-1 auxiliary file: Dissertation/part2.aux
-A level-1 auxiliary file: Dissertation/part3.aux
-A level-1 auxiliary file: Dissertation/part4.aux
-A level-1 auxiliary file: Dissertation/part5.aux
-A level-1 auxiliary file: Dissertation/conclusion.aux
-A level-1 auxiliary file: Dissertation/acronyms.aux
-A level-1 auxiliary file: Dissertation/references.aux
-A level-1 auxiliary file: Dissertation/lists.aux
-A level-1 auxiliary file: Dissertation/publications.aux
-A level-1 auxiliary file: Dissertation/resume.aux
+A level-1 auxilliary file: Dissertation/title.aux
+A level-1 auxilliary file: Dissertation/contents.aux
+A level-1 auxilliary file: Dissertation/ref.aux
+A level-1 auxilliary file: Dissertation/syn.aux
+A level-1 auxilliary file: Dissertation/introduction.aux
+A level-1 auxilliary file: Dissertation/part1.aux
+A level-1 auxilliary file: Dissertation/part2.aux
+A level-1 auxilliary file: Dissertation/part3.aux
+A level-1 auxilliary file: Dissertation/part4.aux
+A level-1 auxilliary file: Dissertation/part5.aux
+A level-1 auxilliary file: Dissertation/conclusion.aux
+A level-1 auxilliary file: Dissertation/acronyms.aux
+A level-1 auxilliary file: Dissertation/references.aux
+A level-1 auxilliary file: Dissertation/lists.aux
+A level-1 auxilliary file: Dissertation/publications.aux
+A level-1 auxilliary file: Dissertation/resume.aux
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=200001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/library.bib
-You've used 125 entries,
-            3126 wiz_defined-function locations,
-            1581 strings with 36161 characters,
-and the built_in function-call counts, 50829 in all, are:
-= -- 6337
-> -- 1692
-< -- 309
-+ -- 517
-- -- 392
-* -- 3130
-:= -- 5298
-add.period$ -- 580
-call.type$ -- 125
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 125
-duplicate$ -- 2629
-empty$ -- 4132
-format.name$ -- 392
-if$ -- 13249
-int.to.chr$ -- 0
-int.to.str$ -- 125
-missing$ -- 0
-newline$ -- 910
-num.names$ -- 370
-pop$ -- 576
-preamble$ -- 1
-purify$ -- 0
-quote$ -- 0
-skip$ -- 2426
-stack$ -- 0
-substring$ -- 2059
-swap$ -- 2322
-text.length$ -- 186
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 285
-width$ -- 128
-write$ -- 2534
+
+Here's how much of BibTeX's memory you used:
+ Cites:               125 out of 750
+ Fields:             4342 out of 5000
+ Hash table:         9460 out of 10000
+ Strings:            1581 out of 10000
+ Free string pool:  36142 out of 65000
+ Wizard functions:   3126 out of 6000

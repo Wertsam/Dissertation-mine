@@ -52,7 +52,7 @@ Eavesdrop-detecting quantum communications channel~/ C.~H.~Bennett, G.~Brassard,
 
 \bibitem{abidin2014}
 \selectlanguageifdefined{english}
-\BibEmph{Abidin~Aysajan, Åke Larsson~Jan}. Direct proof of security of Wegman–Carter authentication with partially known key~// \BibEmph{Quantum Information Processing}. ---
+\BibEmph{Abidin~Aysajan, Larsson~Jan-Åke}. Direct proof of security of Wegman–Carter authentication with partially known key~// \BibEmph{Quantum Information Processing}. ---
 \newblock 2014. ---
 \newblock Vol.~13, no.~10. ---
 \newblock Pp.~2155--2170. ---
@@ -633,7 +633,7 @@ Optically injected intensity-stable pulse source for secure quantum key distribu
 
 \bibitem{shakhovoy2024}
 \selectlanguageifdefined{english}
-\BibEmph{Р.А.~Шаховой}. Динамика полупроводниковых лазеров: Учебное пособие для вузов. ---
+\BibEmph{Шаховой Р.А.} Динамика полупроводниковых лазеров: Учебное пособие для вузов. ---
 \newblock 1 edition. ---
 \newblock Издательство "Лань", 2024.
 
