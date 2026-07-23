@@ -28,9 +28,9 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/library.bib
 
 Here's how much of BibTeX's memory you used:
- Cites:               125 out of 750
- Fields:             4342 out of 5000
- Hash table:         9460 out of 10000
- Strings:            1581 out of 10000
- Free string pool:  36142 out of 65000
+ Cites:               127 out of 750
+ Fields:             4412 out of 5000
+ Hash table:         9455 out of 10000
+ Strings:            1593 out of 10000
+ Free string pool:  36657 out of 65000
  Wizard functions:   3126 out of 6000

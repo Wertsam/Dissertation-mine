@@ -65,6 +65,28 @@ Eavesdrop-detecting quantum communications channel~/ C.~H.~Bennett, G.~Brassard,
 \newblock Vol.~68, no.~21. ---
 \newblock Pp.~3121--3124.
 
+\bibitem{makarov2009}
+\selectlanguageifdefined{english}
+\BibEmph{Makarov~V.} Controlling passively quenched single photon detectors by bright light~// \BibEmph{New J. Phys.} ---
+\newblock 2009. ---
+\newblock Vol.~11, no.~6. ---
+\newblock P.~065003.
+
+\bibitem{makarov2006}
+\selectlanguageifdefined{english}
+\BibEmph{Makarov~V., Anisimov~A., Skaar~J.} Effects of detector efficiency mismatch on security of quantum cryptosystems~// \BibEmph{Phys. Rev. A}. ---
+\newblock 2006. ---
+\newblock Vol.~74, no.~2. ---
+\newblock P.~022313. ---
+\newblock erratum ibid. \textbf{78}, 019905 (2008).
+
+\bibitem{pinheiro2018}
+\selectlanguageifdefined{english}
+Eavesdropping and countermeasures for backflash side channel in quantum cryptography~/ Paulo Vinicius~Pereira~Pinheiro, Poompong~Chaiwongkhot, Shihan~Sajeed et~al.~// \BibEmph{Opt. Express}. ---
+\newblock 2018. ---
+\newblock Vol.~26, no.~16. ---
+\newblock Pp.~21020--21032.
+
 \bibitem{lo2012}
 \selectlanguageifdefined{english}
 \BibEmph{Lo~H.-K., Curty~M., Qi~B.} Measurement-device-independent quantum key distribution~// \BibEmph{Phys. Rev. Lett.} ---
@@ -503,13 +525,6 @@ High-speed Gaussian-modulated continuous-variable quantum key distribution with 
 \newblock Vol.~35, no.~4. ---
 \newblock P.~042016. ---
 \newblock URL: \BibUrl{https://doi.org/10.2351/7.0001068}.
-
-\bibitem{makarov2009}
-\selectlanguageifdefined{english}
-\BibEmph{Makarov~V.} Controlling passively quenched single photon detectors by bright light~// \BibEmph{New J. Phys.} ---
-\newblock 2009. ---
-\newblock Vol.~11, no.~6. ---
-\newblock P.~065003.
 
 \bibitem{sajeed2020}
 \selectlanguageifdefined{english}
